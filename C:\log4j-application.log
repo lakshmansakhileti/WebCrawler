@@ -1,0 +1,594 @@
+2016-03-13 19:30:04 INFO  FileHelper:21 - creating directory: /home/lakshmanar/YEAR 2016
+2016-03-13 19:30:04 INFO  FileHelper:30 - Directory  created with name /home/lakshmanar/YEAR 2016
+2016-03-13 19:30:04 INFO  WebCrawler:35 - Crawler Base URL  :http://mail-archives.apache.org/mod_mbox/maven-users/
+2016-03-13 19:30:04 INFO  WebCrawler:37 - Reading mail of year 2016
+2016-03-13 19:32:13 INFO  FileHelper:21 - creating directory: /home/lakshmanar/YEAR 2016/201603.mbox
+2016-03-13 19:32:13 INFO  FileHelper:30 - Directory  created with name /home/lakshmanar/YEAR 2016/201603.mbox
+2016-03-13 19:32:13 INFO  FileDownloader:28 - Source url :http://mail-archives.apache.org/mod_mbox/maven-users/201603.mbox/%3c03C4D574-5F08-44D0-8DDA-E59E1AA03214@tu-clausthal.de%3e
+2016-03-13 19:32:13 INFO  FileDownloader:29 - Destination url : /home/lakshmanar/YEAR 2016/201603.mbox/Tue 01 Mar 21:44.txt
+2016-03-13 19:32:13 INFO  FileDownloader:28 - Source url :http://mail-archives.apache.org/mod_mbox/maven-users/201603.mbox/%3cCAE-KMXBGrH+VCYZbtxLJHoP4BZU3ZDi93pFyWBW2PZ+PDDBtEA@mail.gmail.com%3e
+2016-03-13 19:32:13 INFO  FileDownloader:29 - Destination url : /home/lakshmanar/YEAR 2016/201603.mbox/Tue 01 Mar 21:47.txt
+2016-03-13 19:32:13 INFO  FileDownloader:28 - Source url :http://mail-archives.apache.org/mod_mbox/maven-users/201603.mbox/%3c180236BB-546D-4805-806D-813000C75163@tu-clausthal.de%3e
+2016-03-13 19:32:13 INFO  FileDownloader:28 - Source url :http://mail-archives.apache.org/mod_mbox/maven-users/201603.mbox/%3c20160301221512.3724A47C08F4@dd7514.kasserver.com%3e
+2016-03-13 19:32:13 INFO  FileDownloader:28 - Source url :http://mail-archives.apache.org/mod_mbox/maven-users/201603.mbox/%3c20160302000711.E520947C2730@dd7514.kasserver.com%3e
+2016-03-13 19:32:13 INFO  FileDownloader:29 - Destination url : /home/lakshmanar/YEAR 2016/201603.mbox/Tue 01 Mar 22:03.txt
+2016-03-13 19:32:13 INFO  FileDownloader:28 - Source url :http://mail-archives.apache.org/mod_mbox/maven-users/201603.mbox/%3cCAE-KMXCPkvgBgXfqV4D_3tHEPbouqK9cWPz9+1=k+CcF0paJjw@mail.gmail.com%3e
+2016-03-13 19:32:13 INFO  FileDownloader:29 - Destination url : /home/lakshmanar/YEAR 2016/201603.mbox/Tue 01 Mar 22:06.txt
+2016-03-13 19:32:13 INFO  FileDownloader:29 - Destination url : /home/lakshmanar/YEAR 2016/201603.mbox/Wed 02 Mar 00:07.txt
+2016-03-13 19:32:13 INFO  FileDownloader:29 - Destination url : /home/lakshmanar/YEAR 2016/201603.mbox/Tue 01 Mar 22:15.txt
+2016-03-13 19:32:13 INFO  FileDownloader:28 - Source url :http://mail-archives.apache.org/mod_mbox/maven-users/201603.mbox/%3c3EE20F1D-9296-4F46-9FD2-52DA9DF3A00A@takari.io%3e
+2016-03-13 19:32:13 INFO  FileDownloader:29 - Destination url : /home/lakshmanar/YEAR 2016/201603.mbox/Wed 02 Mar 01:20.txt
+2016-03-13 19:32:13 INFO  FileDownloader:28 - Source url :http://mail-archives.apache.org/mod_mbox/maven-users/201603.mbox/%3cE37F028D-1A50-4F1C-A0F1-5C98789D6279@tu-clausthal.de%3e
+2016-03-13 19:32:13 INFO  FileDownloader:28 - Source url :http://mail-archives.apache.org/mod_mbox/maven-users/201603.mbox/%3c20160301220021.E286D47C04EC@dd7514.kasserver.com%3e
+2016-03-13 19:32:13 INFO  FileDownloader:29 - Destination url : /home/lakshmanar/YEAR 2016/201603.mbox/Tue 01 Mar 22:00.txt
+2016-03-13 19:32:13 INFO  FileDownloader:28 - Source url :http://mail-archives.apache.org/mod_mbox/maven-users/201603.mbox/%3c1117518061.2095613.1456897151404.JavaMail.yahoo@mail.yahoo.com%3e
+2016-03-13 19:32:13 INFO  FileDownloader:29 - Destination url : /home/lakshmanar/YEAR 2016/201603.mbox/Wed 02 Mar 05:39.txt
+2016-03-13 19:32:13 INFO  FileDownloader:29 - Destination url : /home/lakshmanar/YEAR 2016/201603.mbox/Tue 01 Mar 22:03.txt
+2016-03-13 19:32:13 INFO  FileDownloader:28 - Source url :http://mail-archives.apache.org/mod_mbox/maven-users/201603.mbox/%3cCA+nPnMz=d-chzRtvbJUs2+pHv0rtPpw0tVpbKVV5CPZdv4MEnw@mail.gmail.com%3e
+2016-03-13 19:32:13 INFO  FileDownloader:29 - Destination url : /home/lakshmanar/YEAR 2016/201603.mbox/Mon 07 Mar 09:04.txt
+2016-03-13 19:32:13 INFO  FileDownloader:28 - Source url :http://mail-archives.apache.org/mod_mbox/maven-users/201603.mbox/%3cCA+T+PjHfuWBaO8j9d9XxQ4nqLgSztg9tU0n+3QoeHW-63eOHnw@mail.gmail.com%3e
+2016-03-13 19:32:13 INFO  FileDownloader:29 - Destination url : /home/lakshmanar/YEAR 2016/201603.mbox/Mon 07 Mar 19:18.txt
+2016-03-13 19:32:13 INFO  FileDownloader:28 - Source url :http://mail-archives.apache.org/mod_mbox/maven-users/201603.mbox/%3cCACZkXPwve5s2tL7=zjTQ1Tt-y9tAJ+X7NZQAdUMwjxmPwA3SXQ@mail.gmail.com%3e
+2016-03-13 19:32:13 INFO  FileDownloader:29 - Destination url : /home/lakshmanar/YEAR 2016/201603.mbox/Tue 08 Mar 00:15.txt
+2016-03-13 19:32:13 INFO  FileDownloader:28 - Source url :http://mail-archives.apache.org/mod_mbox/maven-users/201603.mbox/%3cCA+T+PjHwB7pu7dQqbcz42trrCZNLbnFj50ZYUMVkF2aY7OOjLw@mail.gmail.com%3e
+2016-03-13 19:32:13 INFO  FileDownloader:29 - Destination url : /home/lakshmanar/YEAR 2016/201603.mbox/Tue 08 Mar 02:53.txt
+2016-03-13 19:32:13 INFO  FileDownloader:28 - Source url :http://mail-archives.apache.org/mod_mbox/maven-users/201603.mbox/%3cCACZkXPwj+rzy-1kpBfShQBeYiAGDk9g2vu4Rdub7iS6jgQ8VfA@mail.gmail.com%3e
+2016-03-13 19:32:13 INFO  FileDownloader:29 - Destination url : /home/lakshmanar/YEAR 2016/201603.mbox/Tue 08 Mar 18:48.txt
+2016-03-13 19:32:13 INFO  FileDownloader:28 - Source url :http://mail-archives.apache.org/mod_mbox/maven-users/201603.mbox/%3cCA+nPnMz=dymj0t8jdTQZf__jbEZpiq85Ond=_XCzmjEQhfGhzg@mail.gmail.com%3e
+2016-03-13 19:32:13 INFO  FileDownloader:29 - Destination url : /home/lakshmanar/YEAR 2016/201603.mbox/Tue 08 Mar 19:28.txt
+2016-03-13 19:32:13 INFO  FileDownloader:28 - Source url :http://mail-archives.apache.org/mod_mbox/maven-users/201603.mbox/%3cCACZkXPxLRhZa0a9y4w_ZqJdKARL8RBJLhcyZp4HwYBH9Exi-qw@mail.gmail.com%3e
+2016-03-13 19:32:13 INFO  FileDownloader:29 - Destination url : /home/lakshmanar/YEAR 2016/201603.mbox/Tue 08 Mar 19:33.txt
+2016-03-13 19:32:13 INFO  FileDownloader:28 - Source url :http://mail-archives.apache.org/mod_mbox/maven-users/201603.mbox/%3cCA+nPnMztK1h_UN10u+n=kfg9G_3y=hWOdPS6Ppu2OCL9FafTkQ@mail.gmail.com%3e
+2016-03-13 19:32:13 INFO  FileDownloader:29 - Destination url : /home/lakshmanar/YEAR 2016/201603.mbox/Tue 08 Mar 20:38.txt
+2016-03-13 19:32:13 INFO  FileDownloader:28 - Source url :http://mail-archives.apache.org/mod_mbox/maven-users/201603.mbox/%3cCALhtWkceHu5RBNPDKK2+N=m3uJxpOLL9Vs+c+S0P297K9_6BCg@mail.gmail.com%3e
+2016-03-13 19:32:13 INFO  FileDownloader:29 - Destination url : /home/lakshmanar/YEAR 2016/201603.mbox/Wed 09 Mar 13:40.txt
+2016-03-13 19:32:13 INFO  FileDownloader:28 - Source url :http://mail-archives.apache.org/mod_mbox/maven-users/201603.mbox/%3cCA+nPnMxPtQUF=8N9Crwarb_pnP1XgKVXj4SFoNXksjVfd_vDfw@mail.gmail.com%3e
+2016-03-13 19:32:13 INFO  FileDownloader:29 - Destination url : /home/lakshmanar/YEAR 2016/201603.mbox/Wed 09 Mar 13:44.txt
+2016-03-13 19:32:13 INFO  FileDownloader:28 - Source url :http://mail-archives.apache.org/mod_mbox/maven-users/201603.mbox/%3cCAPLpRQK1Zv6dyhhKhjgEHskZsjpnM8J-D0gCs=QafRJv=pODJA@mail.gmail.com%3e
+2016-03-13 19:32:13 INFO  FileDownloader:29 - Destination url : /home/lakshmanar/YEAR 2016/201603.mbox/Wed 09 Mar 13:51.txt
+2016-03-13 19:32:13 INFO  FileDownloader:28 - Source url :http://mail-archives.apache.org/mod_mbox/maven-users/201603.mbox/%3cCALhtWkeAti2F+S+k3EPO1MEcvCCoOsUWc0BGhXwB8vsNVu7E3A@mail.gmail.com%3e
+2016-03-13 19:32:13 INFO  FileDownloader:28 - Source url :http://mail-archives.apache.org/mod_mbox/maven-users/201603.mbox/%3cCA+nPnMwRy45JmeWb4SwQDyDvaByJ2uEU1YNHhu+KdSyvzYHHuw@mail.gmail.com%3e
+2016-03-13 19:32:13 INFO  FileDownloader:29 - Destination url : /home/lakshmanar/YEAR 2016/201603.mbox/Wed 09 Mar 20:15.txt
+2016-03-13 19:32:13 INFO  FileDownloader:29 - Destination url : /home/lakshmanar/YEAR 2016/201603.mbox/Wed 09 Mar 20:20.txt
+2016-03-13 19:32:13 INFO  FileDownloader:28 - Source url :http://mail-archives.apache.org/mod_mbox/maven-users/201603.mbox/%3cCALhtWkfUW2QziUY5Lz3kXkHcyncuntKXBZZJgcA+8wqTtj34sg@mail.gmail.com%3e
+2016-03-13 19:32:13 INFO  FileDownloader:29 - Destination url : /home/lakshmanar/YEAR 2016/201603.mbox/Wed 09 Mar 20:24.txt
+2016-03-13 19:32:13 INFO  FileDownloader:28 - Source url :http://mail-archives.apache.org/mod_mbox/maven-users/201603.mbox/%3cCALhtWkeb49TqVR2bAB8O3+eEibOXtg=NG5RVb3jTVcD9BjTqSA@mail.gmail.com%3e
+2016-03-13 19:32:13 INFO  FileDownloader:29 - Destination url : /home/lakshmanar/YEAR 2016/201603.mbox/Wed 09 Mar 22:12.txt
+2016-03-13 19:32:13 INFO  FileDownloader:28 - Source url :http://mail-archives.apache.org/mod_mbox/maven-users/201603.mbox/%3cCALhtWkf2VBFXE=AUJwt15o3bGBrEcw9SC1JOiBM8q1dbugbKuQ@mail.gmail.com%3e
+2016-03-13 19:32:13 INFO  FileDownloader:29 - Destination url : /home/lakshmanar/YEAR 2016/201603.mbox/Wed 09 Mar 22:14.txt
+2016-03-13 19:32:13 INFO  FileDownloader:28 - Source url :http://mail-archives.apache.org/mod_mbox/maven-users/201603.mbox/%3cCALhtWkegjLMrtrSVmX=4D0C4tVA2Eae_TRTw8dHnYqxd0g3tdQ@mail.gmail.com%3e
+2016-03-13 19:32:13 INFO  FileDownloader:29 - Destination url : /home/lakshmanar/YEAR 2016/201603.mbox/Wed 09 Mar 22:22.txt
+2016-03-13 19:32:14 INFO  FileDownloader:28 - Source url :http://mail-archives.apache.org/mod_mbox/maven-users/201603.mbox/%3cCA+nPnMxvWxV1cj5JQH7vBHAJqsvUz39sK_4_3ZxAUYLY3JDBtg@mail.gmail.com%3e
+2016-03-13 19:32:14 INFO  FileDownloader:29 - Destination url : /home/lakshmanar/YEAR 2016/201603.mbox/Thu 10 Mar 08:00.txt
+2016-03-13 19:32:14 INFO  FileDownloader:28 - Source url :http://mail-archives.apache.org/mod_mbox/maven-users/201603.mbox/%3cCA+nPnMzKWH+2dGZc2m1n6K9pGvBVtqaA249B2xCXd5J_gcyhwg@mail.gmail.com%3e
+2016-03-13 19:32:14 INFO  FileDownloader:29 - Destination url : /home/lakshmanar/YEAR 2016/201603.mbox/Thu 10 Mar 08:04.txt
+2016-03-13 19:32:14 INFO  FileDownloader:28 - Source url :http://mail-archives.apache.org/mod_mbox/maven-users/201603.mbox/%3cCALhtWkccpZeGf9oPWZ=tGgm4T54ttoehujKVvikKELUGe29Caw@mail.gmail.com%3e
+2016-03-13 19:32:14 INFO  FileDownloader:29 - Destination url : /home/lakshmanar/YEAR 2016/201603.mbox/Thu 10 Mar 16:43.txt
+2016-03-13 19:32:14 INFO  FileDownloader:28 - Source url :http://mail-archives.apache.org/mod_mbox/maven-users/201603.mbox/%3cCA+nPnMyQwQEp1Y61puW5kcKV8eJqbRH0qyTaB48Ksnfn1En8QQ@mail.gmail.com%3e
+2016-03-13 19:32:14 INFO  FileDownloader:29 - Destination url : /home/lakshmanar/YEAR 2016/201603.mbox/Thu 10 Mar 17:04.txt
+2016-03-13 19:32:14 INFO  FileDownloader:28 - Source url :http://mail-archives.apache.org/mod_mbox/maven-users/201603.mbox/%3cCAJmbs8gX0Gq5PC2G=+BQT=mzjfgampkZZqPvoBLjy73VZndWFA@mail.gmail.com%3e
+2016-03-13 19:32:14 INFO  FileDownloader:29 - Destination url : /home/lakshmanar/YEAR 2016/201603.mbox/Thu 03 Mar 08:54.txt
+2016-03-13 19:32:14 INFO  FileDownloader:28 - Source url :http://mail-archives.apache.org/mod_mbox/maven-users/201603.mbox/%3c584961606.204908794.1457021232315.JavaMail.root@spooler4-g27.priv.proxad.net%3e
+2016-03-13 19:32:14 INFO  FileDownloader:29 - Destination url : /home/lakshmanar/YEAR 2016/201603.mbox/Thu 03 Mar 16:07.txt
+2016-03-13 19:32:14 INFO  FileDownloader:28 - Source url :http://mail-archives.apache.org/mod_mbox/maven-users/201603.mbox/%3cCAJmbs8hj4f02e5w_pf0AX+ubqgFRE-x1OfmLhfi6f3tdQzv5Tw@mail.gmail.com%3e
+2016-03-13 19:32:14 INFO  FileDownloader:29 - Destination url : /home/lakshmanar/YEAR 2016/201603.mbox/Thu 03 Mar 16:11.txt
+2016-03-13 19:32:14 INFO  FileDownloader:28 - Source url :http://mail-archives.apache.org/mod_mbox/maven-users/201603.mbox/%3c56D89FE8.2090306@caris.com%3e
+2016-03-13 19:32:14 INFO  FileDownloader:29 - Destination url : /home/lakshmanar/YEAR 2016/201603.mbox/Thu 03 Mar 20:34.txt
+2016-03-13 19:32:14 INFO  FileDownloader:28 - Source url :http://mail-archives.apache.org/mod_mbox/maven-users/201603.mbox/%3c56DC1611.1050409@apache.org%3e
+2016-03-13 19:32:14 INFO  FileDownloader:29 - Destination url : /home/lakshmanar/YEAR 2016/201603.mbox/Sun 06 Mar 11:35.txt
+2016-03-13 19:32:14 INFO  FileDownloader:28 - Source url :http://mail-archives.apache.org/mod_mbox/maven-users/201603.mbox/%3cCAByCsrmkJ5oxHrvoFixpJFugWAd89UBFyLgrzVKdq3qUdSWmDA@mail.gmail.com%3e
+2016-03-13 19:32:14 INFO  FileDownloader:29 - Destination url : /home/lakshmanar/YEAR 2016/201603.mbox/Tue 08 Mar 02:02.txt
+2016-03-13 19:32:14 INFO  FileDownloader:28 - Source url :http://mail-archives.apache.org/mod_mbox/maven-users/201603.mbox/%3c56DED2BE.8090802@artifact-software.com%3e
+2016-03-13 19:32:14 INFO  FileDownloader:29 - Destination url : /home/lakshmanar/YEAR 2016/201603.mbox/Tue 08 Mar 13:25.txt
+2016-03-13 19:32:14 INFO  FileDownloader:28 - Source url :http://mail-archives.apache.org/mod_mbox/maven-users/201603.mbox/%3c92B8A2182D9B54@smtpout.apache.org%3e
+2016-03-13 19:32:14 INFO  FileDownloader:29 - Destination url : /home/lakshmanar/YEAR 2016/201603.mbox/Thu 10 Mar 12:34.txt
+2016-03-13 19:32:14 INFO  FileDownloader:28 - Source url :http://mail-archives.apache.org/mod_mbox/maven-users/201603.mbox/%3cCA+Npsqt5W_KVi0qB9=-ONi5pqJzzT1PnaVrX9x7R+oNGLfy3ag@mail.gmail.com%3e
+2016-03-13 19:32:14 INFO  FileDownloader:29 - Destination url : /home/lakshmanar/YEAR 2016/201603.mbox/Thu 10 Mar 14:29.txt
+2016-03-13 19:32:14 INFO  FileDownloader:28 - Source url :http://mail-archives.apache.org/mod_mbox/maven-users/201603.mbox/%3c1963365.EgEZYkklPb@herve-desktop%3e
+2016-03-13 19:32:14 INFO  FileDownloader:29 - Destination url : /home/lakshmanar/YEAR 2016/201603.mbox/Fri 11 Mar 07:50.txt
+2016-03-13 19:32:14 INFO  FileDownloader:28 - Source url :http://mail-archives.apache.org/mod_mbox/maven-users/201603.mbox/%3cCA+NpsquVe89tVPELGD695WmuR0gz=xXbskmFvpZ4u8EJagGAag@mail.gmail.com%3e
+2016-03-13 19:32:14 INFO  FileDownloader:29 - Destination url : /home/lakshmanar/YEAR 2016/201603.mbox/Fri 11 Mar 14:32.txt
+2016-03-13 19:32:14 INFO  FileDownloader:28 - Source url :http://mail-archives.apache.org/mod_mbox/maven-users/201603.mbox/%3c56E1D728.5010405@springdot.org%3e
+2016-03-13 19:32:14 INFO  FileDownloader:29 - Destination url : /home/lakshmanar/YEAR 2016/201603.mbox/Thu 10 Mar 20:20.txt
+2016-03-13 19:32:14 INFO  FileDownloader:28 - Source url :http://mail-archives.apache.org/mod_mbox/maven-users/201603.mbox/%3cCADN69ykEevF5WTRUywjawFoWw3BDuqAQqxOibeAJSe37AzveAQ@mail.gmail.com%3e
+2016-03-13 19:32:14 INFO  FileDownloader:29 - Destination url : /home/lakshmanar/YEAR 2016/201603.mbox/Thu 10 Mar 20:29.txt
+2016-03-13 19:32:14 INFO  FileDownloader:28 - Source url :http://mail-archives.apache.org/mod_mbox/maven-users/201603.mbox/%3c56E1F76C.7010402@springdot.org%3e
+2016-03-13 19:32:14 INFO  FileDownloader:29 - Destination url : /home/lakshmanar/YEAR 2016/201603.mbox/Thu 10 Mar 22:38.txt
+2016-03-13 19:32:14 INFO  FileDownloader:28 - Source url :http://mail-archives.apache.org/mod_mbox/maven-users/201603.mbox/%3cF21547B4F425F9428444D12A512705064C257BF7@NP1EXMB105.corp.halliburton.com%3e
+2016-03-13 19:32:14 INFO  FileDownloader:29 - Destination url : /home/lakshmanar/YEAR 2016/201603.mbox/Thu 10 Mar 22:42.txt
+2016-03-13 19:32:14 INFO  FileDownloader:28 - Source url :http://mail-archives.apache.org/mod_mbox/maven-users/201603.mbox/%3c51E3B42D-DD0F-4E27-B730-D191929B07CA@oracle.com%3e
+2016-03-13 19:32:14 INFO  FileDownloader:29 - Destination url : /home/lakshmanar/YEAR 2016/201603.mbox/Thu 10 Mar 22:43.txt
+2016-03-13 19:32:14 INFO  FileDownloader:28 - Source url :http://mail-archives.apache.org/mod_mbox/maven-users/201603.mbox/%3c20160311002943.2992E29C00EE@dd17332.kasserver.com%3e
+2016-03-13 19:32:14 INFO  FileDownloader:29 - Destination url : /home/lakshmanar/YEAR 2016/201603.mbox/Fri 11 Mar 00:29.txt
+2016-03-13 19:32:14 INFO  FileDownloader:28 - Source url :http://mail-archives.apache.org/mod_mbox/maven-users/201603.mbox/%3c250085C7-47E0-448D-BBA4-311F2B8D067A@oracle.com%3e
+2016-03-13 19:32:14 INFO  FileDownloader:29 - Destination url : /home/lakshmanar/YEAR 2016/201603.mbox/Fri 11 Mar 02:03.txt
+2016-03-13 19:32:14 INFO  FileDownloader:28 - Source url :http://mail-archives.apache.org/mod_mbox/maven-users/201603.mbox/%3c56E2294C.4090606@springdot.org%3e
+2016-03-13 19:32:14 INFO  FileDownloader:29 - Destination url : /home/lakshmanar/YEAR 2016/201603.mbox/Fri 11 Mar 02:11.txt
+2016-03-13 19:32:14 INFO  FileDownloader:28 - Source url :http://mail-archives.apache.org/mod_mbox/maven-users/201603.mbox/%3c20160310204059.AC3AD29C1CA3@dd17332.kasserver.com%3e
+2016-03-13 19:32:14 INFO  FileDownloader:29 - Destination url : /home/lakshmanar/YEAR 2016/201603.mbox/Thu 10 Mar 20:40.txt
+2016-03-13 19:32:14 INFO  FileDownloader:28 - Source url :http://mail-archives.apache.org/mod_mbox/maven-users/201603.mbox/%3c56E1F847.60600@springdot.org%3e
+2016-03-13 19:32:14 INFO  FileDownloader:29 - Destination url : /home/lakshmanar/YEAR 2016/201603.mbox/Thu 10 Mar 22:42.txt
+2016-03-13 19:32:14 INFO  FileDownloader:28 - Source url :http://mail-archives.apache.org/mod_mbox/maven-users/201603.mbox/%3c56E1F5C9.6000102@gmail.com%3e
+2016-03-13 19:32:14 INFO  FileDownloader:29 - Destination url : /home/lakshmanar/YEAR 2016/201603.mbox/Thu 10 Mar 22:31.txt
+2016-03-13 19:32:14 INFO  FileDownloader:28 - Source url :http://mail-archives.apache.org/mod_mbox/maven-users/201603.mbox/%3c56E1FBF0.5080102@yahoo.com%3e
+2016-03-13 19:32:14 INFO  FileDownloader:29 - Destination url : /home/lakshmanar/YEAR 2016/201603.mbox/Thu 10 Mar 22:57.txt
+2016-03-13 19:32:14 INFO  FileDownloader:28 - Source url :http://mail-archives.apache.org/mod_mbox/maven-users/201603.mbox/%3c56E201BF.9010100@gmail.com%3e
+2016-03-13 19:32:14 INFO  FileDownloader:29 - Destination url : /home/lakshmanar/YEAR 2016/201603.mbox/Thu 10 Mar 23:22.txt
+2016-03-13 19:32:14 INFO  FileDownloader:28 - Source url :http://mail-archives.apache.org/mod_mbox/maven-users/201603.mbox/%3c56E204E4.7090107@yahoo.com%3e
+2016-03-13 19:32:14 INFO  FileDownloader:29 - Destination url : /home/lakshmanar/YEAR 2016/201603.mbox/Thu 10 Mar 23:36.txt
+2016-03-13 19:32:14 INFO  FileDownloader:28 - Source url :http://mail-archives.apache.org/mod_mbox/maven-users/201603.mbox/%3c56E206F6.80407@gmail.com%3e
+2016-03-13 19:32:14 INFO  FileDownloader:29 - Destination url : /home/lakshmanar/YEAR 2016/201603.mbox/Thu 10 Mar 23:44.txt
+2016-03-13 19:32:14 INFO  FileDownloader:28 - Source url :http://mail-archives.apache.org/mod_mbox/maven-users/201603.mbox/%3c56E20936.7080003@yahoo.com%3e
+2016-03-13 19:32:14 INFO  FileDownloader:29 - Destination url : /home/lakshmanar/YEAR 2016/201603.mbox/Thu 10 Mar 23:54.txt
+2016-03-13 19:32:14 INFO  FileDownloader:28 - Source url :http://mail-archives.apache.org/mod_mbox/maven-users/201603.mbox/%3c56E20B50.5020308@gmail.com%3e
+2016-03-13 19:32:14 INFO  FileDownloader:29 - Destination url : /home/lakshmanar/YEAR 2016/201603.mbox/Fri 11 Mar 00:03.txt
+2016-03-13 19:32:14 INFO  FileDownloader:28 - Source url :http://mail-archives.apache.org/mod_mbox/maven-users/201603.mbox/%3cC6C30620-6207-416E-8CC5-3FBD9993D016@x-reizend.de%3e
+2016-03-13 19:32:14 INFO  FileDownloader:29 - Destination url : /home/lakshmanar/YEAR 2016/201603.mbox/Fri 11 Mar 04:58.txt
+2016-03-13 19:32:14 INFO  FileDownloader:28 - Source url :http://mail-archives.apache.org/mod_mbox/maven-users/201603.mbox/%3cCAA5t8Vq+SpwqUAP=r6DjkN77s8=6rEVfm-1RbuqeL+-es5i4Ug@mail.gmail.com%3e
+2016-03-13 19:32:14 INFO  FileDownloader:29 - Destination url : /home/lakshmanar/YEAR 2016/201603.mbox/Fri 11 Mar 05:05.txt
+2016-03-13 19:32:14 INFO  FileDownloader:28 - Source url :http://mail-archives.apache.org/mod_mbox/maven-users/201603.mbox/%3cCD641D84-F68F-4704-954D-7F62AA4C8A7D@x-reizend.de%3e
+2016-03-13 19:32:14 INFO  FileDownloader:29 - Destination url : /home/lakshmanar/YEAR 2016/201603.mbox/Fri 11 Mar 05:43.txt
+2016-03-13 19:32:14 INFO  FileDownloader:28 - Source url :http://mail-archives.apache.org/mod_mbox/maven-users/201603.mbox/%3c56E261AE.5030404@gmail.com%3e
+2016-03-13 19:32:14 INFO  FileDownloader:29 - Destination url : /home/lakshmanar/YEAR 2016/201603.mbox/Fri 11 Mar 06:11.txt
+2016-03-13 19:32:14 INFO  FileDownloader:28 - Source url :http://mail-archives.apache.org/mod_mbox/maven-users/201603.mbox/%3cnbusej$30p$1@ger.gmane.org%3e
+2016-03-13 19:32:14 INFO  FileDownloader:29 - Destination url : /home/lakshmanar/YEAR 2016/201603.mbox/Fri 11 Mar 16:40.txt
+2016-03-13 19:32:14 INFO  FileDownloader:28 - Source url :http://mail-archives.apache.org/mod_mbox/maven-users/201603.mbox/%3c56E2F769.30208@gmail.com%3e
+2016-03-13 19:32:14 INFO  FileDownloader:29 - Destination url : /home/lakshmanar/YEAR 2016/201603.mbox/Fri 11 Mar 16:50.txt
+2016-03-13 19:32:14 INFO  FileDownloader:28 - Source url :http://mail-archives.apache.org/mod_mbox/maven-users/201603.mbox/%3c56E26143.6070503@yahoo.com%3e
+2016-03-13 19:32:14 INFO  FileDownloader:29 - Destination url : /home/lakshmanar/YEAR 2016/201603.mbox/Fri 11 Mar 06:10.txt
+2016-03-13 19:32:15 INFO  FileDownloader:28 - Source url :http://mail-archives.apache.org/mod_mbox/maven-users/201603.mbox/%3c56E2620B.1030506@gmail.com%3e
+2016-03-13 19:32:15 INFO  FileDownloader:29 - Destination url : /home/lakshmanar/YEAR 2016/201603.mbox/Fri 11 Mar 06:13.txt
+2016-03-13 19:32:15 INFO  FileDownloader:28 - Source url :http://mail-archives.apache.org/mod_mbox/maven-users/201603.mbox/%3c56E31EF2.2010606@gmail.com%3e
+2016-03-13 19:32:15 INFO  FileDownloader:29 - Destination url : /home/lakshmanar/YEAR 2016/201603.mbox/Fri 11 Mar 19:39.txt
+2016-03-13 19:32:15 INFO  FileDownloader:28 - Source url :http://mail-archives.apache.org/mod_mbox/maven-users/201603.mbox/%3c56E30296.20507@gmail.com%3e
+2016-03-13 19:32:15 INFO  FileDownloader:29 - Destination url : /home/lakshmanar/YEAR 2016/201603.mbox/Fri 11 Mar 17:38.txt
+2016-03-13 19:33:17 INFO  FileHelper:21 - creating directory: /home/lakshmanar/YEAR 2016/201602.mbox
+2016-03-13 19:33:17 INFO  FileHelper:30 - Directory  created with name /home/lakshmanar/YEAR 2016/201602.mbox
+2016-03-13 19:33:17 INFO  FileDownloader:28 - Source url :http://mail-archives.apache.org/mod_mbox/maven-users/201602.mbox/%3c1454412493304-5860680.post@n5.nabble.com%3e
+2016-03-13 19:33:17 INFO  FileDownloader:29 - Destination url : /home/lakshmanar/YEAR 2016/201602.mbox/Tue 02 Feb 11:28.txt
+2016-03-13 19:33:17 INFO  FileDownloader:28 - Source url :http://mail-archives.apache.org/mod_mbox/maven-users/201602.mbox/%3c56AF6E2E.4020805@gmail.com%3e
+2016-03-13 19:33:17 INFO  FileDownloader:29 - Destination url : /home/lakshmanar/YEAR 2016/201602.mbox/Mon 01 Feb 14:39.txt
+2016-03-13 19:33:17 INFO  FileDownloader:28 - Source url :http://mail-archives.apache.org/mod_mbox/maven-users/201602.mbox/%3c1454415192745-5860682.post@n5.nabble.com%3e
+2016-03-13 19:33:17 INFO  FileDownloader:29 - Destination url : /home/lakshmanar/YEAR 2016/201602.mbox/Tue 02 Feb 12:13.txt
+2016-03-13 19:33:17 INFO  FileDownloader:28 - Source url :http://mail-archives.apache.org/mod_mbox/maven-users/201602.mbox/%3cCAKDUN1uu5WXeSYSZUKLWvPvT7_aaBD-JPq4ALipRK8zwF8NmaA@mail.gmail.com%3e
+2016-03-13 19:33:17 INFO  FileDownloader:29 - Destination url : /home/lakshmanar/YEAR 2016/201602.mbox/Tue 02 Feb 11:36.txt
+2016-03-13 19:33:17 INFO  FileDownloader:28 - Source url :http://mail-archives.apache.org/mod_mbox/maven-users/201602.mbox/%3cCAE9L6G2H+DUAJ0U_448skR+WFGC7=chQq68ho+aO4jjfcrm6LQ@mail.gmail.com%3e
+2016-03-13 19:33:17 INFO  FileDownloader:29 - Destination url : /home/lakshmanar/YEAR 2016/201602.mbox/Tue 02 Feb 15:24.txt
+2016-03-13 19:33:17 INFO  FileDownloader:28 - Source url :http://mail-archives.apache.org/mod_mbox/maven-users/201602.mbox/%3c1454511022543-5860786.post@n5.nabble.com%3e
+2016-03-13 19:33:17 INFO  FileDownloader:29 - Destination url : /home/lakshmanar/YEAR 2016/201602.mbox/Wed 03 Feb 14:50.txt
+2016-03-13 19:33:17 INFO  FileDownloader:28 - Source url :http://mail-archives.apache.org/mod_mbox/maven-users/201602.mbox/%3cCAAUywg_pdK8EF_6UGD8eauqi40Fvn4j63j4B2kYoFnLY0mxnrg@mail.gmail.com%3e
+2016-03-13 19:33:17 INFO  FileDownloader:29 - Destination url : /home/lakshmanar/YEAR 2016/201602.mbox/Tue 02 Feb 13:28.txt
+2016-03-13 19:33:17 INFO  FileDownloader:28 - Source url :http://mail-archives.apache.org/mod_mbox/maven-users/201602.mbox/%3c21089953.ZrKzORoS7S@pallas.leipzig.vpn.vub.de%3e
+2016-03-13 19:33:17 INFO  FileDownloader:29 - Destination url : /home/lakshmanar/YEAR 2016/201602.mbox/Tue 02 Feb 14:00.txt
+2016-03-13 19:33:17 INFO  FileDownloader:28 - Source url :http://mail-archives.apache.org/mod_mbox/maven-users/201602.mbox/%3c75F3A2D98EDE2545BDC06B5B6C1CEC517D2282BD@ESGSCMB101.ericsson.se%3e
+2016-03-13 19:33:17 INFO  FileDownloader:29 - Destination url : /home/lakshmanar/YEAR 2016/201602.mbox/Wed 03 Feb 19:13.txt
+2016-03-13 19:33:17 INFO  FileDownloader:28 - Source url :http://mail-archives.apache.org/mod_mbox/maven-users/201602.mbox/%3cCAKDUN1v4F5Zkaun3P+ns1ApSvWzV=O+0DcC8ZFdXGreHvt6_Hg@mail.gmail.com%3e
+2016-03-13 19:33:17 INFO  FileDownloader:29 - Destination url : /home/lakshmanar/YEAR 2016/201602.mbox/Tue 02 Feb 13:06.txt
+2016-03-13 19:33:18 INFO  FileDownloader:28 - Source url :http://mail-archives.apache.org/mod_mbox/maven-users/201602.mbox/%3c56B2593C.5030004@gmx.de%3e
+2016-03-13 19:33:18 INFO  FileDownloader:29 - Destination url : /home/lakshmanar/YEAR 2016/201602.mbox/Wed 03 Feb 19:47.txt
+2016-03-13 19:33:18 INFO  FileDownloader:28 - Source url :http://mail-archives.apache.org/mod_mbox/maven-users/201602.mbox/%3c75F3A2D98EDE2545BDC06B5B6C1CEC517D228328@ESGSCMB101.ericsson.se%3e
+2016-03-13 19:33:18 INFO  FileDownloader:29 - Destination url : /home/lakshmanar/YEAR 2016/201602.mbox/Wed 03 Feb 20:14.txt
+2016-03-13 19:33:18 INFO  FileDownloader:28 - Source url :http://mail-archives.apache.org/mod_mbox/maven-users/201602.mbox/%3c1454539837488-5860832.post@n5.nabble.com%3e
+2016-03-13 19:33:18 INFO  FileDownloader:29 - Destination url : /home/lakshmanar/YEAR 2016/201602.mbox/Wed 03 Feb 22:50.txt
+2016-03-13 19:33:18 INFO  FileDownloader:28 - Source url :http://mail-archives.apache.org/mod_mbox/maven-users/201602.mbox/%3c56B2DCA9.5040206@shaddybaddah.name%3e
+2016-03-13 19:33:18 INFO  FileDownloader:29 - Destination url : /home/lakshmanar/YEAR 2016/201602.mbox/Thu 04 Feb 05:07.txt
+2016-03-13 19:33:18 INFO  FileDownloader:28 - Source url :http://mail-archives.apache.org/mod_mbox/maven-users/201602.mbox/%3cCADN69ynb4TrFoUGMpYhj6_ZPStEpda4RxcrxMaFH17np2baS_Q@mail.gmail.com%3e
+2016-03-13 19:33:18 INFO  FileDownloader:29 - Destination url : /home/lakshmanar/YEAR 2016/201602.mbox/Thu 04 Feb 14:22.txt
+2016-03-13 19:33:18 INFO  FileDownloader:28 - Source url :http://mail-archives.apache.org/mod_mbox/maven-users/201602.mbox/%3c3dc6dae7-3407-4f1d-9517-fa1b25abcdd2.maildroid@localhost%3e
+2016-03-13 19:33:18 INFO  FileDownloader:29 - Destination url : /home/lakshmanar/YEAR 2016/201602.mbox/Thu 04 Feb 19:29.txt
+2016-03-13 19:33:18 INFO  FileDownloader:28 - Source url :http://mail-archives.apache.org/mod_mbox/maven-users/201602.mbox/%3cBLU172-W35BDC75CDDD9485F150670AED10@phx.gbl%3e
+2016-03-13 19:33:18 INFO  FileDownloader:29 - Destination url : /home/lakshmanar/YEAR 2016/201602.mbox/Thu 04 Feb 14:42.txt
+2016-03-13 19:33:18 INFO  FileDownloader:28 - Source url :http://mail-archives.apache.org/mod_mbox/maven-users/201602.mbox/%3cCADKGCndrF0k10QPRBewLzia+qvOVV6xUmyZFCtEuvpMP1T06Hg@mail.gmail.com%3e
+2016-03-13 19:33:18 INFO  FileDownloader:29 - Destination url : /home/lakshmanar/YEAR 2016/201602.mbox/Thu 04 Feb 20:03.txt
+2016-03-13 19:33:18 INFO  FileDownloader:28 - Source url :http://mail-archives.apache.org/mod_mbox/maven-users/201602.mbox/%3c48CF5AC71E61DB46B70D0F388054EFFD92A37DC4@VAL-E-01.valcartier.drdc-rddc.gc.ca%3e
+2016-03-13 19:33:18 INFO  FileDownloader:29 - Destination url : /home/lakshmanar/YEAR 2016/201602.mbox/Thu 04 Feb 21:44.txt
+2016-03-13 19:33:18 INFO  FileDownloader:28 - Source url :http://mail-archives.apache.org/mod_mbox/maven-users/201602.mbox/%3cCACod6GsB3RfaFWN0hqMN=8FdG_DV6bQfkXUJroPMPg4kXGwdkQ@mail.gmail.com%3e
+2016-03-13 19:33:18 INFO  FileDownloader:29 - Destination url : /home/lakshmanar/YEAR 2016/201602.mbox/Sat 06 Feb 03:56.txt
+2016-03-13 19:33:18 INFO  FileDownloader:28 - Source url :http://mail-archives.apache.org/mod_mbox/maven-users/201602.mbox/%3cCACod6Gv973p2pmbsD-RZ=-joDdMwKGrMtUmTfjKQL1LJWnCjXw@mail.gmail.com%3e
+2016-03-13 19:33:18 INFO  FileDownloader:29 - Destination url : /home/lakshmanar/YEAR 2016/201602.mbox/Mon 08 Feb 16:50.txt
+2016-03-13 19:33:18 INFO  FileDownloader:28 - Source url :http://mail-archives.apache.org/mod_mbox/maven-users/201602.mbox/%3cCAPo9-A-cQdZwjegsYXHbJ_mExdMWNoLvgT0x+E76tBW+oESbSA@mail.gmail.com%3e
+2016-03-13 19:33:18 INFO  FileDownloader:29 - Destination url : /home/lakshmanar/YEAR 2016/201602.mbox/Mon 08 Feb 05:43.txt
+2016-03-13 19:33:18 INFO  FileDownloader:28 - Source url :http://mail-archives.apache.org/mod_mbox/maven-users/201602.mbox/%3cCAPCUOdEUGNupVOEzcV2BRWGTxndE4oykH+sCWWgbeDXivvRGQA@mail.gmail.com%3e
+2016-03-13 19:33:18 INFO  FileDownloader:29 - Destination url : /home/lakshmanar/YEAR 2016/201602.mbox/Mon 08 Feb 08:48.txt
+2016-03-13 19:33:19 INFO  FileDownloader:28 - Source url :http://mail-archives.apache.org/mod_mbox/maven-users/201602.mbox/%3c56B85A46.3070509@gmx.de%3e
+2016-03-13 19:33:19 INFO  FileDownloader:29 - Destination url : /home/lakshmanar/YEAR 2016/201602.mbox/Mon 08 Feb 09:05.txt
+2016-03-13 19:33:19 INFO  FileDownloader:28 - Source url :http://mail-archives.apache.org/mod_mbox/maven-users/201602.mbox/%3cCAPo9-A9ZKMs27cX3S8NcU=qsaqjYkxqSbiT5WqQNqzr6o0RO5A@mail.gmail.com%3e
+2016-03-13 19:33:19 INFO  FileDownloader:29 - Destination url : /home/lakshmanar/YEAR 2016/201602.mbox/Tue 09 Feb 00:54.txt
+2016-03-13 19:33:19 INFO  FileDownloader:28 - Source url :http://mail-archives.apache.org/mod_mbox/maven-users/201602.mbox/%3cCAPCUOdFea3ryjxwVfHofrom8YUzFRq=CtL=-Q5qMhUfHCS-HzQ@mail.gmail.com%3e
+2016-03-13 19:33:19 INFO  FileDownloader:29 - Destination url : /home/lakshmanar/YEAR 2016/201602.mbox/Tue 09 Feb 09:03.txt
+2016-03-13 19:33:19 INFO  FileDownloader:28 - Source url :http://mail-archives.apache.org/mod_mbox/maven-users/201602.mbox/%3cCAPo9-A9xSfp2yUSRH0nY8_R_aR9eifEcYdmGXZFs9mzJHmuNJw@mail.gmail.com%3e
+2016-03-13 19:33:19 INFO  FileDownloader:29 - Destination url : /home/lakshmanar/YEAR 2016/201602.mbox/Tue 09 Feb 14:02.txt
+2016-03-13 19:33:19 INFO  FileDownloader:28 - Source url :http://mail-archives.apache.org/mod_mbox/maven-users/201602.mbox/%3cDB5PR05MB1285226C83C187C4A06835EDA2D60@DB5PR05MB1285.eurprd05.prod.outlook.com%3e
+2016-03-13 19:33:19 INFO  FileDownloader:29 - Destination url : /home/lakshmanar/YEAR 2016/201602.mbox/Tue 09 Feb 15:16.txt
+2016-03-13 19:33:19 INFO  FileDownloader:28 - Source url :http://mail-archives.apache.org/mod_mbox/maven-users/201602.mbox/%3cCAKDUN1tYZPAUQVtW=YWzV=Cp4i8BPAebiKnJ99ZS7fYMNpYGXw@mail.gmail.com%3e
+2016-03-13 19:33:19 INFO  FileDownloader:29 - Destination url : /home/lakshmanar/YEAR 2016/201602.mbox/Tue 09 Feb 15:27.txt
+2016-03-13 19:33:19 INFO  FileDownloader:28 - Source url :http://mail-archives.apache.org/mod_mbox/maven-users/201602.mbox/%3cDB5PR05MB1285E45E012D5A249C52AF73A2D60@DB5PR05MB1285.eurprd05.prod.outlook.com%3e
+2016-03-13 19:33:19 INFO  FileDownloader:29 - Destination url : /home/lakshmanar/YEAR 2016/201602.mbox/Tue 09 Feb 15:40.txt
+2016-03-13 19:33:19 INFO  FileDownloader:28 - Source url :http://mail-archives.apache.org/mod_mbox/maven-users/201602.mbox/%3cCAPo9-A8u-+DcFRVCp2Kvhi26SipJSbWRPAui-jOah8PfjbK9iw@mail.gmail.com%3e
+2016-03-13 19:33:19 INFO  FileDownloader:29 - Destination url : /home/lakshmanar/YEAR 2016/201602.mbox/Tue 09 Feb 20:49.txt
+2016-03-13 19:33:19 INFO  FileDownloader:28 - Source url :http://mail-archives.apache.org/mod_mbox/maven-users/201602.mbox/%3cDB5PR05MB1285B709ED2838652855519FA2D60@DB5PR05MB1285.eurprd05.prod.outlook.com%3e
+2016-03-13 19:33:19 INFO  FileDownloader:29 - Destination url : /home/lakshmanar/YEAR 2016/201602.mbox/Tue 09 Feb 22:44.txt
+2016-03-13 19:33:19 INFO  FileDownloader:28 - Source url :http://mail-archives.apache.org/mod_mbox/maven-users/201602.mbox/%3cCAPo9-A-aX5FLTRd8gFy8EQaQQTofMvd-p7B1sYwOrp_0fgMicw@mail.gmail.com%3e
+2016-03-13 19:33:19 INFO  FileDownloader:29 - Destination url : /home/lakshmanar/YEAR 2016/201602.mbox/Wed 10 Feb 17:11.txt
+2016-03-13 19:33:19 INFO  FileDownloader:28 - Source url :http://mail-archives.apache.org/mod_mbox/maven-users/201602.mbox/%3cCAPo9-A8Wd_We2P8T+kheC7N1VMWqeCy5pi8ifuyjNXGcqg=ETg@mail.gmail.com%3e
+2016-03-13 19:33:19 INFO  FileDownloader:29 - Destination url : /home/lakshmanar/YEAR 2016/201602.mbox/Thu 11 Feb 01:18.txt
+2016-03-13 19:33:19 INFO  FileDownloader:28 - Source url :http://mail-archives.apache.org/mod_mbox/maven-users/201602.mbox/%3cCAK2FUK3FfTSZSeQybK_4KXhFbtRNZ1uo6wxEbfnnyy5MCh1DsQ@mail.gmail.com%3e
+2016-03-13 19:33:19 INFO  FileDownloader:29 - Destination url : /home/lakshmanar/YEAR 2016/201602.mbox/Tue 09 Feb 19:47.txt
+2016-03-13 19:33:20 INFO  FileDownloader:28 - Source url :http://mail-archives.apache.org/mod_mbox/maven-users/201602.mbox/%3c6678983.zCgK9VRgMV@herve-desktop%3e
+2016-03-13 19:33:20 INFO  FileDownloader:29 - Destination url : /home/lakshmanar/YEAR 2016/201602.mbox/Tue 09 Feb 22:15.txt
+2016-03-13 19:33:20 INFO  FileDownloader:28 - Source url :http://mail-archives.apache.org/mod_mbox/maven-users/201602.mbox/%3c56BBB830.4000901@wu.ac.at%3e
+2016-03-13 19:33:20 INFO  FileDownloader:28 - Source url :http://mail-archives.apache.org/mod_mbox/maven-users/201602.mbox/%3cCALy+7U=OfycWMCSn13wacZosO0CgFpq5-Q7cwa+S38o2LiQPug@mail.gmail.com%3e
+2016-03-13 19:33:20 INFO  FileDownloader:29 - Destination url : /home/lakshmanar/YEAR 2016/201602.mbox/Wed 10 Feb 22:22.txt
+2016-03-13 19:33:20 INFO  FileDownloader:29 - Destination url : /home/lakshmanar/YEAR 2016/201602.mbox/Wed 24 Feb 15:44.txt
+2016-03-13 19:33:20 INFO  FileDownloader:28 - Source url :http://mail-archives.apache.org/mod_mbox/maven-users/201602.mbox/%3c229904320.2770906.1455215013384.JavaMail.yahoo@mail.yahoo.com%3e
+2016-03-13 19:33:20 INFO  FileDownloader:29 - Destination url : /home/lakshmanar/YEAR 2016/201602.mbox/Thu 11 Feb 18:23.txt
+2016-03-13 19:33:20 INFO  FileDownloader:28 - Source url :http://mail-archives.apache.org/mod_mbox/maven-users/201602.mbox/%3c9BD0A87B27136A4CA1293BBBE9D2B0450185612B21@vEX1.eg-dom2.local%3e
+2016-03-13 19:33:20 INFO  FileDownloader:29 - Destination url : /home/lakshmanar/YEAR 2016/201602.mbox/Sat 13 Feb 21:54.txt
+2016-03-13 19:33:20 INFO  FileDownloader:28 - Source url :http://mail-archives.apache.org/mod_mbox/maven-users/201602.mbox/%3c4105471.Odpgi7Ts65@herve-desktop%3e
+2016-03-13 19:33:20 INFO  FileDownloader:29 - Destination url : /home/lakshmanar/YEAR 2016/201602.mbox/Mon 15 Feb 00:07.txt
+2016-03-13 19:33:20 INFO  FileDownloader:28 - Source url :http://mail-archives.apache.org/mod_mbox/maven-users/201602.mbox/%3cCAE8BUt5wpwRjmLeQcVRxrRCWsAVCeT+DuTtgO0E8KC7xxJtnKQ@mail.gmail.com%3e
+2016-03-13 19:33:20 INFO  FileDownloader:28 - Source url :http://mail-archives.apache.org/mod_mbox/maven-users/201602.mbox/%3c6e731f9a-3e5b-4acf-84e7-66b295363de6.maildroid@localhost%3e
+2016-03-13 19:33:20 INFO  FileDownloader:29 - Destination url : /home/lakshmanar/YEAR 2016/201602.mbox/Mon 15 Feb 12:00.txt
+2016-03-13 19:33:20 INFO  FileDownloader:29 - Destination url : /home/lakshmanar/YEAR 2016/201602.mbox/Mon 15 Feb 12:16.txt
+2016-03-13 19:33:20 INFO  FileDownloader:28 - Source url :http://mail-archives.apache.org/mod_mbox/maven-users/201602.mbox/%3cCAPCUOdHn7k3KiqP14tewoOpDRjWP8HOX9W-ot-uQenR0ig_a0Q@mail.gmail.com%3e
+2016-03-13 19:33:20 INFO  FileDownloader:29 - Destination url : /home/lakshmanar/YEAR 2016/201602.mbox/Mon 15 Feb 13:03.txt
+2016-03-13 19:33:20 INFO  FileDownloader:28 - Source url :http://mail-archives.apache.org/mod_mbox/maven-users/201602.mbox/%3cCAE-KMXCL+Wg19X2Wj0Urnz79=Rje1qfi3RptpdmLL+taX=OZUQ@mail.gmail.com%3e
+2016-03-13 19:33:20 INFO  FileDownloader:29 - Destination url : /home/lakshmanar/YEAR 2016/201602.mbox/Mon 15 Feb 13:09.txt
+2016-03-13 19:33:20 INFO  FileDownloader:28 - Source url :http://mail-archives.apache.org/mod_mbox/maven-users/201602.mbox/%3c20160215180947.1578547C1FDD@dd7514.kasserver.com%3e
+2016-03-13 19:33:20 INFO  FileDownloader:29 - Destination url : /home/lakshmanar/YEAR 2016/201602.mbox/Mon 15 Feb 18:09.txt
+2016-03-13 19:33:20 INFO  FileDownloader:28 - Source url :http://mail-archives.apache.org/mod_mbox/maven-users/201602.mbox/%3c1455599072577-5862384.post@n5.nabble.com%3e
+2016-03-13 19:33:20 INFO  FileDownloader:29 - Destination url : /home/lakshmanar/YEAR 2016/201602.mbox/Tue 16 Feb 05:04.txt
+2016-03-13 19:33:20 INFO  FileDownloader:28 - Source url :http://mail-archives.apache.org/mod_mbox/maven-users/201602.mbox/%3cCALy+7U=rPR==rPf6r+f5XnQceSVotFwCKnRRzNd+oUWcp7miBA@mail.gmail.com%3e
+2016-03-13 19:33:20 INFO  FileDownloader:29 - Destination url : /home/lakshmanar/YEAR 2016/201602.mbox/Wed 24 Feb 15:43.txt
+2016-03-13 19:33:20 INFO  FileDownloader:28 - Source url :http://mail-archives.apache.org/mod_mbox/maven-users/201602.mbox/%3cCA+knz6Z5WSHGRnX-oN9wr5jMet2gufYZtYwU1rjJN6VFDuj_6Q@mail.gmail.com%3e
+2016-03-13 19:33:20 INFO  FileDownloader:29 - Destination url : /home/lakshmanar/YEAR 2016/201602.mbox/Tue 16 Feb 08:08.txt
+2016-03-13 19:33:20 INFO  FileDownloader:28 - Source url :http://mail-archives.apache.org/mod_mbox/maven-users/201602.mbox/%3cCACxbV9RKj0u8Y8VnRPxP+wMfjsT_m5CfvNR9DW9H8tiB3B-ong@mail.gmail.com%3e
+2016-03-13 19:33:20 INFO  FileDownloader:29 - Destination url : /home/lakshmanar/YEAR 2016/201602.mbox/Thu 18 Feb 23:08.txt
+2016-03-13 19:33:20 INFO  FileDownloader:28 - Source url :http://mail-archives.apache.org/mod_mbox/maven-users/201602.mbox/%3c56C2E768.1020107@wu.ac.at%3e
+2016-03-13 19:33:20 INFO  FileDownloader:29 - Destination url : /home/lakshmanar/YEAR 2016/201602.mbox/Tue 16 Feb 09:10.txt
+2016-03-13 19:33:20 INFO  FileDownloader:28 - Source url :http://mail-archives.apache.org/mod_mbox/maven-users/201602.mbox/%3c83A78925-6CBF-41F5-9C8E-00F776C55755@gmail.com%3e
+2016-03-13 19:33:20 INFO  FileDownloader:29 - Destination url : /home/lakshmanar/YEAR 2016/201602.mbox/Tue 16 Feb 10:52.txt
+2016-03-13 19:33:20 INFO  FileDownloader:28 - Source url :http://mail-archives.apache.org/mod_mbox/maven-users/201602.mbox/%3cCAE-KMXCTwTt-yh4w5Hd=CK+OS7JrC-uBk1DL09BqBphre=38Uw@mail.gmail.com%3e
+2016-03-13 19:33:20 INFO  FileDownloader:29 - Destination url : /home/lakshmanar/YEAR 2016/201602.mbox/Thu 18 Feb 23:37.txt
+2016-03-13 19:33:20 INFO  FileDownloader:28 - Source url :http://mail-archives.apache.org/mod_mbox/maven-users/201602.mbox/%3cB6B44BD5-39A6-4A9F-AAAC-A939DEAC8B60@resolvesw.com%3e
+2016-03-13 19:33:20 INFO  FileDownloader:29 - Destination url : /home/lakshmanar/YEAR 2016/201602.mbox/Fri 19 Feb 02:15.txt
+2016-03-13 19:33:20 INFO  FileDownloader:28 - Source url :http://mail-archives.apache.org/mod_mbox/maven-users/201602.mbox/%3c02E4955D-DDB0-48BF-A5DE-6DC46D2A8D9A@resolvesw.com%3e
+2016-03-13 19:33:20 INFO  FileDownloader:29 - Destination url : /home/lakshmanar/YEAR 2016/201602.mbox/Fri 19 Feb 02:23.txt
+2016-03-13 19:33:20 INFO  FileDownloader:28 - Source url :http://mail-archives.apache.org/mod_mbox/maven-users/201602.mbox/%3cCA+T+PjF6s+=tZd7oOEQYZMEtqUAUFbRg-5iAUBDodJw2RpKHNg@mail.gmail.com%3e
+2016-03-13 19:33:20 INFO  FileDownloader:29 - Destination url : /home/lakshmanar/YEAR 2016/201602.mbox/Fri 19 Feb 00:26.txt
+2016-03-13 19:33:20 INFO  FileDownloader:28 - Source url :http://mail-archives.apache.org/mod_mbox/maven-users/201602.mbox/%3cCADN69y=hUqnh0bqgdAMdkAC8MkdXpZZL4POwSuqarxGWM8sdwg@mail.gmail.com%3e
+2016-03-13 19:33:20 INFO  FileDownloader:29 - Destination url : /home/lakshmanar/YEAR 2016/201602.mbox/Fri 19 Feb 03:25.txt
+2016-03-13 19:33:20 INFO  FileDownloader:28 - Source url :http://mail-archives.apache.org/mod_mbox/maven-users/201602.mbox/%3c1455621498076-5862392.post@n5.nabble.com%3e
+2016-03-13 19:33:20 INFO  FileDownloader:29 - Destination url : /home/lakshmanar/YEAR 2016/201602.mbox/Tue 16 Feb 11:18.txt
+2016-03-13 19:33:20 INFO  FileDownloader:28 - Source url :http://mail-archives.apache.org/mod_mbox/maven-users/201602.mbox/%3cCAH4+qcmPKeg0j=UCtB61H9+UCJ4K3=gYWOh-6HhrH+L=Jh=Zag@mail.gmail.com%3e
+2016-03-13 19:33:20 INFO  FileDownloader:29 - Destination url : /home/lakshmanar/YEAR 2016/201602.mbox/Tue 16 Feb 21:23.txt
+2016-03-13 19:33:21 INFO  FileDownloader:28 - Source url :http://mail-archives.apache.org/mod_mbox/maven-users/201602.mbox/%3cCAL5zq9Z=5X5FbE3MRg6cjafKANUJRmcym5YNR9y0M3tX=x7r6A@mail.gmail.com%3e
+2016-03-13 19:33:21 INFO  FileDownloader:29 - Destination url : /home/lakshmanar/YEAR 2016/201602.mbox/Fri 19 Feb 04:11.txt
+2016-03-13 19:33:21 INFO  FileDownloader:28 - Source url :http://mail-archives.apache.org/mod_mbox/maven-users/201602.mbox/%3c20160218044420.1FAD3185C6@minotaur.apache.org%3e
+2016-03-13 19:33:21 INFO  FileDownloader:29 - Destination url : /home/lakshmanar/YEAR 2016/201602.mbox/Thu 18 Feb 04:44.txt
+2016-03-13 19:33:21 INFO  FileDownloader:28 - Source url :http://mail-archives.apache.org/mod_mbox/maven-users/201602.mbox/%3c56C57C78.7020906@oracle.com%3e
+2016-03-13 19:33:21 INFO  FileDownloader:29 - Destination url : /home/lakshmanar/YEAR 2016/201602.mbox/Thu 18 Feb 08:10.txt
+2016-03-13 19:33:21 INFO  FileDownloader:28 - Source url :http://mail-archives.apache.org/mod_mbox/maven-users/201602.mbox/%3cCAPLpRQKJUE=S=L3oJB3Ug+37hKybDCz+N=NcSJVzZ53DTSDK3Q@mail.gmail.com%3e
+2016-03-13 19:33:21 INFO  FileDownloader:29 - Destination url : /home/lakshmanar/YEAR 2016/201602.mbox/Fri 19 Feb 11:42.txt
+2016-03-13 19:33:21 INFO  FileDownloader:28 - Source url :http://mail-archives.apache.org/mod_mbox/maven-users/201602.mbox/%3c1456126808508-5862780.post@n5.nabble.com%3e
+2016-03-13 19:33:21 INFO  FileDownloader:29 - Destination url : /home/lakshmanar/YEAR 2016/201602.mbox/Mon 22 Feb 07:40.txt
+2016-03-13 19:33:21 INFO  FileDownloader:28 - Source url :http://mail-archives.apache.org/mod_mbox/maven-users/201602.mbox/%3cCANnZoJt3BEU6S_+kNnBaH9jysW31Vm2Go+sCarbGz10hBSYqBw@mail.gmail.com%3e
+2016-03-13 19:33:21 INFO  FileDownloader:28 - Source url :http://mail-archives.apache.org/mod_mbox/maven-users/201602.mbox/%3c1518487.5YI36Fm8fR@herve-desktop%3e
+2016-03-13 19:33:21 INFO  FileDownloader:29 - Destination url : /home/lakshmanar/YEAR 2016/201602.mbox/Mon 29 Feb 16:31.txt
+2016-03-13 19:33:21 INFO  FileDownloader:29 - Destination url : /home/lakshmanar/YEAR 2016/201602.mbox/Thu 18 Feb 23:54.txt
+2016-03-13 19:33:21 INFO  FileDownloader:28 - Source url :http://mail-archives.apache.org/mod_mbox/maven-users/201602.mbox/%3c32FDFF8B-3B29-4BE9-B7FC-8AE350553838@whitford.com%3e
+2016-03-13 19:33:21 INFO  FileDownloader:29 - Destination url : /home/lakshmanar/YEAR 2016/201602.mbox/Sat 20 Feb 13:11.txt
+2016-03-13 19:33:21 INFO  FileDownloader:28 - Source url :http://mail-archives.apache.org/mod_mbox/maven-users/201602.mbox/%3c2675260.y9uTljhckJ@herve-desktop%3e
+2016-03-13 19:33:21 INFO  FileDownloader:29 - Destination url : /home/lakshmanar/YEAR 2016/201602.mbox/Sat 20 Feb 14:32.txt
+2016-03-13 19:33:21 INFO  FileDownloader:28 - Source url :http://mail-archives.apache.org/mod_mbox/maven-users/201602.mbox/%3cloom.20160220T185725-195@post.gmane.org%3e
+2016-03-13 19:33:21 INFO  FileDownloader:29 - Destination url : /home/lakshmanar/YEAR 2016/201602.mbox/Sat 20 Feb 17:58.txt
+2016-03-13 19:33:21 INFO  FileDownloader:28 - Source url :http://mail-archives.apache.org/mod_mbox/maven-users/201602.mbox/%3cop.yc6i3qaurwl22i@desktop-2khsk44.dynamic.ziggo.nl%3e
+2016-03-13 19:33:21 INFO  FileDownloader:29 - Destination url : /home/lakshmanar/YEAR 2016/201602.mbox/Sun 21 Feb 10:51.txt
+2016-03-13 19:33:21 INFO  FileDownloader:28 - Source url :http://mail-archives.apache.org/mod_mbox/maven-users/201602.mbox/%3cCAPCjjnEFNx4YN6PZcLApZhM-hwbRkrP3p2boW96Qh4v8KVw=xQ@mail.gmail.com%3e
+2016-03-13 19:33:21 INFO  FileDownloader:29 - Destination url : /home/lakshmanar/YEAR 2016/201602.mbox/Sun 21 Feb 14:59.txt
+2016-03-13 19:33:21 INFO  FileDownloader:28 - Source url :http://mail-archives.apache.org/mod_mbox/maven-users/201602.mbox/%3cBLU172-W420292D307CBA9252E4A20AEA40@phx.gbl%3e
+2016-03-13 19:33:21 INFO  FileDownloader:29 - Destination url : /home/lakshmanar/YEAR 2016/201602.mbox/Tue 23 Feb 16:33.txt
+2016-03-13 19:33:21 INFO  FileDownloader:28 - Source url :http://mail-archives.apache.org/mod_mbox/maven-users/201602.mbox/%3cCAJmbs8hXju+9roV5VyEHte5vRWSeD8-t_HUyWmQM6JoK=hhhdA@mail.gmail.com%3e
+2016-03-13 19:33:21 INFO  FileDownloader:29 - Destination url : /home/lakshmanar/YEAR 2016/201602.mbox/Wed 24 Feb 05:21.txt
+2016-03-13 19:33:21 INFO  FileDownloader:28 - Source url :http://mail-archives.apache.org/mod_mbox/maven-users/201602.mbox/%3c2337255.xU7aS9G1qr@herve-desktop%3e
+2016-03-13 19:33:21 INFO  FileDownloader:29 - Destination url : /home/lakshmanar/YEAR 2016/201602.mbox/Wed 24 Feb 06:58.txt
+2016-03-13 19:33:21 INFO  FileDownloader:28 - Source url :http://mail-archives.apache.org/mod_mbox/maven-users/201602.mbox/%3cCAJmbs8idOXvBd=zGUacZ_3pipbNsEMjEi+NT5SJSmYQ4+B4q+A@mail.gmail.com%3e
+2016-03-13 19:33:21 INFO  FileDownloader:29 - Destination url : /home/lakshmanar/YEAR 2016/201602.mbox/Wed 24 Feb 07:47.txt
+2016-03-13 19:33:21 INFO  FileDownloader:28 - Source url :http://mail-archives.apache.org/mod_mbox/maven-users/201602.mbox/%3c2633642.dcRzjKQSAv@herve-desktop%3e
+2016-03-13 19:33:21 INFO  FileDownloader:29 - Destination url : /home/lakshmanar/YEAR 2016/201602.mbox/Thu 25 Feb 06:47.txt
+2016-03-13 19:33:21 INFO  FileDownloader:28 - Source url :http://mail-archives.apache.org/mod_mbox/maven-users/201602.mbox/%3cCAJmbs8jFc+45gvD0BAso2Md82MWzN6FL=tG0MZNe_0aKoe5Bzw@mail.gmail.com%3e
+2016-03-13 19:33:21 INFO  FileDownloader:29 - Destination url : /home/lakshmanar/YEAR 2016/201602.mbox/Sat 27 Feb 08:04.txt
+2016-03-13 19:33:21 INFO  FileDownloader:28 - Source url :http://mail-archives.apache.org/mod_mbox/maven-users/201602.mbox/%3c1456467964618-5863066.post@n5.nabble.com%3e
+2016-03-13 19:33:21 INFO  FileDownloader:29 - Destination url : /home/lakshmanar/YEAR 2016/201602.mbox/Fri 26 Feb 06:26.txt
+2016-03-13 19:33:21 INFO  FileDownloader:28 - Source url :http://mail-archives.apache.org/mod_mbox/maven-users/201602.mbox/%3cCAFmYSVnJsKgHS=VzEpa3YbPsWNf59c8QWmpR1u61uKvZGx_8=g@mail.gmail.com%3e
+2016-03-13 19:33:21 INFO  FileDownloader:28 - Source url :http://mail-archives.apache.org/mod_mbox/maven-users/201602.mbox/%3cCAC1He-ZqdTMNCegQPqv8iNfd_CuvA2-B2yeO7LWhwkbAgZ6bhA@mail.gmail.com%3e
+2016-03-13 19:33:21 INFO  FileDownloader:29 - Destination url : /home/lakshmanar/YEAR 2016/201602.mbox/Fri 26 Feb 08:30.txt
+2016-03-13 19:33:21 INFO  FileDownloader:29 - Destination url : /home/lakshmanar/YEAR 2016/201602.mbox/Fri 26 Feb 14:24.txt
+2016-03-13 19:33:21 INFO  FileDownloader:28 - Source url :http://mail-archives.apache.org/mod_mbox/maven-users/201602.mbox/%3cCAA9S6i4Np=t4sMXf2nm82tmf+G55G+EJezfPZUBuFkOtKvGSBA@mail.gmail.com%3e
+2016-03-13 19:33:21 INFO  FileDownloader:29 - Destination url : /home/lakshmanar/YEAR 2016/201602.mbox/Fri 26 Feb 15:21.txt
+2016-03-13 19:33:21 INFO  FileDownloader:28 - Source url :http://mail-archives.apache.org/mod_mbox/maven-users/201602.mbox/%3c56D06E88.6010702@gmx.de%3e
+2016-03-13 19:33:21 INFO  FileDownloader:29 - Destination url : /home/lakshmanar/YEAR 2016/201602.mbox/Fri 26 Feb 15:26.txt
+2016-03-13 19:33:21 INFO  FileDownloader:28 - Source url :http://mail-archives.apache.org/mod_mbox/maven-users/201602.mbox/%3cCAL3ihcN3HYoFHvUeVnj1M7GZYqCxp0ECE4gxiQWcci+F_Pnz1Q@mail.gmail.com%3e
+2016-03-13 19:33:21 INFO  FileDownloader:29 - Destination url : /home/lakshmanar/YEAR 2016/201602.mbox/Fri 26 Feb 23:26.txt
+2016-03-13 19:33:22 INFO  FileDownloader:28 - Source url :http://mail-archives.apache.org/mod_mbox/maven-users/201602.mbox/%3c20160227104703.00003a23.ecki@zusammenkunft.net%3e
+2016-03-13 19:33:22 INFO  FileDownloader:29 - Destination url : /home/lakshmanar/YEAR 2016/201602.mbox/Sat 27 Feb 09:47.txt
+2016-03-13 19:33:22 INFO  FileDownloader:28 - Source url :http://mail-archives.apache.org/mod_mbox/maven-users/201602.mbox/%3cCAL3ihcPa7aw768GnKL_vXcDfq3fupvCGGCgh=k=uwMPC0QtQEw@mail.gmail.com%3e
+2016-03-13 19:33:22 INFO  FileDownloader:29 - Destination url : /home/lakshmanar/YEAR 2016/201602.mbox/Sat 27 Feb 16:35.txt
+2016-03-13 19:33:22 INFO  FileDownloader:28 - Source url :http://mail-archives.apache.org/mod_mbox/maven-users/201602.mbox/%3cCAL5zq9ayjbSeAPMGFvKvUjMEQBY+ryAzpHqJYaXq47zK5SHUYQ@mail.gmail.com%3e
+2016-03-13 19:33:22 INFO  FileDownloader:29 - Destination url : /home/lakshmanar/YEAR 2016/201602.mbox/Mon 29 Feb 00:02.txt
+2016-03-13 19:33:22 INFO  FileDownloader:28 - Source url :http://mail-archives.apache.org/mod_mbox/maven-users/201602.mbox/%3cCAL3VrCfwjd+OFCSCA17qf+B=BDN1mcBp+HuyzkD4WnLWuZBWcw@mail.gmail.com%3e
+2016-03-13 19:33:22 INFO  FileDownloader:29 - Destination url : /home/lakshmanar/YEAR 2016/201602.mbox/Sat 27 Feb 02:29.txt
+2016-03-13 19:33:22 INFO  FileDownloader:28 - Source url :http://mail-archives.apache.org/mod_mbox/maven-users/201602.mbox/%3cCAArU9ibgq6VV+efQz9eHmoRf9vt6+EVaojvY+g+keqGykr=pAw@mail.gmail.com%3e
+2016-03-13 19:33:22 INFO  FileDownloader:29 - Destination url : /home/lakshmanar/YEAR 2016/201602.mbox/Sat 27 Feb 03:01.txt
+2016-03-13 19:33:22 INFO  FileDownloader:28 - Source url :http://mail-archives.apache.org/mod_mbox/maven-users/201602.mbox/%3cCAL3VrCfJ9Mb5_0_ni8zkAeX=-S5EX2MNXSGpWa=b=ExY_4GcYA@mail.gmail.com%3e
+2016-03-13 19:33:22 INFO  FileDownloader:29 - Destination url : /home/lakshmanar/YEAR 2016/201602.mbox/Sat 27 Feb 12:29.txt
+2016-03-13 19:33:22 INFO  FileDownloader:28 - Source url :http://mail-archives.apache.org/mod_mbox/maven-users/201602.mbox/%3c56D1CF3A.7060200@apache.org%3e
+2016-03-13 19:33:22 INFO  FileDownloader:29 - Destination url : /home/lakshmanar/YEAR 2016/201602.mbox/Sat 27 Feb 16:30.txt
+2016-03-13 19:33:22 INFO  FileDownloader:28 - Source url :http://mail-archives.apache.org/mod_mbox/maven-users/201602.mbox/%3c56D1CFE6.2010207@apache.org%3e
+2016-03-13 19:33:22 INFO  FileDownloader:29 - Destination url : /home/lakshmanar/YEAR 2016/201602.mbox/Sat 27 Feb 16:33.txt
+2016-03-13 19:33:22 INFO  FileDownloader:28 - Source url :http://mail-archives.apache.org/mod_mbox/maven-users/201602.mbox/%3cupzc8u24vdba.fsf@dod.no%3e
+2016-03-13 19:33:22 INFO  FileDownloader:29 - Destination url : /home/lakshmanar/YEAR 2016/201602.mbox/Sun 28 Feb 19:34.txt
+2016-03-13 19:33:22 INFO  FileDownloader:28 - Source url :http://mail-archives.apache.org/mod_mbox/maven-users/201602.mbox/%3cupzcoab0twk4.fsf@dod.no%3e
+2016-03-13 19:33:22 INFO  FileDownloader:29 - Destination url : /home/lakshmanar/YEAR 2016/201602.mbox/Sun 28 Feb 20:22.txt
+2016-03-13 19:33:22 INFO  FileDownloader:28 - Source url :http://mail-archives.apache.org/mod_mbox/maven-users/201602.mbox/%3cCAKDUN1sC9qaPYKOVCNopGDG=UhtBhehEdfNFRdcwYCE3xzLf=A@mail.gmail.com%3e
+2016-03-13 19:33:22 INFO  FileDownloader:29 - Destination url : /home/lakshmanar/YEAR 2016/201602.mbox/Sun 28 Feb 20:44.txt
+2016-03-13 19:33:22 INFO  FileDownloader:28 - Source url :http://mail-archives.apache.org/mod_mbox/maven-users/201602.mbox/%3cupzcbn70tsc2.fsf@dod.no%3e
+2016-03-13 19:33:22 INFO  FileDownloader:29 - Destination url : /home/lakshmanar/YEAR 2016/201602.mbox/Sun 28 Feb 21:53.txt
+2016-03-13 19:33:22 INFO  FileDownloader:28 - Source url :http://mail-archives.apache.org/mod_mbox/maven-users/201602.mbox/%3cCAON201DXeHcUhsGSuaOot6k_=ONEt4=q9zO+TDooUWAjPWziKQ@mail.gmail.com%3e
+2016-03-13 19:33:22 INFO  FileDownloader:29 - Destination url : /home/lakshmanar/YEAR 2016/201602.mbox/Mon 29 Feb 02:03.txt
+2016-03-13 19:34:21 INFO  FileHelper:21 - creating directory: /home/lakshmanar/YEAR 2016/201601.mbox
+2016-03-13 19:34:21 INFO  FileHelper:30 - Directory  created with name /home/lakshmanar/YEAR 2016/201601.mbox
+2016-03-13 19:34:21 INFO  FileDownloader:28 - Source url :http://mail-archives.apache.org/mod_mbox/maven-users/201601.mbox/%3c5686E0C6.1000007@apache.org%3e
+2016-03-13 19:34:21 INFO  FileDownloader:29 - Destination url : /home/lakshmanar/YEAR 2016/201601.mbox/Fri 01 Jan 20:25.txt
+2016-03-13 19:34:21 INFO  FileDownloader:28 - Source url :http://mail-archives.apache.org/mod_mbox/maven-users/201601.mbox/%3c5686F9F8.8060501@artifact-software.com%3e
+2016-03-13 19:34:21 INFO  FileDownloader:29 - Destination url : /home/lakshmanar/YEAR 2016/201601.mbox/Fri 01 Jan 22:13.txt
+2016-03-13 19:34:21 INFO  FileDownloader:28 - Source url :http://mail-archives.apache.org/mod_mbox/maven-users/201601.mbox/%3c568707FB.6060708@apache.org%3e
+2016-03-13 19:34:21 INFO  FileDownloader:28 - Source url :http://mail-archives.apache.org/mod_mbox/maven-users/201601.mbox/%3cCAOsf21BY0oz+dm2VXTxa7gv50gGfHYKd3PB2ji6RfiL_bRyrAg@mail.gmail.com%3e
+2016-03-13 19:34:21 INFO  FileDownloader:28 - Source url :http://mail-archives.apache.org/mod_mbox/maven-users/201601.mbox/%3cCAMYdmatN5U1hA9WxkuDf-6UNwsqTsBnQ3cFu7K2-eJk=8EncPw@mail.gmail.com%3e
+2016-03-13 19:34:21 INFO  FileDownloader:29 - Destination url : /home/lakshmanar/YEAR 2016/201601.mbox/Sat 02 Jan 17:14.txt
+2016-03-13 19:34:21 INFO  FileDownloader:28 - Source url :http://mail-archives.apache.org/mod_mbox/maven-users/201601.mbox/%3cCAOsf21Bfnb_ALYNC=OJTM=d54MvRZG=JEAfJ-04jRJ1uXRkn7g@mail.gmail.com%3e
+2016-03-13 19:34:21 INFO  FileDownloader:29 - Destination url : /home/lakshmanar/YEAR 2016/201601.mbox/Sat 02 Jan 15:28.txt
+2016-03-13 19:34:21 INFO  FileDownloader:28 - Source url :http://mail-archives.apache.org/mod_mbox/maven-users/201601.mbox/%3c5687F5DF.9010601@apache.org%3e
+2016-03-13 19:34:21 INFO  FileDownloader:29 - Destination url : /home/lakshmanar/YEAR 2016/201601.mbox/Sat 02 Jan 16:07.txt
+2016-03-13 19:34:21 INFO  FileDownloader:28 - Source url :http://mail-archives.apache.org/mod_mbox/maven-users/201601.mbox/%3cCAOsf21B9UhigFrzJLJAW5Y3FDBPLPE5+hTU75Reo82SFNUGM9g@mail.gmail.com%3e
+2016-03-13 19:34:21 INFO  FileDownloader:29 - Destination url : /home/lakshmanar/YEAR 2016/201601.mbox/Sat 02 Jan 16:00.txt
+2016-03-13 19:34:21 INFO  FileDownloader:28 - Source url :http://mail-archives.apache.org/mod_mbox/maven-users/201601.mbox/%3c5687F140.6060308@artifact-software.com%3e
+2016-03-13 19:34:21 INFO  FileDownloader:29 - Destination url : /home/lakshmanar/YEAR 2016/201601.mbox/Sat 02 Jan 15:48.txt
+2016-03-13 19:34:21 INFO  FileDownloader:29 - Destination url : /home/lakshmanar/YEAR 2016/201601.mbox/Fri 01 Jan 23:12.txt
+2016-03-13 19:34:21 INFO  FileDownloader:28 - Source url :http://mail-archives.apache.org/mod_mbox/maven-users/201601.mbox/%3cCAJ69_jG1GWpbsUjG1YdWscwJ0z2YDsH5=iD7ArSvoX1J5ZG-OQ@mail.gmail.com%3e
+2016-03-13 19:34:21 INFO  FileDownloader:29 - Destination url : /home/lakshmanar/YEAR 2016/201601.mbox/Sun 03 Jan 10:14.txt
+2016-03-13 19:34:21 INFO  FileDownloader:29 - Destination url : /home/lakshmanar/YEAR 2016/201601.mbox/Sat 02 Jan 16:54.txt
+2016-03-13 19:34:21 INFO  FileDownloader:28 - Source url :http://mail-archives.apache.org/mod_mbox/maven-users/201601.mbox/%3cCAKuVzBR6Yoewis+SVOUE+JqmEaX4pU8uUXGJKr8KDhLi4HJ9dQ@mail.gmail.com%3e
+2016-03-13 19:34:21 INFO  FileDownloader:29 - Destination url : /home/lakshmanar/YEAR 2016/201601.mbox/Sun 03 Jan 19:46.txt
+2016-03-13 19:34:21 INFO  FileDownloader:28 - Source url :http://mail-archives.apache.org/mod_mbox/maven-users/201601.mbox/%3c56899F01.1090703@apache.org%3e
+2016-03-13 19:34:21 INFO  FileDownloader:29 - Destination url : /home/lakshmanar/YEAR 2016/201601.mbox/Sun 03 Jan 22:21.txt
+2016-03-13 19:34:22 INFO  FileDownloader:28 - Source url :http://mail-archives.apache.org/mod_mbox/maven-users/201601.mbox/%3cDB5PR05MB12856794ED56F3940A4EB993A2F20@DB5PR05MB1285.eurprd05.prod.outlook.com%3e
+2016-03-13 19:34:22 INFO  FileDownloader:29 - Destination url : /home/lakshmanar/YEAR 2016/201601.mbox/Mon 04 Jan 08:38.txt
+2016-03-13 19:34:22 INFO  FileDownloader:28 - Source url :http://mail-archives.apache.org/mod_mbox/maven-users/201601.mbox/%3c568A9B76.5040400@artifact-software.com%3e
+2016-03-13 19:34:22 INFO  FileDownloader:29 - Destination url : /home/lakshmanar/YEAR 2016/201601.mbox/Mon 04 Jan 16:19.txt
+2016-03-13 19:34:22 INFO  FileDownloader:28 - Source url :http://mail-archives.apache.org/mod_mbox/maven-users/201601.mbox/%3cDB5PR05MB1285839179C93A6EFC897ADCA2F50@DB5PR05MB1285.eurprd05.prod.outlook.com%3e
+2016-03-13 19:34:22 INFO  FileDownloader:29 - Destination url : /home/lakshmanar/YEAR 2016/201601.mbox/Thu 07 Jan 14:25.txt
+2016-03-13 19:34:22 INFO  FileDownloader:28 - Source url :http://mail-archives.apache.org/mod_mbox/maven-users/201601.mbox/%3c568E7F08.9060208@artifact-software.com%3e
+2016-03-13 19:34:22 INFO  FileDownloader:28 - Source url :http://mail-archives.apache.org/mod_mbox/maven-users/201601.mbox/%3cDB5PR05MB1285CB1EAC0C62EEF6231B1FA2F60@DB5PR05MB1285.eurprd05.prod.outlook.com%3e
+2016-03-13 19:34:22 INFO  FileDownloader:29 - Destination url : /home/lakshmanar/YEAR 2016/201601.mbox/Thu 07 Jan 15:06.txt
+2016-03-13 19:34:22 INFO  FileDownloader:29 - Destination url : /home/lakshmanar/YEAR 2016/201601.mbox/Fri 08 Jan 10:03.txt
+2016-03-13 19:34:22 INFO  FileDownloader:28 - Source url :http://mail-archives.apache.org/mod_mbox/maven-users/201601.mbox/%3c568FCE8A.40403@artifact-software.com%3e
+2016-03-13 19:34:22 INFO  FileDownloader:29 - Destination url : /home/lakshmanar/YEAR 2016/201601.mbox/Fri 08 Jan 14:58.txt
+2016-03-13 19:34:22 INFO  FileDownloader:28 - Source url :http://mail-archives.apache.org/mod_mbox/maven-users/201601.mbox/%3cDB5PR05MB1285AFA926AF6B6DE3E6F842A2F70@DB5PR05MB1285.eurprd05.prod.outlook.com%3e
+2016-03-13 19:34:22 INFO  FileDownloader:29 - Destination url : /home/lakshmanar/YEAR 2016/201601.mbox/Sat 09 Jan 09:59.txt
+2016-03-13 19:34:22 INFO  FileDownloader:28 - Source url :http://mail-archives.apache.org/mod_mbox/maven-users/201601.mbox/%3c5690FF90.8090706@gmx.de%3e
+2016-03-13 19:34:22 INFO  FileDownloader:29 - Destination url : /home/lakshmanar/YEAR 2016/201601.mbox/Sat 09 Jan 12:39.txt
+2016-03-13 19:34:22 INFO  FileDownloader:28 - Source url :http://mail-archives.apache.org/mod_mbox/maven-users/201601.mbox/%3cDB5PR05MB1285D8408351CE733756C9E1A2F70@DB5PR05MB1285.eurprd05.prod.outlook.com%3e
+2016-03-13 19:34:22 INFO  FileDownloader:29 - Destination url : /home/lakshmanar/YEAR 2016/201601.mbox/Sat 09 Jan 15:03.txt
+2016-03-13 19:34:22 INFO  FileDownloader:28 - Source url :http://mail-archives.apache.org/mod_mbox/maven-users/201601.mbox/%3c4BBFDEBB-DD62-4CBF-B54E-56D3E8EE75C3@gmail.com%3e
+2016-03-13 19:34:22 INFO  FileDownloader:29 - Destination url : /home/lakshmanar/YEAR 2016/201601.mbox/Sat 09 Jan 16:57.txt
+2016-03-13 19:34:22 INFO  FileDownloader:28 - Source url :http://mail-archives.apache.org/mod_mbox/maven-users/201601.mbox/%3c569140B9.40006@artifact-software.com%3e
+2016-03-13 19:34:22 INFO  FileDownloader:29 - Destination url : /home/lakshmanar/YEAR 2016/201601.mbox/Sat 09 Jan 17:17.txt
+2016-03-13 19:34:22 INFO  FileDownloader:28 - Source url :http://mail-archives.apache.org/mod_mbox/maven-users/201601.mbox/%3c56912075.3050807@artifact-software.com%3e
+2016-03-13 19:34:22 INFO  FileDownloader:29 - Destination url : /home/lakshmanar/YEAR 2016/201601.mbox/Sat 09 Jan 15:00.txt
+2016-03-13 19:34:22 INFO  FileDownloader:28 - Source url :http://mail-archives.apache.org/mod_mbox/maven-users/201601.mbox/%3cCAEayHEOLi=0NbgyttYH40Uh0S5nreSyWD_vFCmnmgWF14o9mWw@mail.gmail.com%3e
+2016-03-13 19:34:22 INFO  FileDownloader:29 - Destination url : /home/lakshmanar/YEAR 2016/201601.mbox/Sat 09 Jan 15:03.txt
+2016-03-13 19:34:22 INFO  FileDownloader:28 - Source url :http://mail-archives.apache.org/mod_mbox/maven-users/201601.mbox/%3cDB5PR05MB128501E3C46CE250F638778FA2C80@DB5PR05MB1285.eurprd05.prod.outlook.com%3e
+2016-03-13 19:34:22 INFO  FileDownloader:29 - Destination url : /home/lakshmanar/YEAR 2016/201601.mbox/Sun 10 Jan 10:37.txt
+2016-03-13 19:34:22 INFO  FileDownloader:28 - Source url :http://mail-archives.apache.org/mod_mbox/maven-users/201601.mbox/%3cDB5PR05MB1285D92580427F89509EF7AAA2C80@DB5PR05MB1285.eurprd05.prod.outlook.com%3e
+2016-03-13 19:34:22 INFO  FileDownloader:29 - Destination url : /home/lakshmanar/YEAR 2016/201601.mbox/Sun 10 Jan 10:38.txt
+2016-03-13 19:34:22 INFO  FileDownloader:28 - Source url :http://mail-archives.apache.org/mod_mbox/maven-users/201601.mbox/%3cEC8E0527-EE57-4F7C-9F24-A0DE9241BC7C@gmail.com%3e
+2016-03-13 19:34:22 INFO  FileDownloader:29 - Destination url : /home/lakshmanar/YEAR 2016/201601.mbox/Wed 06 Jan 21:22.txt
+2016-03-13 19:34:23 INFO  FileDownloader:28 - Source url :http://mail-archives.apache.org/mod_mbox/maven-users/201601.mbox/%3c6B9B63A1-0D0C-4486-A8D5-25C38D61CF51@gmail.com%3e
+2016-03-13 19:34:23 INFO  FileDownloader:29 - Destination url : /home/lakshmanar/YEAR 2016/201601.mbox/Thu 07 Jan 04:01.txt
+2016-03-13 19:34:23 INFO  FileDownloader:28 - Source url :http://mail-archives.apache.org/mod_mbox/maven-users/201601.mbox/%3cCAPo9-A9zbpCrsecrXCHEgVnRb=y3+KH4Xr+rjLeg063J8S3gjw@mail.gmail.com%3e
+2016-03-13 19:34:23 INFO  FileDownloader:29 - Destination url : /home/lakshmanar/YEAR 2016/201601.mbox/Thu 07 Jan 12:08.txt
+2016-03-13 19:34:23 INFO  FileDownloader:28 - Source url :http://mail-archives.apache.org/mod_mbox/maven-users/201601.mbox/%3c4A452C9C-A9E8-4DCF-8029-43A35C57C610@oracle.com%3e
+2016-03-13 19:34:23 INFO  FileDownloader:29 - Destination url : /home/lakshmanar/YEAR 2016/201601.mbox/Thu 07 Jan 12:27.txt
+2016-03-13 19:34:23 INFO  FileDownloader:28 - Source url :http://mail-archives.apache.org/mod_mbox/maven-users/201601.mbox/%3cCAPo9-A_Cqrt7QFt-Y646zT2N2wtLH6QUxunWexqZ4JHthEApQA@mail.gmail.com%3e
+2016-03-13 19:34:23 INFO  FileDownloader:29 - Destination url : /home/lakshmanar/YEAR 2016/201601.mbox/Thu 07 Jan 12:31.txt
+2016-03-13 19:34:23 INFO  FileDownloader:28 - Source url :http://mail-archives.apache.org/mod_mbox/maven-users/201601.mbox/%3c1e9ff392-5974-498e-bb75-dcd42557caad@default%3e
+2016-03-13 19:34:23 INFO  FileDownloader:29 - Destination url : /home/lakshmanar/YEAR 2016/201601.mbox/Thu 07 Jan 12:42.txt
+2016-03-13 19:34:23 INFO  FileDownloader:28 - Source url :http://mail-archives.apache.org/mod_mbox/maven-users/201601.mbox/%3c568EB99C.9040209@gmx.de%3e
+2016-03-13 19:34:23 INFO  FileDownloader:29 - Destination url : /home/lakshmanar/YEAR 2016/201601.mbox/Thu 07 Jan 19:16.txt
+2016-03-13 19:34:23 INFO  FileDownloader:28 - Source url :http://mail-archives.apache.org/mod_mbox/maven-users/201601.mbox/%3c34586279.Mv7BDU0GPk@herve-desktop%3e
+2016-03-13 19:34:23 INFO  FileDownloader:29 - Destination url : /home/lakshmanar/YEAR 2016/201601.mbox/Sat 09 Jan 16:37.txt
+2016-03-13 19:34:23 INFO  FileDownloader:28 - Source url :http://mail-archives.apache.org/mod_mbox/maven-users/201601.mbox/%3cCAPCjjnHGkvN3iTx83V2K8g1cErtbUAX6QfVoF5gU4LbZDp2AtQ@mail.gmail.com%3e
+2016-03-13 19:34:23 INFO  FileDownloader:29 - Destination url : /home/lakshmanar/YEAR 2016/201601.mbox/Fri 08 Jan 09:29.txt
+2016-03-13 19:34:23 INFO  FileDownloader:28 - Source url :http://mail-archives.apache.org/mod_mbox/maven-users/201601.mbox/%3cCAPLpRQ+YzGc5ZhrNg9BeOOW0VcXiT9p7YqyKC-OZzzwUo90K8w@mail.gmail.com%3e
+2016-03-13 19:34:23 INFO  FileDownloader:29 - Destination url : /home/lakshmanar/YEAR 2016/201601.mbox/Fri 08 Jan 09:51.txt
+2016-03-13 19:34:23 INFO  FileDownloader:28 - Source url :http://mail-archives.apache.org/mod_mbox/maven-users/201601.mbox/%3cop.yaxv2tbqkdkhrr@robertscholte.dynamic.ziggo.nl%3e
+2016-03-13 19:34:23 INFO  FileDownloader:29 - Destination url : /home/lakshmanar/YEAR 2016/201601.mbox/Fri 08 Jan 21:45.txt
+2016-03-13 19:34:23 INFO  FileDownloader:28 - Source url :http://mail-archives.apache.org/mod_mbox/maven-users/201601.mbox/%3cCAPCjjnGKJqX5X3ET0vGYWg6w9KVUrTg4WzHod8AMyg3TO7=x6A@mail.gmail.com%3e
+2016-03-13 19:34:23 INFO  FileDownloader:29 - Destination url : /home/lakshmanar/YEAR 2016/201601.mbox/Fri 08 Jan 21:56.txt
+2016-03-13 19:34:23 INFO  FileDownloader:28 - Source url :http://mail-archives.apache.org/mod_mbox/maven-users/201601.mbox/%3c20160109131317.5AF4E11C1023@dd12814.kasserver.com%3e
+2016-03-13 19:34:23 INFO  FileDownloader:29 - Destination url : /home/lakshmanar/YEAR 2016/201601.mbox/Sat 09 Jan 13:13.txt
+2016-03-13 19:34:23 INFO  FileDownloader:28 - Source url :http://mail-archives.apache.org/mod_mbox/maven-users/201601.mbox/%3c569113E0.5030702@gmx.de%3e
+2016-03-13 19:34:23 INFO  FileDownloader:29 - Destination url : /home/lakshmanar/YEAR 2016/201601.mbox/Sat 09 Jan 14:06.txt
+2016-03-13 19:34:23 INFO  FileDownloader:28 - Source url :http://mail-archives.apache.org/mod_mbox/maven-users/201601.mbox/%3c0FA7228C-6177-47B7-A891-617AC46202DF@kriegisch.name%3e
+2016-03-13 19:34:23 INFO  FileDownloader:29 - Destination url : /home/lakshmanar/YEAR 2016/201601.mbox/Fri 22 Jan 13:11.txt
+2016-03-13 19:34:23 INFO  FileDownloader:28 - Source url :http://mail-archives.apache.org/mod_mbox/maven-users/201601.mbox/%3cF8CDC11E-2CC7-4720-9AA9-A26174FDC75D@kriegisch.name%3e
+2016-03-13 19:34:23 INFO  FileDownloader:29 - Destination url : /home/lakshmanar/YEAR 2016/201601.mbox/Fri 22 Jan 13:44.txt
+2016-03-13 19:34:23 INFO  FileDownloader:28 - Source url :http://mail-archives.apache.org/mod_mbox/maven-users/201601.mbox/%3cCAK2FUK3PqEpeDZVvjGmsGRa51CXa=OS0sFdacOjAupr22EP9gw@mail.gmail.com%3e
+2016-03-13 19:34:23 INFO  FileDownloader:29 - Destination url : /home/lakshmanar/YEAR 2016/201601.mbox/Fri 22 Jan 18:17.txt
+2016-03-13 19:34:23 INFO  FileDownloader:28 - Source url :http://mail-archives.apache.org/mod_mbox/maven-users/201601.mbox/%3c56A25429.2020403@gmx.de%3e
+2016-03-13 19:34:23 INFO  FileDownloader:29 - Destination url : /home/lakshmanar/YEAR 2016/201601.mbox/Fri 22 Jan 16:09.txt
+2016-03-13 19:34:23 INFO  FileDownloader:28 - Source url :http://mail-archives.apache.org/mod_mbox/maven-users/201601.mbox/%3cCAHO6xe88GuxqozGDxyU9sWMKFbdY7VhNDYDTb4CJvtsyP-=+oA@mail.gmail.com%3e
+2016-03-13 19:34:23 INFO  FileDownloader:29 - Destination url : /home/lakshmanar/YEAR 2016/201601.mbox/Sun 10 Jan 17:54.txt
+2016-03-13 19:34:23 INFO  FileDownloader:28 - Source url :http://mail-archives.apache.org/mod_mbox/maven-users/201601.mbox/%3c56929D31.4070004@gmx.de%3e
+2016-03-13 19:34:23 INFO  FileDownloader:29 - Destination url : /home/lakshmanar/YEAR 2016/201601.mbox/Sun 10 Jan 18:04.txt
+2016-03-13 19:34:23 INFO  FileDownloader:28 - Source url :http://mail-archives.apache.org/mod_mbox/maven-users/201601.mbox/%3cCAHO6xe869ZCEi+Beu-xkH_VN1qM6nHn5_C74mSZBPjrqaLudDw@mail.gmail.com%3e
+2016-03-13 19:34:23 INFO  FileDownloader:29 - Destination url : /home/lakshmanar/YEAR 2016/201601.mbox/Sun 10 Jan 18:59.txt
+2016-03-13 19:34:24 INFO  FileDownloader:28 - Source url :http://mail-archives.apache.org/mod_mbox/maven-users/201601.mbox/%3cCAKuVzBS6_Z+AJF_ZFwevQdZcjq_uPxbUOCH0W4KbcdfNgVy6xg@mail.gmail.com%3e
+2016-03-13 19:34:24 INFO  FileDownloader:29 - Destination url : /home/lakshmanar/YEAR 2016/201601.mbox/Sun 10 Jan 22:21.txt
+2016-03-13 19:34:24 INFO  FileDownloader:28 - Source url :http://mail-archives.apache.org/mod_mbox/maven-users/201601.mbox/%3cCAKuVzBS2BeJoxXi3Yotbbyy5kGJemVSSCNr3+YW3ytz51G2wbQ@mail.gmail.com%3e
+2016-03-13 19:34:24 INFO  FileDownloader:29 - Destination url : /home/lakshmanar/YEAR 2016/201601.mbox/Sun 10 Jan 22:30.txt
+2016-03-13 19:34:24 INFO  FileDownloader:28 - Source url :http://mail-archives.apache.org/mod_mbox/maven-users/201601.mbox/%3cCAMdR1vXnFH1SCFUoeSBXiY7ikwkccKHdC_85-dXX1MVgbJOxzw@mail.gmail.com%3e
+2016-03-13 19:34:24 INFO  FileDownloader:29 - Destination url : /home/lakshmanar/YEAR 2016/201601.mbox/Mon 11 Jan 16:33.txt
+2016-03-13 19:34:24 INFO  FileDownloader:28 - Source url :http://mail-archives.apache.org/mod_mbox/maven-users/201601.mbox/%3cCALhtWkf5n-+XANcGfuaWSck6KoV1WZ9kQJTVGfxG-40zDkQRHg@mail.gmail.com%3e
+2016-03-13 19:34:24 INFO  FileDownloader:29 - Destination url : /home/lakshmanar/YEAR 2016/201601.mbox/Tue 12 Jan 14:09.txt
+2016-03-13 19:34:24 INFO  FileDownloader:28 - Source url :http://mail-archives.apache.org/mod_mbox/maven-users/201601.mbox/%3cCALhtWkec1eQzA7Y3iynURN1Un4t42LgAFUUco-Cqf8yjc2N7AA@mail.gmail.com%3e
+2016-03-13 19:34:24 INFO  FileDownloader:29 - Destination url : /home/lakshmanar/YEAR 2016/201601.mbox/Tue 12 Jan 14:13.txt
+2016-03-13 19:34:24 INFO  FileDownloader:28 - Source url :http://mail-archives.apache.org/mod_mbox/maven-users/201601.mbox/%3cCAK2FUK1f52-raR-FmxM2B2JP-upKmNeL=a=k4uMTmjdjtFokdg@mail.gmail.com%3e
+2016-03-13 19:34:24 INFO  FileDownloader:29 - Destination url : /home/lakshmanar/YEAR 2016/201601.mbox/Tue 12 Jan 20:57.txt
+2016-03-13 19:34:24 INFO  FileDownloader:28 - Source url :http://mail-archives.apache.org/mod_mbox/maven-users/201601.mbox/%3cCALhtWkcir19i0EDRYLX-Td1CVn2BC_X4nTBm5tNS3L+P-LHcow@mail.gmail.com%3e
+2016-03-13 19:34:24 INFO  FileDownloader:29 - Destination url : /home/lakshmanar/YEAR 2016/201601.mbox/Fri 15 Jan 00:57.txt
+2016-03-13 19:34:24 INFO  FileDownloader:28 - Source url :http://mail-archives.apache.org/mod_mbox/maven-users/201601.mbox/%3cCALhtWkcq=Vniywz_JpJi4XUfKHCC2iLgvEyfFE_RmmCo6iJm=w@mail.gmail.com%3e
+2016-03-13 19:34:24 INFO  FileDownloader:29 - Destination url : /home/lakshmanar/YEAR 2016/201601.mbox/Fri 15 Jan 15:28.txt
+2016-03-13 19:34:24 INFO  FileDownloader:28 - Source url :http://mail-archives.apache.org/mod_mbox/maven-users/201601.mbox/%3cCACpkv-zOTbcMDQsQQ8ZAq_X-9r-qTFjTgzChMUp1_2-QvPB28g@mail.gmail.com%3e
+2016-03-13 19:34:24 INFO  FileDownloader:29 - Destination url : /home/lakshmanar/YEAR 2016/201601.mbox/Tue 12 Jan 22:14.txt
+2016-03-13 19:34:24 INFO  FileDownloader:28 - Source url :http://mail-archives.apache.org/mod_mbox/maven-users/201601.mbox/%3cCAE9L6G1qqGy96EOaOFFEyayesa0CMqET6pyGqR4j0tj7gVrgdg@mail.gmail.com%3e
+2016-03-13 19:34:24 INFO  FileDownloader:29 - Destination url : /home/lakshmanar/YEAR 2016/201601.mbox/Tue 12 Jan 22:26.txt
+2016-03-13 19:34:24 INFO  FileDownloader:28 - Source url :http://mail-archives.apache.org/mod_mbox/maven-users/201601.mbox/%3cCANWgJS4veH5-7gqT-Z5FuUnw-OuoYcV79K0nTWuVTqGMYkfE8w@mail.gmail.com%3e
+2016-03-13 19:34:24 INFO  FileDownloader:29 - Destination url : /home/lakshmanar/YEAR 2016/201601.mbox/Tue 12 Jan 22:33.txt
+2016-03-13 19:34:24 INFO  FileDownloader:28 - Source url :http://mail-archives.apache.org/mod_mbox/maven-users/201601.mbox/%3cCAPHgKXQgJZT2JKZUKn2c1D-vaJRHz0HYQrQ+irZUkmn9H9G9OA@mail.gmail.com%3e
+2016-03-13 19:34:24 INFO  FileDownloader:29 - Destination url : /home/lakshmanar/YEAR 2016/201601.mbox/Wed 13 Jan 11:04.txt
+2016-03-13 19:34:24 INFO  FileDownloader:28 - Source url :http://mail-archives.apache.org/mod_mbox/maven-users/201601.mbox/%3cCACpkv-xAg9xvGYabv4s=hVyy0KZg60LBhz=aNK1+AQmPixpjSw@mail.gmail.com%3e
+2016-03-13 19:34:24 INFO  FileDownloader:29 - Destination url : /home/lakshmanar/YEAR 2016/201601.mbox/Wed 13 Jan 13:58.txt
+2016-03-13 19:34:24 INFO  FileDownloader:28 - Source url :http://mail-archives.apache.org/mod_mbox/maven-users/201601.mbox/%3cop.ya6uz5hkkdkhrr@robertscholte.dynamic.ziggo.nl%3e
+2016-03-13 19:34:24 INFO  FileDownloader:29 - Destination url : /home/lakshmanar/YEAR 2016/201601.mbox/Wed 13 Jan 18:01.txt
+2016-03-13 19:34:24 INFO  FileDownloader:28 - Source url :http://mail-archives.apache.org/mod_mbox/maven-users/201601.mbox/%3cCACpkv-x5PoxGACC3vG9VPsnryZqJ5+Zg+MjOMTZC6uV7zpTirA@mail.gmail.com%3e
+2016-03-13 19:34:24 INFO  FileDownloader:29 - Destination url : /home/lakshmanar/YEAR 2016/201601.mbox/Thu 14 Jan 09:10.txt
+2016-03-13 19:34:24 INFO  FileDownloader:28 - Source url :http://mail-archives.apache.org/mod_mbox/maven-users/201601.mbox/%3cCA+nPnMz58_wPx0NdghCL3P-C0ne5Lma8Eco=bbEDRUCSk=i8-Q@mail.gmail.com%3e
+2016-03-13 19:34:24 INFO  FileDownloader:29 - Destination url : /home/lakshmanar/YEAR 2016/201601.mbox/Thu 14 Jan 14:09.txt
+2016-03-13 19:34:24 INFO  FileDownloader:28 - Source url :http://mail-archives.apache.org/mod_mbox/maven-users/201601.mbox/%3cCACpkv-xP5U=SeOpdmh2kMQ-vT=nYQZy+9ahOpp2=uE1ffzx_BA@mail.gmail.com%3e
+2016-03-13 19:34:24 INFO  FileDownloader:29 - Destination url : /home/lakshmanar/YEAR 2016/201601.mbox/Fri 15 Jan 07:55.txt
+2016-03-13 19:34:24 INFO  FileDownloader:28 - Source url :http://mail-archives.apache.org/mod_mbox/maven-users/201601.mbox/%3cCAFBiXPpS2TC08+ucr=wKWr_iNHnpYBy1s4uWyNx_LNSmpEEdGg@mail.gmail.com%3e
+2016-03-13 19:34:24 INFO  FileDownloader:29 - Destination url : /home/lakshmanar/YEAR 2016/201601.mbox/Wed 13 Jan 08:41.txt
+2016-03-13 19:34:24 INFO  FileDownloader:28 - Source url :http://mail-archives.apache.org/mod_mbox/maven-users/201601.mbox/%3cCAKDUN1vL0yqptaxx-66hTgB73cmfEZuMQg3w2n7v8O2Q0b6K=Q@mail.gmail.com%3e
+2016-03-13 19:34:24 INFO  FileDownloader:29 - Destination url : /home/lakshmanar/YEAR 2016/201601.mbox/Wed 13 Jan 08:59.txt
+2016-03-13 19:34:24 INFO  FileDownloader:28 - Source url :http://mail-archives.apache.org/mod_mbox/maven-users/201601.mbox/%3cCAFBiXPq-0+JECCFexo4v5MXjWA+Z7cSG2ymcmw0DDMbB4bcQ1w@mail.gmail.com%3e
+2016-03-13 19:34:24 INFO  FileDownloader:29 - Destination url : /home/lakshmanar/YEAR 2016/201601.mbox/Wed 13 Jan 09:13.txt
+2016-03-13 19:34:24 INFO  FileDownloader:28 - Source url :http://mail-archives.apache.org/mod_mbox/maven-users/201601.mbox/%3cCAKDUN1tBZp=G_Z2kKuakhBQK03CB4ru1WxYJ-pxb5MFq1xsEew@mail.gmail.com%3e
+2016-03-13 19:34:24 INFO  FileDownloader:29 - Destination url : /home/lakshmanar/YEAR 2016/201601.mbox/Wed 13 Jan 09:35.txt
+2016-03-13 19:34:24 INFO  FileDownloader:28 - Source url :http://mail-archives.apache.org/mod_mbox/maven-users/201601.mbox/%3cCAFBiXPq+9o5pPr+TQE7RyittHUfcPDv81BZ3ksk2YunCqAWszA@mail.gmail.com%3e
+2016-03-13 19:34:24 INFO  FileDownloader:29 - Destination url : /home/lakshmanar/YEAR 2016/201601.mbox/Wed 13 Jan 11:42.txt
+2016-03-13 19:34:24 INFO  FileDownloader:28 - Source url :http://mail-archives.apache.org/mod_mbox/maven-users/201601.mbox/%3cBLU172-W383177CA99F6E23FF7CA43AECB0@phx.gbl%3e
+2016-03-13 19:34:24 INFO  FileDownloader:29 - Destination url : /home/lakshmanar/YEAR 2016/201601.mbox/Wed 13 Jan 13:10.txt
+2016-03-13 19:34:24 INFO  FileDownloader:28 - Source url :http://mail-archives.apache.org/mod_mbox/maven-users/201601.mbox/%3cCAFBiXPrSdCEgBNmtx6LaTW115vjimrmo2-wHf2NjmcKGERMhXA@mail.gmail.com%3e
+2016-03-13 19:34:24 INFO  FileDownloader:29 - Destination url : /home/lakshmanar/YEAR 2016/201601.mbox/Wed 13 Jan 14:29.txt
+2016-03-13 19:34:24 INFO  FileDownloader:28 - Source url :http://mail-archives.apache.org/mod_mbox/maven-users/201601.mbox/%3cBLU172-W12D5AE83C305D74AAAD920AECB0@phx.gbl%3e
+2016-03-13 19:34:24 INFO  FileDownloader:29 - Destination url : /home/lakshmanar/YEAR 2016/201601.mbox/Wed 13 Jan 16:09.txt
+2016-03-13 19:34:24 INFO  FileDownloader:28 - Source url :http://mail-archives.apache.org/mod_mbox/maven-users/201601.mbox/%3cCAFBiXPq0FKbd2C3Y3C8DkRcjco-Eesa13xaUHSngsLLTp05u0w@mail.gmail.com%3e
+2016-03-13 19:34:24 INFO  FileDownloader:29 - Destination url : /home/lakshmanar/YEAR 2016/201601.mbox/Thu 14 Jan 07:21.txt
+2016-03-13 19:34:24 INFO  FileDownloader:28 - Source url :http://mail-archives.apache.org/mod_mbox/maven-users/201601.mbox/%3cAD783E28-3E7D-42ED-B886-11867C3377AE@kriegisch.name%3e
+2016-03-13 19:34:24 INFO  FileDownloader:29 - Destination url : /home/lakshmanar/YEAR 2016/201601.mbox/Thu 14 Jan 07:47.txt
+2016-03-13 19:34:24 INFO  FileDownloader:28 - Source url :http://mail-archives.apache.org/mod_mbox/maven-users/201601.mbox/%3cBLU172-W445BF8B573614E81DECF66AECC0@phx.gbl%3e
+2016-03-13 19:34:24 INFO  FileDownloader:29 - Destination url : /home/lakshmanar/YEAR 2016/201601.mbox/Thu 14 Jan 22:18.txt
+2016-03-13 19:34:24 INFO  FileDownloader:28 - Source url :http://mail-archives.apache.org/mod_mbox/maven-users/201601.mbox/%3cCADczPYRo3wcuHKppfFOp2Lwaw_402H1nBrydxjAJVvXu+V+wLA@mail.gmail.com%3e
+2016-03-13 19:34:24 INFO  FileDownloader:29 - Destination url : /home/lakshmanar/YEAR 2016/201601.mbox/Wed 13 Jan 17:36.txt
+2016-03-13 19:34:24 INFO  FileDownloader:28 - Source url :http://mail-archives.apache.org/mod_mbox/maven-users/201601.mbox/%3cCAPCUOdEXc3vBXzmcUrR7G250wLKtn6t+iC5pEQhW-ABuuuQUWA@mail.gmail.com%3e
+2016-03-13 19:34:24 INFO  FileDownloader:29 - Destination url : /home/lakshmanar/YEAR 2016/201601.mbox/Wed 13 Jan 17:52.txt
+2016-03-13 19:34:25 INFO  FileDownloader:28 - Source url :http://mail-archives.apache.org/mod_mbox/maven-users/201601.mbox/%3c2eb29082-92c9-4f13-a06f-a1803d33d331@default%3e
+2016-03-13 19:34:25 INFO  FileDownloader:29 - Destination url : /home/lakshmanar/YEAR 2016/201601.mbox/Thu 14 Jan 04:54.txt
+2016-03-13 19:34:25 INFO  FileDownloader:28 - Source url :http://mail-archives.apache.org/mod_mbox/maven-users/201601.mbox/%3cOFB20F4AB5.71953075-ON65257F3A.001BACD4-65257F3A.001BE4B4@tcs.com%3e
+2016-03-13 19:34:25 INFO  FileDownloader:29 - Destination url : /home/lakshmanar/YEAR 2016/201601.mbox/Thu 14 Jan 05:04.txt
+2016-03-13 19:34:25 INFO  FileDownloader:28 - Source url :http://mail-archives.apache.org/mod_mbox/maven-users/201601.mbox/%3c3f598021-7427-489b-8884-e9f385429aa6@default%3e
+2016-03-13 19:34:25 INFO  FileDownloader:29 - Destination url : /home/lakshmanar/YEAR 2016/201601.mbox/Thu 14 Jan 05:36.txt
+2016-03-13 19:34:25 INFO  FileDownloader:28 - Source url :http://mail-archives.apache.org/mod_mbox/maven-users/201601.mbox/%3cOF16196346.C992DCAC-ON65257F3A.001C219B-65257F3A.001C2575@tcs.com%3e
+2016-03-13 19:34:25 INFO  FileDownloader:29 - Destination url : /home/lakshmanar/YEAR 2016/201601.mbox/Thu 14 Jan 05:07.txt
+2016-03-13 19:34:25 INFO  FileDownloader:28 - Source url :http://mail-archives.apache.org/mod_mbox/maven-users/201601.mbox/%3c5697AC33.3090500@fatlenny.net%3e
+2016-03-13 19:34:25 INFO  FileDownloader:29 - Destination url : /home/lakshmanar/YEAR 2016/201601.mbox/Thu 14 Jan 14:09.txt
+2016-03-13 19:34:25 INFO  FileDownloader:28 - Source url :http://mail-archives.apache.org/mod_mbox/maven-users/201601.mbox/%3c569822C5.6090105@gmail.com%3e
+2016-03-13 19:34:25 INFO  FileDownloader:29 - Destination url : /home/lakshmanar/YEAR 2016/201601.mbox/Thu 14 Jan 22:35.txt
+2016-03-13 19:34:25 INFO  FileDownloader:28 - Source url :http://mail-archives.apache.org/mod_mbox/maven-users/201601.mbox/%3cF21547B4F425F9428444D12A512705063691C9ED@NP1EXMB105.corp.halliburton.com%3e
+2016-03-13 19:34:25 INFO  FileDownloader:29 - Destination url : /home/lakshmanar/YEAR 2016/201601.mbox/Thu 14 Jan 22:38.txt
+2016-03-13 19:34:25 INFO  FileDownloader:28 - Source url :http://mail-archives.apache.org/mod_mbox/maven-users/201601.mbox/%3cCAK2FUK23RZsG0j-dJwSvuPeUMCBMo-nJGRHoju3D47Hf+J3u-g@mail.gmail.com%3e
+2016-03-13 19:34:25 INFO  FileDownloader:29 - Destination url : /home/lakshmanar/YEAR 2016/201601.mbox/Fri 15 Jan 19:28.txt
+2016-03-13 19:34:25 INFO  FileDownloader:28 - Source url :http://mail-archives.apache.org/mod_mbox/maven-users/201601.mbox/%3c569949C0.9000409@gmail.com%3e
+2016-03-13 19:34:25 INFO  FileDownloader:29 - Destination url : /home/lakshmanar/YEAR 2016/201601.mbox/Fri 15 Jan 19:34.txt
+2016-03-13 19:34:25 INFO  FileDownloader:28 - Source url :http://mail-archives.apache.org/mod_mbox/maven-users/201601.mbox/%3c5698365C.5080901@gmail.com%3e
+2016-03-13 19:34:25 INFO  FileDownloader:29 - Destination url : /home/lakshmanar/YEAR 2016/201601.mbox/Thu 14 Jan 23:59.txt
+2016-03-13 19:34:25 INFO  FileDownloader:28 - Source url :http://mail-archives.apache.org/mod_mbox/maven-users/201601.mbox/%3c61e8ffef-4dd7-4a9a-ba0a-6d4cb8981fba.maildroid@localhost%3e
+2016-03-13 19:34:25 INFO  FileDownloader:29 - Destination url : /home/lakshmanar/YEAR 2016/201601.mbox/Fri 15 Jan 00:15.txt
+2016-03-13 19:34:25 INFO  FileDownloader:28 - Source url :http://mail-archives.apache.org/mod_mbox/maven-users/201601.mbox/%3c56983E00.3070606@gmail.com%3e
+2016-03-13 19:34:25 INFO  FileDownloader:29 - Destination url : /home/lakshmanar/YEAR 2016/201601.mbox/Fri 15 Jan 00:32.txt
+2016-03-13 19:34:25 INFO  FileDownloader:28 - Source url :http://mail-archives.apache.org/mod_mbox/maven-users/201601.mbox/%3c84f5bcd7-3e2e-426d-8521-62b8aceb0f01.maildroid@localhost%3e
+2016-03-13 19:34:25 INFO  FileDownloader:29 - Destination url : /home/lakshmanar/YEAR 2016/201601.mbox/Fri 15 Jan 00:37.txt
+2016-03-13 19:34:25 INFO  FileDownloader:28 - Source url :http://mail-archives.apache.org/mod_mbox/maven-users/201601.mbox/%3c569921D8.4000904@gmail.com%3e
+2016-03-13 19:34:25 INFO  FileDownloader:28 - Source url :http://mail-archives.apache.org/mod_mbox/maven-users/201601.mbox/%3cOF111C585D.9AA6E794-ON86257F3B.002CDE2D-86257F3B.002CDE2D@wawanesa.com%3e
+2016-03-13 19:34:25 INFO  FileDownloader:29 - Destination url : /home/lakshmanar/YEAR 2016/201601.mbox/Fri 15 Jan 08:10.txt
+2016-03-13 19:34:25 INFO  FileDownloader:29 - Destination url : /home/lakshmanar/YEAR 2016/201601.mbox/Fri 15 Jan 16:44.txt
+2016-03-13 19:34:25 INFO  FileDownloader:28 - Source url :http://mail-archives.apache.org/mod_mbox/maven-users/201601.mbox/%3cCALhtWke-Uw5MtbbM9hQFjvHEvqWpwQDq2yu3GpYeK6ZX8m=sOA@mail.gmail.com%3e
+2016-03-13 19:34:25 INFO  FileDownloader:29 - Destination url : /home/lakshmanar/YEAR 2016/201601.mbox/Fri 15 Jan 14:48.txt
+2016-03-13 19:34:25 INFO  FileDownloader:28 - Source url :http://mail-archives.apache.org/mod_mbox/maven-users/201601.mbox/%3cCAL3VrCdtnwd_HGDzhucopoOkK+pQGSOXPR_zvAXc4-7ZA3v5QQ@mail.gmail.com%3e
+2016-03-13 19:34:25 INFO  FileDownloader:29 - Destination url : /home/lakshmanar/YEAR 2016/201601.mbox/Sat 16 Jan 02:47.txt
+2016-03-13 19:34:25 INFO  FileDownloader:28 - Source url :http://mail-archives.apache.org/mod_mbox/maven-users/201601.mbox/%3cCALhtWkfre+2Ld6htL9ByeDSx8Vb=q-K42T1XNZzHM017jmffEQ@mail.gmail.com%3e
+2016-03-13 19:34:25 INFO  FileDownloader:29 - Destination url : /home/lakshmanar/YEAR 2016/201601.mbox/Sun 17 Jan 16:47.txt
+2016-03-13 19:34:25 INFO  FileDownloader:28 - Source url :http://mail-archives.apache.org/mod_mbox/maven-users/201601.mbox/%3cCAL3VrCdhSGr7=NBPzD8ek0FodSwDt1daLFO=93L1NwoT_5uWmQ@mail.gmail.com%3e
+2016-03-13 19:34:25 INFO  FileDownloader:29 - Destination url : /home/lakshmanar/YEAR 2016/201601.mbox/Tue 19 Jan 03:02.txt
+2016-03-13 19:34:25 INFO  FileDownloader:28 - Source url :http://mail-archives.apache.org/mod_mbox/maven-users/201601.mbox/%3c51f4dfc5fd1a4aa5bf39f8eb6f691b0e@C104S333VM026.op.okobank.com%3e
+2016-03-13 19:34:25 INFO  FileDownloader:29 - Destination url : /home/lakshmanar/YEAR 2016/201601.mbox/Mon 18 Jan 07:55.txt
+2016-03-13 19:34:25 INFO  FileDownloader:28 - Source url :http://mail-archives.apache.org/mod_mbox/maven-users/201601.mbox/%3c2203038.EJoS2hKgNi@herve-desktop%3e
+2016-03-13 19:34:25 INFO  FileDownloader:29 - Destination url : /home/lakshmanar/YEAR 2016/201601.mbox/Tue 19 Jan 01:46.txt
+2016-03-13 19:34:25 INFO  FileDownloader:28 - Source url :http://mail-archives.apache.org/mod_mbox/maven-users/201601.mbox/%3cBEB20DD9-9ECC-4B90-AD14-06BA06C02CE6@gmx.at%3e
+2016-03-13 19:34:25 INFO  FileDownloader:29 - Destination url : /home/lakshmanar/YEAR 2016/201601.mbox/Tue 19 Jan 22:58.txt
+2016-03-13 19:34:25 INFO  FileDownloader:28 - Source url :http://mail-archives.apache.org/mod_mbox/maven-users/201601.mbox/%3cCAPCjjnFCz1aSTORYBE0cYdf=d0VKp_rYmD-QLK6bSrf1-QQdnQ@mail.gmail.com%3e
+2016-03-13 19:34:25 INFO  FileDownloader:29 - Destination url : /home/lakshmanar/YEAR 2016/201601.mbox/Wed 20 Jan 00:38.txt
+2016-03-13 19:34:25 INFO  FileDownloader:28 - Source url :http://mail-archives.apache.org/mod_mbox/maven-users/201601.mbox/%3cCAMYdmasMj-PMMEdHPE0fyv3V7eCXJCO8jdnChtpqpbJwTD1Yrw@mail.gmail.com%3e
+2016-03-13 19:34:25 INFO  FileDownloader:29 - Destination url : /home/lakshmanar/YEAR 2016/201601.mbox/Wed 20 Jan 07:06.txt
+2016-03-13 19:34:25 INFO  FileDownloader:28 - Source url :http://mail-archives.apache.org/mod_mbox/maven-users/201601.mbox/%3cCAK8jvqxAy5_ha520LYS+Rm5Pnb4NK6s9TufYp6Qzd0J4dPPwXQ@mail.gmail.com%3e
+2016-03-13 19:34:25 INFO  FileDownloader:29 - Destination url : /home/lakshmanar/YEAR 2016/201601.mbox/Thu 21 Jan 23:02.txt
+2016-03-13 19:34:25 INFO  FileDownloader:28 - Source url :http://mail-archives.apache.org/mod_mbox/maven-users/201601.mbox/%3cCACZkXPwD8hOF05mv4JTMC_gS54nAAf=4gyPfBtOzg6R_wvk+0Q@mail.gmail.com%3e
+2016-03-13 19:34:25 INFO  FileDownloader:29 - Destination url : /home/lakshmanar/YEAR 2016/201601.mbox/Wed 20 Jan 05:18.txt
+2016-03-13 19:34:25 INFO  FileDownloader:28 - Source url :http://mail-archives.apache.org/mod_mbox/maven-users/201601.mbox/%3cCAK2FUK3Jqu0AhJ0LD93etizcnsTmuZ0_g=TT9a-vXTMVbN74dQ@mail.gmail.com%3e
+2016-03-13 19:34:25 INFO  FileDownloader:29 - Destination url : /home/lakshmanar/YEAR 2016/201601.mbox/Wed 20 Jan 18:03.txt
+2016-03-13 19:34:26 INFO  FileDownloader:28 - Source url :http://mail-archives.apache.org/mod_mbox/maven-users/201601.mbox/%3cCABLGb9yXPX-HqvOUCvuKAzJLffukqVftdCX8ucts6jgxXx45=A@mail.gmail.com%3e
+2016-03-13 19:34:26 INFO  FileDownloader:29 - Destination url : /home/lakshmanar/YEAR 2016/201601.mbox/Wed 20 Jan 18:14.txt
+2016-03-13 19:34:26 INFO  FileDownloader:28 - Source url :http://mail-archives.apache.org/mod_mbox/maven-users/201601.mbox/%3cCALhtWke8M+Z+cwthS4P0OqyCL6d-tKv9pw-boXz1cq08N4EVHQ@mail.gmail.com%3e
+2016-03-13 19:34:26 INFO  FileDownloader:29 - Destination url : /home/lakshmanar/YEAR 2016/201601.mbox/Wed 20 Jan 12:11.txt
+2016-03-13 19:34:26 INFO  FileDownloader:28 - Source url :http://mail-archives.apache.org/mod_mbox/maven-users/201601.mbox/%3c56A13495.3060806@gmx.de%3e
+2016-03-13 19:34:26 INFO  FileDownloader:29 - Destination url : /home/lakshmanar/YEAR 2016/201601.mbox/Thu 21 Jan 19:42.txt
+2016-03-13 19:34:26 INFO  FileDownloader:28 - Source url :http://mail-archives.apache.org/mod_mbox/maven-users/201601.mbox/%3cCALhtWke2Q2RZYq_anEzc1gaVJs_tnh-WSEYoOPF-d=-W053rtQ@mail.gmail.com%3e
+2016-03-13 19:34:26 INFO  FileDownloader:29 - Destination url : /home/lakshmanar/YEAR 2016/201601.mbox/Thu 21 Jan 19:47.txt
+2016-03-13 19:34:26 INFO  FileDownloader:28 - Source url :http://mail-archives.apache.org/mod_mbox/maven-users/201601.mbox/%3c6B3BDBC5-AB63-4692-9259-633215E763BF@takari.io%3e
+2016-03-13 19:34:26 INFO  FileDownloader:29 - Destination url : /home/lakshmanar/YEAR 2016/201601.mbox/Fri 22 Jan 02:17.txt
+2016-03-13 19:34:26 INFO  FileDownloader:28 - Source url :http://mail-archives.apache.org/mod_mbox/maven-users/201601.mbox/%3c56A25384.90209@gmx.de%3e
+2016-03-13 19:34:26 INFO  FileDownloader:29 - Destination url : /home/lakshmanar/YEAR 2016/201601.mbox/Fri 22 Jan 16:06.txt
+2016-03-13 19:34:26 INFO  FileDownloader:28 - Source url :http://mail-archives.apache.org/mod_mbox/maven-users/201601.mbox/%3cCALhtWkdrGmBgThzQ=WtG-faG-nrhFqA-EsnaYQ_Rcqrv8vArqg@mail.gmail.com%3e
+2016-03-13 19:34:26 INFO  FileDownloader:29 - Destination url : /home/lakshmanar/YEAR 2016/201601.mbox/Mon 25 Jan 12:36.txt
+2016-03-13 19:34:26 INFO  FileDownloader:28 - Source url :http://mail-archives.apache.org/mod_mbox/maven-users/201601.mbox/%3cCALhtWkcxA=dKcHNek4hg7y4hrYeysUMgD8vCxeqbZiTf3qPVDg@mail.gmail.com%3e
+2016-03-13 19:34:26 INFO  FileDownloader:29 - Destination url : /home/lakshmanar/YEAR 2016/201601.mbox/Wed 27 Jan 14:17.txt
+2016-03-13 19:34:26 INFO  FileDownloader:28 - Source url :http://mail-archives.apache.org/mod_mbox/maven-users/201601.mbox/%3cB5023940-6DD3-45BF-91F0-6D7A4E169AE8@takari.io%3e
+2016-03-13 19:34:26 INFO  FileDownloader:29 - Destination url : /home/lakshmanar/YEAR 2016/201601.mbox/Wed 27 Jan 22:58.txt
+2016-03-13 19:34:26 INFO  FileDownloader:28 - Source url :http://mail-archives.apache.org/mod_mbox/maven-users/201601.mbox/%3cCAK2FUK1kNz9di_SAUDBO2VjD3XLEL=0XLJkLkg68Q7x4ChJh-w@mail.gmail.com%3e
+2016-03-13 19:34:26 INFO  FileDownloader:29 - Destination url : /home/lakshmanar/YEAR 2016/201601.mbox/Wed 20 Jan 19:43.txt
+2016-03-13 19:34:26 INFO  FileDownloader:28 - Source url :http://mail-archives.apache.org/mod_mbox/maven-users/201601.mbox/%3cCAMdR1vV3j9hECnWkorNfRpDoL8CkbDcXwhxD_GeV0PmBbdRnyA@mail.gmail.com%3e
+2016-03-13 19:34:26 INFO  FileDownloader:28 - Source url :http://mail-archives.apache.org/mod_mbox/maven-users/201601.mbox/%3cCAEayHENu_Pv+8AJm5UA5Z1TcdbRVsPTr6gZ9a0o_TCp6tb0d8w@mail.gmail.com%3e
+2016-03-13 19:34:26 INFO  FileDownloader:29 - Destination url : /home/lakshmanar/YEAR 2016/201601.mbox/Thu 21 Jan 14:44.txt
+2016-03-13 19:34:26 INFO  FileDownloader:29 - Destination url : /home/lakshmanar/YEAR 2016/201601.mbox/Thu 21 Jan 09:47.txt
+2016-03-13 19:34:26 INFO  FileDownloader:28 - Source url :http://mail-archives.apache.org/mod_mbox/maven-users/201601.mbox/%3cCAK2FUK1NccVcZm8QAC_g7jKbCJ+Rrm6WtvFgFgEYoZXHpMWqSQ@mail.gmail.com%3e
+2016-03-13 19:34:26 INFO  FileDownloader:29 - Destination url : /home/lakshmanar/YEAR 2016/201601.mbox/Thu 21 Jan 20:03.txt
+2016-03-13 19:34:26 INFO  FileDownloader:28 - Source url :http://mail-archives.apache.org/mod_mbox/maven-users/201601.mbox/%3cOF515E430E.4806884A-ON86257F45.004557C0-86257F45.004557C0@wawanesa.com%3e
+2016-03-13 19:34:26 INFO  FileDownloader:29 - Destination url : /home/lakshmanar/YEAR 2016/201601.mbox/Mon 25 Jan 12:37.txt
+2016-03-13 19:34:26 INFO  FileDownloader:28 - Source url :http://mail-archives.apache.org/mod_mbox/maven-users/201601.mbox/%3c20160128155739.0E31617474@minotaur.apache.org%3e
+2016-03-13 19:34:26 INFO  FileDownloader:29 - Destination url : /home/lakshmanar/YEAR 2016/201601.mbox/Thu 28 Jan 15:57.txt
+2016-03-13 19:34:26 INFO  FileDownloader:28 - Source url :http://mail-archives.apache.org/mod_mbox/maven-users/201601.mbox/%3c48CF5AC71E61DB46B70D0F388054EFFD92A36E5A@VAL-E-01.valcartier.drdc-rddc.gc.ca%3e
+2016-03-13 19:34:26 INFO  FileDownloader:29 - Destination url : /home/lakshmanar/YEAR 2016/201601.mbox/Thu 28 Jan 20:50.txt
+2016-03-13 19:34:26 INFO  FileDownloader:28 - Source url :http://mail-archives.apache.org/mod_mbox/maven-users/201601.mbox/%3c48CF5AC71E61DB46B70D0F388054EFFD92A36E6E@VAL-E-01.valcartier.drdc-rddc.gc.ca%3e
+2016-03-13 19:34:26 INFO  FileDownloader:29 - Destination url : /home/lakshmanar/YEAR 2016/201601.mbox/Thu 28 Jan 20:52.txt
+2016-03-13 19:34:26 INFO  FileDownloader:28 - Source url :http://mail-archives.apache.org/mod_mbox/maven-users/201601.mbox/%3c48CF5AC71E61DB46B70D0F388054EFFD92A36E86@VAL-E-01.valcartier.drdc-rddc.gc.ca%3e
+2016-03-13 19:34:26 INFO  FileDownloader:29 - Destination url : /home/lakshmanar/YEAR 2016/201601.mbox/Thu 28 Jan 20:54.txt
+2016-03-13 19:34:26 INFO  FileDownloader:28 - Source url :http://mail-archives.apache.org/mod_mbox/maven-users/201601.mbox/%3c56AA831D.7000403@artifact-software.com%3e
+2016-03-13 19:34:26 INFO  FileDownloader:29 - Destination url : /home/lakshmanar/YEAR 2016/201601.mbox/Thu 28 Jan 21:07.txt
+2016-03-13 19:34:26 INFO  FileDownloader:28 - Source url :http://mail-archives.apache.org/mod_mbox/maven-users/201601.mbox/%3c56AA861F.4030704@artifact-software.com%3e
+2016-03-13 19:34:26 INFO  FileDownloader:29 - Destination url : /home/lakshmanar/YEAR 2016/201601.mbox/Thu 28 Jan 21:20.txt
+2016-03-13 19:34:26 INFO  FileDownloader:28 - Source url :http://mail-archives.apache.org/mod_mbox/maven-users/201601.mbox/%3c44364874-3058-487B-98AF-34E779C81A2E@takari.io%3e
+2016-03-13 19:34:26 INFO  FileDownloader:29 - Destination url : /home/lakshmanar/YEAR 2016/201601.mbox/Fri 29 Jan 00:11.txt
+2016-03-13 19:34:26 INFO  FileDownloader:28 - Source url :http://mail-archives.apache.org/mod_mbox/maven-users/201601.mbox/%3c8FB14211-1A01-4066-B506-B39D4E235386@sap.com%3e
+2016-03-13 19:34:26 INFO  FileDownloader:29 - Destination url : /home/lakshmanar/YEAR 2016/201601.mbox/Fri 29 Jan 08:07.txt

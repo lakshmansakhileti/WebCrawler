@@ -4,9 +4,7 @@ package com.pramati.crawler;
  */
 
 
-import java.io.IOException;
 import java.util.List;
-import java.util.Properties;
 
 import org.apache.log4j.Logger;
 
@@ -15,7 +13,10 @@ import com.pramati.bean.MonthlyMailIndexData;
 import com.pramati.service.CrawlerDownloaderService;
 import com.pramati.service.MailIndexReader;
 import com.pramati.service.MailReader;
-import com.pramati.utility.Utilities;
+import com.pramati.service.impl.CrawlerDownloaderServiceImpl;
+import com.pramati.service.impl.MailIndexReaderImpl;
+import com.pramati.service.impl.MailReaderImpl;
+import com.pramati.utility.CrawlerProperties;
 
 /**
  * @author lakshmanar
@@ -28,20 +29,22 @@ public class WebCrawler {
 	 * @param args
 	 */
 	public static void main(String[] args) {
-		try {
 			// loading properties
-			Properties crawlerPerperties = Utilities.loadPropetiesFile("crawler.properties");
-			final String baseUrl = crawlerPerperties.getProperty("BASE_URL");
-			logger.info("Crawler Base URL  :"+baseUrl);
+			CrawlerProperties crawlerProperties = CrawlerProperties.getInstance();
+			final String baseUrl = crawlerProperties.getBASE_URL();
+			logger.info("Crawler Base URL  :" + baseUrl);
+			String year = crawlerProperties.getYEAR();
+			logger.info("Reading mail of year " + year);
 			//Reading mails of all months of given year.
-			MailIndexReader mailIndexReader = new MailIndexReader();
-			List<MonthlyMailIndexData> mailIndexesList = mailIndexReader.readMailIndexes(baseUrl, crawlerPerperties.getProperty("YEAR"));
+			MailIndexReader mailIndexReader = new MailIndexReaderImpl();
+			List<MonthlyMailIndexData> mailIndexesList = mailIndexReader.readMailIndexes(baseUrl, year);
 			if(null == mailIndexesList) {
+				logger.info("mail index is empty");
 				return;
 			}
 			
 			//Reading mails of month
-			MailReader mailReader = new MailReader();
+			MailReader mailReader = new MailReaderImpl();
 			for (MonthlyMailIndexData monthlyMailIndexData : mailIndexesList) {
 				
 				if(null == monthlyMailIndexData) {
@@ -55,14 +58,12 @@ public class WebCrawler {
 					continue;
 				}
 				// Downloading to local disk.
-				CrawlerDownloaderService crawlerDownloaderService = new CrawlerDownloaderService();
+				CrawlerDownloaderService crawlerDownloaderService = new CrawlerDownloaderServiceImpl();
 			    crawlerDownloaderService.downloadFiles(mailList,monthlyMailIndexData.getUrl());
 				
 			}
 			
-		} catch (IOException ioException) {
-			logger.info("Having problem while loading properties from file : crawler.properties"+ioException.getLocalizedMessage());
-		}
+		
 		
 	}
 

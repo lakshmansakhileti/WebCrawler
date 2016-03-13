@@ -1,4 +1,4 @@
-package com.pramati.service;
+package com.pramati.service.impl;
 
 import java.io.IOException;
 
