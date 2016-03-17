@@ -93,7 +93,10 @@ public class ParserUtility {
 			logger.error("Problem while creating document", e);
 		}
 
-		doc.getDocumentElement().normalize();
+		if(doc != null) {
+			doc.getDocumentElement().normalize();
+		}
+			
 		return doc;
 	}
 

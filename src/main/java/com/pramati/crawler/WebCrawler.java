@@ -11,9 +11,11 @@ import org.apache.log4j.Logger;
 import com.pramati.bean.MessageData;
 import com.pramati.bean.MonthlyMailIndexData;
 import com.pramati.service.CrawlerDownloaderService;
+import com.pramati.service.JsoupService;
 import com.pramati.service.MailIndexReader;
 import com.pramati.service.MailReader;
 import com.pramati.service.impl.CrawlerDownloaderServiceImpl;
+import com.pramati.service.impl.JsoupServiceImpl;
 import com.pramati.service.impl.MailIndexReaderImpl;
 import com.pramati.service.impl.MailReaderImpl;
 import com.pramati.utility.CrawlerProperties;
@@ -36,7 +38,14 @@ public class WebCrawler {
 			String year = crawlerProperties.getYEAR();
 			logger.info("Reading mail of year " + year);
 			//Reading mails of all months of given year.
-			MailIndexReader mailIndexReader = new MailIndexReaderImpl();
+			
+			if (null == baseUrl) {
+				return;
+			}
+
+			JsoupService service = new JsoupServiceImpl();
+			// Getting MailIndex information
+			MailIndexReader mailIndexReader = new MailIndexReaderImpl(service);
 			List<MonthlyMailIndexData> mailIndexesList = mailIndexReader.readMailIndexes(baseUrl, year);
 			if(null == mailIndexesList) {
 				logger.info("mail index is empty");
@@ -44,7 +53,7 @@ public class WebCrawler {
 			}
 			
 			//Reading mails of month
-			MailReader mailReader = new MailReaderImpl();
+			MailReader mailReader = new MailReaderImpl(service);
 			for (MonthlyMailIndexData monthlyMailIndexData : mailIndexesList) {
 				
 				if(null == monthlyMailIndexData) {
@@ -62,8 +71,6 @@ public class WebCrawler {
 			    crawlerDownloaderService.downloadFiles(mailList,monthlyMailIndexData.getUrl());
 				
 			}
-			
-		
 		
 	}
 

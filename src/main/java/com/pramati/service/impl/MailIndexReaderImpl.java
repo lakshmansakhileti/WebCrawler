@@ -15,7 +15,19 @@ import com.pramati.service.MailIndexReader;
 import com.pramati.utility.ParserUtility;
 
 public class MailIndexReaderImpl implements MailIndexReader {
+	JsoupService service;
+	
+	public JsoupService getService() {
+		return service;
+	}
 
+	public void setService(JsoupService service) {
+		this.service = service;
+	}
+	public MailIndexReaderImpl(JsoupService service) {
+		this.service = service;
+	}
+	
 	private static Logger logger = Logger.getLogger(MailIndexReaderImpl.class);
 
 	public List<MonthlyMailIndexData> readMailIndexes(final String url, String year) {
@@ -24,8 +36,11 @@ public class MailIndexReaderImpl implements MailIndexReader {
 			logger.info("reading mails from url :"+url);
 			return null;
 		}
-
-		JsoupService service = new JsoupServiceImpl();
+		
+		if(null == service) {
+			logger.info("Jsoup service is null.");
+			return null;
+		}
 		// Getting MailIndex information
 		String response = service.getResponse(url);
 		if (null == response) {

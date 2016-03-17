@@ -9,8 +9,7 @@
 		<dependency>
 			<groupId>junit</groupId>
 			<artifactId>junit</artifactId>
-			<version>3.8.1</version>
-			<scope>test</scope>
+			<version>4.11</version>
 		</dependency>
 		<dependency>
 			<groupId>log4j</groupId>
@@ -23,8 +22,21 @@
 			<artifactId>jsoup</artifactId>
 			<version>1.7.2</version>
 		</dependency>
+		 <dependency>
+	            <groupId>org.mockito</groupId>
+	            <artifactId>mockito-all</artifactId>
+	            <version>1.9.5</version>
+	        </dependency>
+	        
+	        <dependency>
+	        
+	<groupId>org.codehaus.sonar</groupId>
+	<artifactId>sonar-maven-plugin</artifactId>
+	<version>5.1</version>
+</dependency>
+		
 	</dependencies>
-
+	
 	<!-- Output to jar format -->
 	<packaging>jar</packaging>
 
@@ -97,7 +109,50 @@
 	 <build>
 	 <finalName>crawler</finalName>
     <plugins>
-      <plugin>
+    	 <plugin>
+            <groupId>org.codehaus.mojo</groupId>
+            <artifactId>sonar-maven-plugin</artifactId>
+            <version>2.2</version>
+        </plugin>
+   <!--  <plugin>
+		<groupId>org.apache.maven.plugins</groupId>
+		<artifactId>maven-project-info-reports-plugin</artifactId>
+		<version>2.7</version>
+		<configuration>
+			<dependencyLocationsEnabled>false</dependencyLocationsEnabled>
+		</configuration>
+	</plugin>
+	
+    <plugin>
+        <groupId>org.codehaus.mojo</groupId>
+        <artifactId>cobertura-maven-plugin</artifactId>
+        <version>2.7</version>
+        <configuration>
+        	
+        	<instrumentation>
+            <excludes>
+              <exclude>com/pramati/crawler/*.class</exclude>
+               <exclude>com/pramati/service/*.class</exclude>
+            </excludes>
+          </instrumentation>
+			<formats>
+				<format>html</format>
+				<format>xml</format>
+			</formats>
+			 <aggregate>true</aggregate>
+		</configuration>
+		<executions>
+          <execution>
+            <goals>
+              <goal>clean</goal>
+            </goals>
+          </execution>
+        </executions>
+		
+      </plugin>
+      
+     -->
+       <plugin>
         <groupId>org.apache.maven.plugins</groupId>
         <artifactId>maven-shade-plugin</artifactId>
         <version>1.7</version>

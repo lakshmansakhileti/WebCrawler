@@ -16,6 +16,22 @@ import com.pramati.utility.ParserUtility;
 
 public class MailReaderImpl implements MailReader {
 
+	private JsoupService service;
+	
+
+	public JsoupService getService() {
+		return service;
+	}
+
+	public void setService(JsoupService service) {
+		this.service = service;
+	}
+	
+	
+	public MailReaderImpl(JsoupService service ) {
+		this.service = service;
+	}
+	
 	private static Logger logger = Logger.getLogger(MailReaderImpl.class);
 
 	public List<MessageData> readMail(String url) {
@@ -23,8 +39,12 @@ public class MailReaderImpl implements MailReader {
 		if (null == url) {
 			return null;
 		}
-
-		JsoupService service = new JsoupServiceImpl();
+		
+		if(null == service) {
+			logger.info("Jsoup Service is empty");
+			return  null;
+		}	
+		
 		// Getting MailIndex information
 		String response = service.getResponse(url);
 		if (null == response) {
