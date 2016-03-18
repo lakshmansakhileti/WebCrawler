@@ -9,7 +9,7 @@ import java.util.StringTokenizer;
 public class MessageData {
 	
 	private String author; // to store author details.
-	private String url;
+	private String url; // to stort url.
 	private String date;
 	
 	public String getAuthor() {
