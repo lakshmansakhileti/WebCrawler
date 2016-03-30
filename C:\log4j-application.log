@@ -6160,3 +6160,770 @@ org.xml.sax.SAXParseException; lineNumber: 1; columnNumber: 1; Premature end of 
 2016-03-16 13:11:17 INFO  MailIndexReader:40 - Calling readMail method with parameters url as null 
 2016-03-16 13:11:17 INFO  MailIndexReader:53 - Calling readMail method with parameters url as null 
 2016-03-16 13:11:17 INFO  MailReaderImpl:51 - Response is :null
+2016-03-28 16:02:06 INFO  FileHelper:34 - Directory  already exist with name /home/lakshmanar/YEAR 2016
+2016-03-28 16:02:06 INFO  WebCrawler:43 - Crawler Base URL  :http://mail-archives.apache.org/mod_mbox/maven-users/
+2016-03-28 16:02:06 INFO  WebCrawler:45 - Reading mail of year 2016
+2016-03-28 16:08:27 INFO  FileHelper:34 - Directory  already exist with name /home/lakshmanar/YEAR 2016
+2016-03-28 16:08:27 INFO  WebCrawler:43 - Crawler Base URL  :http://mail-archives.apache.org/mod_mbox/maven-users/
+2016-03-28 16:08:27 INFO  WebCrawler:45 - Reading mail of year 2016
+2016-03-28 16:08:30 INFO  WebCrawler:78 - Created work book
+2016-03-28 16:08:30 INFO  WebCrawler:80 - Writing data into Excel files
+2016-03-28 16:08:30 INFO  WebCrawler:82 - Finished writing
+2016-03-28 16:08:30 INFO  WebCrawler:78 - Created work book
+2016-03-28 16:08:30 INFO  WebCrawler:80 - Writing data into Excel files
+2016-03-28 16:08:30 INFO  WebCrawler:82 - Finished writing
+2016-03-28 16:08:30 INFO  WebCrawler:78 - Created work book
+2016-03-28 16:08:30 INFO  WebCrawler:80 - Writing data into Excel files
+2016-03-28 16:08:30 INFO  WebCrawler:82 - Finished writing
+2016-03-28 16:10:49 INFO  FileHelper:34 - Directory  already exist with name /home/lakshmanar/YEAR 2016
+2016-03-28 16:10:49 INFO  WebCrawler:43 - Crawler Base URL  :http://mail-archives.apache.org/mod_mbox/maven-users/
+2016-03-28 16:10:49 INFO  WebCrawler:45 - Reading mail of year 2016
+2016-03-28 16:10:50 INFO  WebCrawler:79 - Created work book
+2016-03-28 16:10:50 INFO  WebCrawler:81 - Writing data into Excel files
+2016-03-28 16:10:50 INFO  WebCrawler:83 - Finished writing
+2016-03-28 16:10:51 INFO  WebCrawler:79 - Created work book
+2016-03-28 16:10:51 INFO  WebCrawler:81 - Writing data into Excel files
+2016-03-28 16:10:51 INFO  WebCrawler:83 - Finished writing
+2016-03-28 16:10:51 INFO  WebCrawler:79 - Created work book
+2016-03-28 16:10:51 INFO  WebCrawler:81 - Writing data into Excel files
+2016-03-28 16:10:51 INFO  WebCrawler:83 - Finished writing
+2016-03-28 16:11:54 INFO  FileHelper:34 - Directory  already exist with name /home/lakshmanar/YEAR 2016
+2016-03-28 16:11:54 INFO  WebCrawler:43 - Crawler Base URL  :http://mail-archives.apache.org/mod_mbox/maven-users/
+2016-03-28 16:11:54 INFO  WebCrawler:45 - Reading mail of year 2016
+2016-03-28 16:11:56 INFO  WebCrawler:79 - Created work book
+2016-03-28 16:11:56 INFO  WebCrawler:81 - Writing data into Excel files
+2016-03-28 16:11:56 INFO  WebCrawler:83 - Finished writing
+2016-03-28 16:11:56 INFO  WebCrawler:79 - Created work book
+2016-03-28 16:11:56 INFO  WebCrawler:81 - Writing data into Excel files
+2016-03-28 16:11:56 INFO  WebCrawler:83 - Finished writing
+2016-03-28 16:11:56 INFO  WebCrawler:79 - Created work book
+2016-03-28 16:11:56 INFO  WebCrawler:81 - Writing data into Excel files
+2016-03-28 16:11:56 INFO  WebCrawler:83 - Finished writing
+2016-03-28 16:25:26 INFO  FileHelper:34 - Directory  already exist with name /home/lakshmanar/YEAR 2016
+2016-03-28 16:25:26 INFO  WebCrawler:43 - Crawler Base URL  :http://mail-archives.apache.org/mod_mbox/maven-users/
+2016-03-28 16:25:26 INFO  WebCrawler:45 - Reading mail of year 2016
+2016-03-28 16:25:29 INFO  WebCrawler:79 - Created work book
+2016-03-28 16:25:29 INFO  WebCrawler:81 - Writing data into Excel files
+2016-03-28 16:26:37 INFO  FileHelper:34 - Directory  already exist with name /home/lakshmanar/YEAR 2016
+2016-03-28 16:26:37 INFO  WebCrawler:43 - Crawler Base URL  :http://mail-archives.apache.org/mod_mbox/maven-users/
+2016-03-28 16:26:37 INFO  WebCrawler:45 - Reading mail of year 2016
+2016-03-28 16:26:38 INFO  WebCrawler:79 - Created work book
+2016-03-28 16:26:38 INFO  WebCrawler:81 - Writing data into Excel files
+2016-03-28 16:26:39 INFO  WebCrawler:84 - Finished writing
+2016-03-28 16:26:39 INFO  WebCrawler:79 - Created work book
+2016-03-28 16:26:39 INFO  WebCrawler:81 - Writing data into Excel files
+2016-03-28 16:26:39 INFO  WebCrawler:84 - Finished writing
+2016-03-28 16:26:39 INFO  WebCrawler:79 - Created work book
+2016-03-28 16:26:39 INFO  WebCrawler:81 - Writing data into Excel files
+2016-03-28 16:26:39 INFO  WebCrawler:84 - Finished writing
+2016-03-28 16:57:53 INFO  FileHelper:34 - Directory  already exist with name /home/lakshmanar/YEAR 2016
+2016-03-28 16:57:53 INFO  WebCrawler:39 - Crawler Base URL  :http://mail-archives.apache.org/mod_mbox/maven-users/
+2016-03-28 16:57:53 INFO  WebCrawler:41 - Reading mail of year 2016
+2016-03-28 16:57:56 INFO  WebCrawler:74 - Created work book
+2016-03-28 16:57:56 INFO  WebCrawler:77 - Writing data into Excel files
+2016-03-28 16:57:56 INFO  WebCrawler:80 - Finished writing
+2016-03-28 16:57:56 INFO  WebCrawler:74 - Created work book
+2016-03-28 16:57:56 INFO  WebCrawler:77 - Writing data into Excel files
+2016-03-28 16:57:56 INFO  WebCrawler:80 - Finished writing
+2016-03-28 16:57:56 INFO  WebCrawler:74 - Created work book
+2016-03-28 16:57:56 INFO  WebCrawler:77 - Writing data into Excel files
+2016-03-28 16:57:56 INFO  WebCrawler:80 - Finished writing
+2016-03-28 17:04:49 INFO  FileHelper:34 - Directory  already exist with name /home/lakshmanar/YEAR 2016
+2016-03-28 17:04:49 INFO  WebCrawler:39 - Crawler Base URL  :http://mail-archives.apache.org/mod_mbox/maven-users/
+2016-03-28 17:04:49 INFO  WebCrawler:41 - Reading mail of year 2016
+2016-03-28 17:04:51 INFO  WebCrawler:74 - Created work book
+2016-03-28 17:04:51 INFO  WebCrawler:78 - Writing data into Excel files
+2016-03-28 17:04:51 INFO  WebCrawler:81 - Finished writing
+2016-03-28 17:04:51 INFO  WebCrawler:74 - Created work book
+2016-03-28 17:04:51 INFO  WebCrawler:78 - Writing data into Excel files
+2016-03-28 17:04:51 INFO  WebCrawler:81 - Finished writing
+2016-03-28 17:04:51 INFO  WebCrawler:74 - Created work book
+2016-03-28 17:04:51 INFO  WebCrawler:78 - Writing data into Excel files
+2016-03-28 17:04:52 INFO  WebCrawler:81 - Finished writing
+2016-03-28 17:06:06 INFO  FileHelper:34 - Directory  already exist with name /home/lakshmanar/YEAR 2016
+2016-03-28 17:06:06 INFO  WebCrawler:39 - Crawler Base URL  :http://mail-archives.apache.org/mod_mbox/maven-users/
+2016-03-28 17:06:06 INFO  WebCrawler:41 - Reading mail of year 2016
+2016-03-28 17:06:07 INFO  WebCrawler:74 - Created work book
+2016-03-28 17:06:07 INFO  WebCrawler:78 - Writing data into Excel files
+2016-03-28 17:06:07 INFO  WebCrawler:81 - Finished writing
+2016-03-28 17:06:07 INFO  WebCrawler:74 - Created work book
+2016-03-28 17:06:07 INFO  WebCrawler:78 - Writing data into Excel files
+2016-03-28 17:06:07 INFO  WebCrawler:81 - Finished writing
+2016-03-28 17:06:07 INFO  WebCrawler:74 - Created work book
+2016-03-28 17:06:07 INFO  WebCrawler:78 - Writing data into Excel files
+2016-03-28 17:06:07 INFO  WebCrawler:81 - Finished writing
+2016-03-28 17:09:51 INFO  FileHelper:34 - Directory  already exist with name /home/lakshmanar/YEAR 2016
+2016-03-28 17:09:51 INFO  WebCrawler:39 - Crawler Base URL  :http://mail-archives.apache.org/mod_mbox/maven-users/
+2016-03-28 17:09:51 INFO  WebCrawler:41 - Reading mail of year 2016
+2016-03-28 17:09:53 INFO  WebCrawler:74 - Created work book
+2016-03-28 17:09:53 INFO  WebCrawler:78 - Writing data into Excel files
+2016-03-28 17:09:53 INFO  WebCrawler:81 - Finished writing
+2016-03-28 17:09:54 INFO  WebCrawler:74 - Created work book
+2016-03-28 17:09:54 INFO  WebCrawler:78 - Writing data into Excel files
+2016-03-28 17:09:54 INFO  WebCrawler:81 - Finished writing
+2016-03-28 17:09:54 INFO  WebCrawler:74 - Created work book
+2016-03-28 17:09:54 INFO  WebCrawler:78 - Writing data into Excel files
+2016-03-28 17:09:54 INFO  WebCrawler:81 - Finished writing
+2016-03-28 17:10:57 INFO  FileHelper:34 - Directory  already exist with name /home/lakshmanar/YEAR 2016
+2016-03-28 17:10:57 INFO  WebCrawler:39 - Crawler Base URL  :http://mail-archives.apache.org/mod_mbox/maven-users/
+2016-03-28 17:10:57 INFO  WebCrawler:41 - Reading mail of year 2016
+2016-03-28 17:10:58 INFO  WebCrawler:74 - Created work book
+2016-03-28 17:10:58 INFO  WebCrawler:78 - Writing data into Excel files
+2016-03-28 17:10:58 INFO  WebCrawler:81 - Finished writing
+2016-03-28 17:10:59 INFO  WebCrawler:74 - Created work book
+2016-03-28 17:10:59 INFO  WebCrawler:78 - Writing data into Excel files
+2016-03-28 17:10:59 INFO  WebCrawler:81 - Finished writing
+2016-03-28 17:10:59 INFO  WebCrawler:74 - Created work book
+2016-03-28 17:10:59 INFO  WebCrawler:78 - Writing data into Excel files
+2016-03-28 17:10:59 INFO  WebCrawler:81 - Finished writing
+2016-03-28 17:12:40 INFO  FileHelper:34 - Directory  already exist with name /home/lakshmanar/YEAR 2016
+2016-03-28 17:12:40 INFO  WebCrawler:39 - Crawler Base URL  :http://mail-archives.apache.org/mod_mbox/maven-users/
+2016-03-28 17:12:40 INFO  WebCrawler:41 - Reading mail of year 2016
+2016-03-28 17:12:41 INFO  WebCrawler:75 - Created work book
+2016-03-28 17:12:41 INFO  WebCrawler:79 - Preparing data of Mar 2016
+2016-03-28 17:12:41 INFO  WebCrawler:82 - Finished writingMar 2016
+2016-03-28 17:12:41 INFO  WebCrawler:75 - Created work book
+2016-03-28 17:12:41 INFO  WebCrawler:79 - Preparing data of Feb 2016
+2016-03-28 17:12:41 INFO  WebCrawler:82 - Finished writingFeb 2016
+2016-03-28 17:12:42 INFO  WebCrawler:75 - Created work book
+2016-03-28 17:12:42 INFO  WebCrawler:79 - Preparing data of Jan 2016
+2016-03-28 17:12:42 INFO  WebCrawler:82 - Finished writingJan 2016
+2016-03-28 18:46:40 INFO  FileHelper:34 - Directory  already exist with name /home/lakshmanar/YEAR 2016
+2016-03-28 18:46:40 INFO  WebCrawler:42 - Crawler Base URL  :http://mail-archives.apache.org/mod_mbox/maven-users/
+2016-03-28 18:46:40 INFO  WebCrawler:44 - Reading mail of year 2016
+2016-03-28 18:48:49 INFO  FileHelper:34 - Directory  already exist with name /home/lakshmanar/YEAR 2016
+2016-03-28 18:48:49 INFO  WebCrawler:42 - Crawler Base URL  :http://mail-archives.apache.org/mod_mbox/maven-users/
+2016-03-28 18:48:49 INFO  WebCrawler:44 - Reading mail of year 2016
+2016-03-28 18:55:09 INFO  FileHelper:34 - Directory  already exist with name /home/lakshmanar/YEAR 2016
+2016-03-28 18:55:09 INFO  WebCrawler:42 - Crawler Base URL  :http://mail-archives.apache.org/mod_mbox/maven-users/
+2016-03-28 18:55:09 INFO  WebCrawler:44 - Reading mail of year 2016
+2016-03-28 19:01:04 INFO  FileHelper:34 - Directory  already exist with name /home/lakshmanar/YEAR 2016
+2016-03-28 19:01:04 INFO  WebCrawler:42 - Crawler Base URL  :http://mail-archives.apache.org/mod_mbox/maven-users/
+2016-03-28 19:01:04 INFO  WebCrawler:44 - Reading mail of year 2016
+2016-03-28 19:02:34 INFO  FileHelper:34 - Directory  already exist with name /home/lakshmanar/YEAR 2016
+2016-03-28 19:02:34 INFO  WebCrawler:42 - Crawler Base URL  :http://mail-archives.apache.org/mod_mbox/maven-users/
+2016-03-28 19:02:34 INFO  WebCrawler:44 - Reading mail of year 2016
+2016-03-28 19:02:36 INFO  WebCrawler:84 - Created work book
+2016-03-28 19:02:36 INFO  WebCrawler:88 - Preparing data of Mar 2016
+2016-03-28 19:02:37 INFO  WebCrawler:91 - Finished writingMar 2016
+2016-03-28 19:02:37 INFO  WebCrawler:98 - Preparing word document
+2016-03-28 19:02:37 INFO  WebCrawler:84 - Created work book
+2016-03-28 19:02:37 INFO  WebCrawler:88 - Preparing data of Feb 2016
+2016-03-28 19:02:37 INFO  WebCrawler:91 - Finished writingFeb 2016
+2016-03-28 19:02:37 INFO  WebCrawler:98 - Preparing word document
+2016-03-28 19:02:37 INFO  WebCrawler:84 - Created work book
+2016-03-28 19:02:37 INFO  WebCrawler:88 - Preparing data of Jan 2016
+2016-03-28 19:02:37 INFO  WebCrawler:91 - Finished writingJan 2016
+2016-03-28 19:02:37 INFO  WebCrawler:98 - Preparing word document
+2016-03-28 19:04:33 INFO  FileHelper:34 - Directory  already exist with name /home/lakshmanar/YEAR 2016
+2016-03-28 19:04:33 INFO  WebCrawler:42 - Crawler Base URL  :http://mail-archives.apache.org/mod_mbox/maven-users/
+2016-03-28 19:04:33 INFO  WebCrawler:44 - Reading mail of year 2016
+2016-03-28 19:04:37 INFO  WebCrawler:84 - Created work book
+2016-03-28 19:04:37 INFO  WebCrawler:88 - Preparing data of Mar 2016
+2016-03-28 19:04:37 INFO  WebCrawler:91 - Finished writingMar 2016
+2016-03-28 19:04:37 INFO  WebCrawler:98 - Preparing word document
+2016-03-28 19:04:37 INFO  WebCrawler:84 - Created work book
+2016-03-28 19:04:37 INFO  WebCrawler:88 - Preparing data of Feb 2016
+2016-03-28 19:04:37 INFO  WebCrawler:91 - Finished writingFeb 2016
+2016-03-28 19:04:37 INFO  WebCrawler:98 - Preparing word document
+2016-03-28 19:04:37 INFO  WebCrawler:84 - Created work book
+2016-03-28 19:04:37 INFO  WebCrawler:88 - Preparing data of Jan 2016
+2016-03-28 19:04:37 INFO  WebCrawler:91 - Finished writingJan 2016
+2016-03-28 19:04:37 INFO  WebCrawler:98 - Preparing word document
+2016-03-28 19:12:49 INFO  FileHelper:34 - Directory  already exist with name /home/lakshmanar/YEAR 2016
+2016-03-28 19:12:49 INFO  WebCrawler:42 - Crawler Base URL  :http://mail-archives.apache.org/mod_mbox/maven-users/
+2016-03-28 19:12:49 INFO  WebCrawler:44 - Reading mail of year 2016
+2016-03-28 19:12:51 INFO  WebCrawler:84 - Created work book
+2016-03-28 19:12:51 INFO  WebCrawler:88 - Preparing data of Mar 2016
+2016-03-28 19:12:51 INFO  WebCrawler:91 - Finished writingMar 2016
+2016-03-28 19:12:51 INFO  WebCrawler:98 - Preparing word document
+2016-03-28 19:12:52 INFO  WebCrawler:84 - Created work book
+2016-03-28 19:12:52 INFO  WebCrawler:88 - Preparing data of Feb 2016
+2016-03-28 19:12:52 INFO  WebCrawler:91 - Finished writingFeb 2016
+2016-03-28 19:12:52 INFO  WebCrawler:98 - Preparing word document
+2016-03-28 19:12:52 INFO  WebCrawler:84 - Created work book
+2016-03-28 19:12:52 INFO  WebCrawler:88 - Preparing data of Jan 2016
+2016-03-28 19:12:52 INFO  WebCrawler:91 - Finished writingJan 2016
+2016-03-28 19:12:52 INFO  WebCrawler:98 - Preparing word document
+2016-03-29 11:14:35 INFO  FileHelper:34 - Directory  already exist with name /home/lakshmanar/YEAR 2016
+2016-03-29 11:14:35 INFO  WebCrawler:42 - Crawler Base URL  :http://mail-archives.apache.org/mod_mbox/maven-users/
+2016-03-29 11:14:35 INFO  WebCrawler:44 - Reading mail of year 2016
+2016-03-29 11:14:45 INFO  WebCrawler:84 - Created work book
+2016-03-29 11:14:45 INFO  WebCrawler:88 - Preparing data of Mar 2016
+2016-03-29 11:14:45 INFO  WebCrawler:91 - Finished writingMar 2016
+2016-03-29 11:14:45 INFO  WebCrawler:98 - Preparing word document
+2016-03-29 11:14:46 INFO  WebCrawler:84 - Created work book
+2016-03-29 11:14:46 INFO  WebCrawler:88 - Preparing data of Feb 2016
+2016-03-29 11:14:46 INFO  WebCrawler:91 - Finished writingFeb 2016
+2016-03-29 11:14:46 INFO  WebCrawler:98 - Preparing word document
+2016-03-29 11:14:46 INFO  WebCrawler:84 - Created work book
+2016-03-29 11:14:46 INFO  WebCrawler:88 - Preparing data of Jan 2016
+2016-03-29 11:14:46 INFO  WebCrawler:91 - Finished writingJan 2016
+2016-03-29 11:14:46 INFO  WebCrawler:98 - Preparing word document
+2016-03-29 11:15:56 INFO  FileHelper:34 - Directory  already exist with name /home/lakshmanar/YEAR 2016
+2016-03-29 11:15:56 INFO  WebCrawler:42 - Crawler Base URL  :http://mail-archives.apache.org/mod_mbox/maven-users/
+2016-03-29 11:15:56 INFO  WebCrawler:44 - Reading mail of year 2016
+2016-03-29 11:15:57 INFO  WebCrawler:84 - Created work book
+2016-03-29 11:15:57 INFO  WebCrawler:88 - Preparing data of Mar 2016
+2016-03-29 11:15:57 INFO  WebCrawler:91 - Finished writingMar 2016
+2016-03-29 11:15:57 INFO  WebCrawler:98 - Preparing word document
+2016-03-29 11:15:58 INFO  WebCrawler:84 - Created work book
+2016-03-29 11:15:58 INFO  WebCrawler:88 - Preparing data of Feb 2016
+2016-03-29 11:15:58 INFO  WebCrawler:91 - Finished writingFeb 2016
+2016-03-29 11:15:58 INFO  WebCrawler:98 - Preparing word document
+2016-03-29 11:15:58 INFO  WebCrawler:84 - Created work book
+2016-03-29 11:15:58 INFO  WebCrawler:88 - Preparing data of Jan 2016
+2016-03-29 11:15:58 INFO  WebCrawler:91 - Finished writingJan 2016
+2016-03-29 11:15:58 INFO  WebCrawler:98 - Preparing word document
+2016-03-29 11:17:10 INFO  FileHelper:34 - Directory  already exist with name /home/lakshmanar/YEAR 2016
+2016-03-29 11:17:10 INFO  WebCrawler:42 - Crawler Base URL  :http://mail-archives.apache.org/mod_mbox/maven-users/
+2016-03-29 11:17:10 INFO  WebCrawler:44 - Reading mail of year 2016
+2016-03-29 11:17:12 INFO  WebCrawler:84 - Created work book
+2016-03-29 11:17:12 INFO  WebCrawler:88 - Preparing data of Mar 2016
+2016-03-29 11:17:12 INFO  WebCrawler:91 - Finished writingMar 2016
+2016-03-29 11:17:12 INFO  WebCrawler:98 - Preparing word document
+2016-03-29 11:17:12 INFO  WebCrawler:84 - Created work book
+2016-03-29 11:17:12 INFO  WebCrawler:88 - Preparing data of Feb 2016
+2016-03-29 11:17:12 INFO  WebCrawler:91 - Finished writingFeb 2016
+2016-03-29 11:17:12 INFO  WebCrawler:98 - Preparing word document
+2016-03-29 11:17:13 INFO  WebCrawler:84 - Created work book
+2016-03-29 11:17:13 INFO  WebCrawler:88 - Preparing data of Jan 2016
+2016-03-29 11:17:13 INFO  WebCrawler:91 - Finished writingJan 2016
+2016-03-29 11:17:13 INFO  WebCrawler:98 - Preparing word document
+2016-03-29 11:20:41 INFO  FileHelper:34 - Directory  already exist with name /home/lakshmanar/YEAR 2016
+2016-03-29 11:20:41 INFO  WebCrawler:42 - Crawler Base URL  :http://mail-archives.apache.org/mod_mbox/maven-users/
+2016-03-29 11:20:41 INFO  WebCrawler:44 - Reading mail of year 2016
+2016-03-29 11:20:46 INFO  WebCrawler:84 - Created work book
+2016-03-29 11:20:46 INFO  WebCrawler:88 - Preparing data of Mar 2016
+2016-03-29 11:20:47 INFO  WebCrawler:91 - Finished writingMar 2016
+2016-03-29 11:20:47 INFO  WebCrawler:98 - Preparing word document
+2016-03-29 11:20:47 INFO  WebCrawler:84 - Created work book
+2016-03-29 11:20:47 INFO  WebCrawler:88 - Preparing data of Feb 2016
+2016-03-29 11:20:47 INFO  WebCrawler:91 - Finished writingFeb 2016
+2016-03-29 11:20:47 INFO  WebCrawler:98 - Preparing word document
+2016-03-29 11:20:47 INFO  WebCrawler:84 - Created work book
+2016-03-29 11:20:47 INFO  WebCrawler:88 - Preparing data of Jan 2016
+2016-03-29 11:20:47 INFO  WebCrawler:91 - Finished writingJan 2016
+2016-03-29 11:20:47 INFO  WebCrawler:98 - Preparing word document
+2016-03-29 11:29:45 INFO  FileHelper:34 - Directory  already exist with name /home/lakshmanar/YEAR 2016
+2016-03-29 11:29:45 INFO  WebCrawler:42 - Crawler Base URL  :http://mail-archives.apache.org/mod_mbox/maven-users/
+2016-03-29 11:29:45 INFO  WebCrawler:44 - Reading mail of year 2016
+2016-03-29 11:29:48 INFO  WebCrawler:84 - Created work book
+2016-03-29 11:29:48 INFO  WebCrawler:88 - Preparing data of Mar 2016
+2016-03-29 11:29:48 INFO  WebCrawler:91 - Finished writingMar 2016
+2016-03-29 11:29:48 INFO  WebCrawler:98 - Preparing word document
+2016-03-29 11:29:49 INFO  WebCrawler:84 - Created work book
+2016-03-29 11:29:49 INFO  WebCrawler:88 - Preparing data of Feb 2016
+2016-03-29 11:29:49 INFO  WebCrawler:91 - Finished writingFeb 2016
+2016-03-29 11:29:49 INFO  WebCrawler:98 - Preparing word document
+2016-03-29 11:29:49 INFO  WebCrawler:84 - Created work book
+2016-03-29 11:29:49 INFO  WebCrawler:88 - Preparing data of Jan 2016
+2016-03-29 11:29:49 INFO  WebCrawler:91 - Finished writingJan 2016
+2016-03-29 11:29:49 INFO  WebCrawler:98 - Preparing word document
+2016-03-29 11:34:34 INFO  FileHelper:34 - Directory  already exist with name /home/lakshmanar/YEAR 2016
+2016-03-29 11:34:34 INFO  WebCrawler:42 - Crawler Base URL  :http://mail-archives.apache.org/mod_mbox/maven-users/
+2016-03-29 11:34:34 INFO  WebCrawler:44 - Reading mail of year 2016
+2016-03-29 11:34:36 INFO  WebCrawler:84 - Created work book
+2016-03-29 11:34:36 INFO  WebCrawler:88 - Preparing data of Mar 2016
+2016-03-29 11:34:36 INFO  WebCrawler:91 - Finished writingMar 2016
+2016-03-29 11:34:36 INFO  WebCrawler:98 - Preparing word document
+2016-03-29 11:34:37 INFO  WebCrawler:84 - Created work book
+2016-03-29 11:34:37 INFO  WebCrawler:88 - Preparing data of Feb 2016
+2016-03-29 11:34:37 INFO  WebCrawler:91 - Finished writingFeb 2016
+2016-03-29 11:34:37 INFO  WebCrawler:98 - Preparing word document
+2016-03-29 11:34:37 INFO  WebCrawler:84 - Created work book
+2016-03-29 11:34:37 INFO  WebCrawler:88 - Preparing data of Jan 2016
+2016-03-29 11:34:37 INFO  WebCrawler:91 - Finished writingJan 2016
+2016-03-29 11:34:37 INFO  WebCrawler:98 - Preparing word document
+2016-03-29 11:35:17 INFO  FileHelper:34 - Directory  already exist with name /home/lakshmanar/YEAR 2016
+2016-03-29 11:35:17 INFO  WebCrawler:42 - Crawler Base URL  :http://mail-archives.apache.org/mod_mbox/maven-users/
+2016-03-29 11:35:17 INFO  WebCrawler:44 - Reading mail of year 2016
+2016-03-29 11:35:19 INFO  WebCrawler:84 - Created work book
+2016-03-29 11:35:19 INFO  WebCrawler:88 - Preparing data of Mar 2016
+2016-03-29 11:35:19 INFO  WebCrawler:91 - Finished writingMar 2016
+2016-03-29 11:35:19 INFO  WebCrawler:98 - Preparing word document
+2016-03-29 11:35:19 INFO  WebCrawler:84 - Created work book
+2016-03-29 11:35:19 INFO  WebCrawler:88 - Preparing data of Feb 2016
+2016-03-29 11:35:19 INFO  WebCrawler:91 - Finished writingFeb 2016
+2016-03-29 11:35:19 INFO  WebCrawler:98 - Preparing word document
+2016-03-29 11:35:20 INFO  WebCrawler:84 - Created work book
+2016-03-29 11:35:20 INFO  WebCrawler:88 - Preparing data of Jan 2016
+2016-03-29 11:35:20 INFO  WebCrawler:91 - Finished writingJan 2016
+2016-03-29 11:35:20 INFO  WebCrawler:98 - Preparing word document
+2016-03-29 11:52:46 INFO  FileHelper:34 - Directory  already exist with name /home/lakshmanar/YEAR 2016
+2016-03-29 11:52:46 INFO  WebCrawler:42 - Crawler Base URL  :http://mail-archives.apache.org/mod_mbox/maven-users/
+2016-03-29 11:52:46 INFO  WebCrawler:44 - Reading mail of year 2016
+2016-03-29 11:53:55 INFO  WebCrawler:84 - Created work book
+2016-03-29 11:53:55 INFO  WebCrawler:88 - Preparing data of Mar 2016
+2016-03-29 11:53:55 INFO  WebCrawler:91 - Finished writingMar 2016
+2016-03-29 11:53:55 INFO  WebCrawler:98 - Preparing word document
+2016-03-29 11:55:31 INFO  FileHelper:34 - Directory  already exist with name /home/lakshmanar/YEAR 2016
+2016-03-29 11:55:31 INFO  WebCrawler:42 - Crawler Base URL  :http://mail-archives.apache.org/mod_mbox/maven-users/
+2016-03-29 11:55:31 INFO  WebCrawler:44 - Reading mail of year 2016
+2016-03-29 11:55:33 INFO  WebCrawler:84 - Created work book
+2016-03-29 11:55:34 INFO  WebCrawler:88 - Preparing data of Mar 2016
+2016-03-29 11:55:34 INFO  WebCrawler:91 - Finished writingMar 2016
+2016-03-29 11:55:34 INFO  WebCrawler:98 - Preparing word document
+2016-03-29 12:01:58 INFO  FileHelper:34 - Directory  already exist with name /home/lakshmanar/YEAR 2016
+2016-03-29 12:01:58 INFO  WebCrawler:42 - Crawler Base URL  :http://mail-archives.apache.org/mod_mbox/maven-users/
+2016-03-29 12:01:58 INFO  WebCrawler:44 - Reading mail of year 2016
+2016-03-29 12:02:01 INFO  WebCrawler:84 - Created work book
+2016-03-29 12:02:01 INFO  WebCrawler:88 - Preparing data of Mar 2016
+2016-03-29 12:02:01 INFO  WebCrawler:91 - Finished writingMar 2016
+2016-03-29 12:02:01 INFO  WebCrawler:98 - Preparing word document
+2016-03-29 12:02:01 INFO  WebCrawler:84 - Created work book
+2016-03-29 12:02:01 INFO  WebCrawler:88 - Preparing data of Feb 2016
+2016-03-29 12:02:01 INFO  WebCrawler:91 - Finished writingFeb 2016
+2016-03-29 12:02:01 INFO  WebCrawler:98 - Preparing word document
+2016-03-29 12:02:02 INFO  WebCrawler:84 - Created work book
+2016-03-29 12:02:02 INFO  WebCrawler:88 - Preparing data of Jan 2016
+2016-03-29 12:02:02 INFO  WebCrawler:91 - Finished writingJan 2016
+2016-03-29 12:02:02 INFO  WebCrawler:98 - Preparing word document
+2016-03-29 12:05:38 INFO  FileHelper:34 - Directory  already exist with name /home/lakshmanar/YEAR 2016
+2016-03-29 12:05:38 INFO  WebCrawler:42 - Crawler Base URL  :http://mail-archives.apache.org/mod_mbox/maven-users/
+2016-03-29 12:05:38 INFO  WebCrawler:44 - Reading mail of year 2016
+2016-03-29 12:05:43 INFO  WebCrawler:84 - Created work book
+2016-03-29 12:05:43 INFO  WebCrawler:88 - Preparing data of Mar 2016
+2016-03-29 12:05:43 INFO  WebCrawler:91 - Finished writingMar 2016
+2016-03-29 12:05:43 INFO  WebCrawler:98 - Preparing word document
+2016-03-29 12:05:43 INFO  WebCrawler:84 - Created work book
+2016-03-29 12:05:43 INFO  WebCrawler:88 - Preparing data of Feb 2016
+2016-03-29 12:05:43 INFO  WebCrawler:91 - Finished writingFeb 2016
+2016-03-29 12:05:43 INFO  WebCrawler:98 - Preparing word document
+2016-03-29 12:05:44 INFO  WebCrawler:84 - Created work book
+2016-03-29 12:05:44 INFO  WebCrawler:88 - Preparing data of Jan 2016
+2016-03-29 12:05:44 INFO  WebCrawler:91 - Finished writingJan 2016
+2016-03-29 12:05:44 INFO  WebCrawler:98 - Preparing word document
+2016-03-29 12:09:42 INFO  FileHelper:34 - Directory  already exist with name /home/lakshmanar/YEAR 2016
+2016-03-29 12:09:42 INFO  WebCrawler:42 - Crawler Base URL  :http://mail-archives.apache.org/mod_mbox/maven-users/
+2016-03-29 12:09:42 INFO  WebCrawler:44 - Reading mail of year 2016
+2016-03-29 12:09:44 INFO  WebCrawler:84 - Created work book
+2016-03-29 12:09:44 INFO  WebCrawler:88 - Preparing data of Mar 2016
+2016-03-29 12:09:44 INFO  WebCrawler:91 - Finished writingMar 2016
+2016-03-29 12:09:44 INFO  WebCrawler:98 - Preparing word document
+2016-03-29 12:09:45 INFO  WebCrawler:84 - Created work book
+2016-03-29 12:09:45 INFO  WebCrawler:88 - Preparing data of Feb 2016
+2016-03-29 12:09:45 INFO  WebCrawler:91 - Finished writingFeb 2016
+2016-03-29 12:09:45 INFO  WebCrawler:98 - Preparing word document
+2016-03-29 12:09:45 INFO  WebCrawler:84 - Created work book
+2016-03-29 12:09:45 INFO  WebCrawler:88 - Preparing data of Jan 2016
+2016-03-29 12:09:45 INFO  WebCrawler:91 - Finished writingJan 2016
+2016-03-29 12:09:45 INFO  WebCrawler:98 - Preparing word document
+2016-03-29 12:10:19 INFO  FileHelper:34 - Directory  already exist with name /home/lakshmanar/YEAR 2016
+2016-03-29 12:10:19 INFO  WebCrawler:42 - Crawler Base URL  :http://mail-archives.apache.org/mod_mbox/maven-users/
+2016-03-29 12:10:19 INFO  WebCrawler:44 - Reading mail of year 2016
+2016-03-29 12:10:21 INFO  WebCrawler:84 - Created work book
+2016-03-29 12:10:21 INFO  WebCrawler:88 - Preparing data of Mar 2016
+2016-03-29 12:10:21 INFO  WebCrawler:91 - Finished writingMar 2016
+2016-03-29 12:10:21 INFO  WebCrawler:98 - Preparing word document
+2016-03-29 12:10:22 INFO  WebCrawler:84 - Created work book
+2016-03-29 12:10:22 INFO  WebCrawler:88 - Preparing data of Feb 2016
+2016-03-29 12:10:22 INFO  WebCrawler:91 - Finished writingFeb 2016
+2016-03-29 12:10:22 INFO  WebCrawler:98 - Preparing word document
+2016-03-29 12:10:22 INFO  WebCrawler:84 - Created work book
+2016-03-29 12:10:22 INFO  WebCrawler:88 - Preparing data of Jan 2016
+2016-03-29 12:10:22 INFO  WebCrawler:91 - Finished writingJan 2016
+2016-03-29 12:10:22 INFO  WebCrawler:98 - Preparing word document
+2016-03-29 12:11:43 INFO  FileHelper:34 - Directory  already exist with name /home/lakshmanar/YEAR 2016
+2016-03-29 12:11:43 INFO  WebCrawler:42 - Crawler Base URL  :http://mail-archives.apache.org/mod_mbox/maven-users/
+2016-03-29 12:11:43 INFO  WebCrawler:44 - Reading mail of year 2016
+2016-03-29 12:11:45 INFO  WebCrawler:84 - Created work book
+2016-03-29 12:11:45 INFO  WebCrawler:88 - Preparing data of Mar 2016
+2016-03-29 12:11:45 INFO  WebCrawler:91 - Finished writingMar 2016
+2016-03-29 12:11:45 INFO  WebCrawler:98 - Preparing word document
+2016-03-29 12:11:46 INFO  WebCrawler:84 - Created work book
+2016-03-29 12:11:46 INFO  WebCrawler:88 - Preparing data of Feb 2016
+2016-03-29 12:11:46 INFO  WebCrawler:91 - Finished writingFeb 2016
+2016-03-29 12:11:46 INFO  WebCrawler:98 - Preparing word document
+2016-03-29 12:11:46 INFO  WebCrawler:84 - Created work book
+2016-03-29 12:11:46 INFO  WebCrawler:88 - Preparing data of Jan 2016
+2016-03-29 12:11:46 INFO  WebCrawler:91 - Finished writingJan 2016
+2016-03-29 12:11:46 INFO  WebCrawler:98 - Preparing word document
+2016-03-29 12:14:05 INFO  FileHelper:34 - Directory  already exist with name /home/lakshmanar/YEAR 2016
+2016-03-29 12:14:05 INFO  WebCrawler:42 - Crawler Base URL  :http://mail-archives.apache.org/mod_mbox/maven-users/
+2016-03-29 12:14:05 INFO  WebCrawler:44 - Reading mail of year 2016
+2016-03-29 12:14:08 INFO  WebCrawler:84 - Created work book
+2016-03-29 12:14:08 INFO  WebCrawler:88 - Preparing data of Mar 2016
+2016-03-29 12:14:08 INFO  WebCrawler:91 - Finished writingMar 2016
+2016-03-29 12:14:08 INFO  WebCrawler:98 - Preparing word document
+2016-03-29 12:14:08 INFO  WebCrawler:84 - Created work book
+2016-03-29 12:14:08 INFO  WebCrawler:88 - Preparing data of Feb 2016
+2016-03-29 12:14:08 INFO  WebCrawler:91 - Finished writingFeb 2016
+2016-03-29 12:14:08 INFO  WebCrawler:98 - Preparing word document
+2016-03-29 12:14:09 INFO  WebCrawler:84 - Created work book
+2016-03-29 12:14:09 INFO  WebCrawler:88 - Preparing data of Jan 2016
+2016-03-29 12:14:09 INFO  WebCrawler:91 - Finished writingJan 2016
+2016-03-29 12:14:09 INFO  WebCrawler:98 - Preparing word document
+2016-03-29 12:29:18 INFO  FileHelper:34 - Directory  already exist with name /home/lakshmanar/YEAR 2016
+2016-03-29 12:29:18 INFO  WebCrawler:42 - Crawler Base URL  :http://mail-archives.apache.org/mod_mbox/maven-users/
+2016-03-29 12:29:18 INFO  WebCrawler:44 - Reading mail of year 2016
+2016-03-29 12:29:23 INFO  WebCrawler:84 - Created work book
+2016-03-29 12:29:23 INFO  WebCrawler:88 - Preparing data of Mar 2016
+2016-03-29 12:29:23 INFO  WebCrawler:91 - Finished writingMar 2016
+2016-03-29 12:29:23 INFO  WebCrawler:98 - Preparing word document
+2016-03-29 12:29:24 INFO  WebCrawler:84 - Created work book
+2016-03-29 12:29:24 INFO  WebCrawler:88 - Preparing data of Feb 2016
+2016-03-29 12:29:24 INFO  WebCrawler:91 - Finished writingFeb 2016
+2016-03-29 12:29:24 INFO  WebCrawler:98 - Preparing word document
+2016-03-29 12:29:24 INFO  WebCrawler:84 - Created work book
+2016-03-29 12:29:24 INFO  WebCrawler:88 - Preparing data of Jan 2016
+2016-03-29 12:29:24 INFO  WebCrawler:91 - Finished writingJan 2016
+2016-03-29 12:29:24 INFO  WebCrawler:98 - Preparing word document
+2016-03-29 12:49:32 INFO  FileHelper:34 - Directory  already exist with name /home/lakshmanar/YEAR 2016
+2016-03-29 12:49:32 INFO  WebCrawler:42 - Crawler Base URL  :http://mail-archives.apache.org/mod_mbox/maven-users/
+2016-03-29 12:49:32 INFO  WebCrawler:44 - Reading mail of year 2016
+2016-03-29 12:49:35 INFO  WebCrawler:84 - Created work book
+2016-03-29 12:49:35 INFO  WebCrawler:88 - Preparing data of Mar 2016
+2016-03-29 12:49:35 INFO  WebCrawler:91 - Finished writingMar 2016
+2016-03-29 12:49:35 INFO  WebCrawler:98 - Preparing word document
+2016-03-29 12:49:35 INFO  WebCrawler:84 - Created work book
+2016-03-29 12:49:35 INFO  WebCrawler:88 - Preparing data of Feb 2016
+2016-03-29 12:49:35 INFO  WebCrawler:91 - Finished writingFeb 2016
+2016-03-29 12:49:35 INFO  WebCrawler:98 - Preparing word document
+2016-03-29 12:49:35 INFO  WebCrawler:84 - Created work book
+2016-03-29 12:49:35 INFO  WebCrawler:88 - Preparing data of Jan 2016
+2016-03-29 12:49:36 INFO  WebCrawler:91 - Finished writingJan 2016
+2016-03-29 12:49:36 INFO  WebCrawler:98 - Preparing word document
+2016-03-29 12:53:23 INFO  FileHelper:34 - Directory  already exist with name /home/lakshmanar/YEAR 2016
+2016-03-29 12:53:23 INFO  WebCrawler:42 - Crawler Base URL  :http://mail-archives.apache.org/mod_mbox/maven-users/
+2016-03-29 12:53:23 INFO  WebCrawler:44 - Reading mail of year 2016
+2016-03-29 12:53:25 INFO  WebCrawler:84 - Created work book
+2016-03-29 12:53:25 INFO  WebCrawler:88 - Preparing data of Mar 2016
+2016-03-29 12:53:25 INFO  WebCrawler:91 - Finished writingMar 2016
+2016-03-29 12:53:25 INFO  WebCrawler:98 - Preparing word document
+2016-03-29 12:53:26 INFO  WebCrawler:84 - Created work book
+2016-03-29 12:53:26 INFO  WebCrawler:88 - Preparing data of Feb 2016
+2016-03-29 12:53:26 INFO  WebCrawler:91 - Finished writingFeb 2016
+2016-03-29 12:53:26 INFO  WebCrawler:98 - Preparing word document
+2016-03-29 12:53:26 INFO  WebCrawler:84 - Created work book
+2016-03-29 12:53:26 INFO  WebCrawler:88 - Preparing data of Jan 2016
+2016-03-29 12:53:26 INFO  WebCrawler:91 - Finished writingJan 2016
+2016-03-29 12:53:26 INFO  WebCrawler:98 - Preparing word document
+2016-03-29 12:53:57 INFO  FileHelper:34 - Directory  already exist with name /home/lakshmanar/YEAR 2016
+2016-03-29 12:53:57 INFO  WebCrawler:42 - Crawler Base URL  :http://mail-archives.apache.org/mod_mbox/maven-users/
+2016-03-29 12:53:57 INFO  WebCrawler:44 - Reading mail of year 2016
+2016-03-29 12:53:58 INFO  WebCrawler:84 - Created work book
+2016-03-29 12:53:59 INFO  WebCrawler:88 - Preparing data of Mar 2016
+2016-03-29 12:53:59 INFO  WebCrawler:91 - Finished writingMar 2016
+2016-03-29 12:53:59 INFO  WebCrawler:98 - Preparing word document
+2016-03-29 12:53:59 INFO  WebCrawler:84 - Created work book
+2016-03-29 12:53:59 INFO  WebCrawler:88 - Preparing data of Feb 2016
+2016-03-29 12:53:59 INFO  WebCrawler:91 - Finished writingFeb 2016
+2016-03-29 12:53:59 INFO  WebCrawler:98 - Preparing word document
+2016-03-29 12:53:59 INFO  WebCrawler:84 - Created work book
+2016-03-29 12:53:59 INFO  WebCrawler:88 - Preparing data of Jan 2016
+2016-03-29 12:53:59 INFO  WebCrawler:91 - Finished writingJan 2016
+2016-03-29 12:53:59 INFO  WebCrawler:98 - Preparing word document
+2016-03-29 12:56:29 INFO  FileHelper:34 - Directory  already exist with name /home/lakshmanar/YEAR 2016
+2016-03-29 12:56:29 INFO  WebCrawler:42 - Crawler Base URL  :http://mail-archives.apache.org/mod_mbox/maven-users/
+2016-03-29 12:56:29 INFO  WebCrawler:44 - Reading mail of year 2016
+2016-03-29 12:56:31 INFO  WebCrawler:84 - Created work book
+2016-03-29 12:56:31 INFO  WebCrawler:88 - Preparing data of Mar 2016
+2016-03-29 12:56:31 INFO  WebCrawler:91 - Finished writingMar 2016
+2016-03-29 12:56:31 INFO  WebCrawler:98 - Preparing word document
+2016-03-29 12:56:31 INFO  WebCrawler:84 - Created work book
+2016-03-29 12:56:31 INFO  WebCrawler:88 - Preparing data of Feb 2016
+2016-03-29 12:56:31 INFO  WebCrawler:91 - Finished writingFeb 2016
+2016-03-29 12:56:31 INFO  WebCrawler:98 - Preparing word document
+2016-03-29 12:56:32 INFO  WebCrawler:84 - Created work book
+2016-03-29 12:56:32 INFO  WebCrawler:88 - Preparing data of Jan 2016
+2016-03-29 12:56:32 INFO  WebCrawler:91 - Finished writingJan 2016
+2016-03-29 12:56:32 INFO  WebCrawler:98 - Preparing word document
+2016-03-29 12:59:15 INFO  FileHelper:34 - Directory  already exist with name /home/lakshmanar/YEAR 2016
+2016-03-29 12:59:15 INFO  WebCrawler:42 - Crawler Base URL  :http://mail-archives.apache.org/mod_mbox/maven-users/
+2016-03-29 12:59:15 INFO  WebCrawler:44 - Reading mail of year 2016
+2016-03-29 12:59:19 INFO  WebCrawler:84 - Created work book
+2016-03-29 12:59:19 INFO  WebCrawler:88 - Preparing data of Mar 2016
+2016-03-29 12:59:19 INFO  WebCrawler:91 - Finished writingMar 2016
+2016-03-29 12:59:19 INFO  WebCrawler:98 - Preparing word document
+2016-03-29 12:59:20 INFO  WebCrawler:84 - Created work book
+2016-03-29 12:59:20 INFO  WebCrawler:88 - Preparing data of Feb 2016
+2016-03-29 12:59:20 INFO  WebCrawler:91 - Finished writingFeb 2016
+2016-03-29 12:59:20 INFO  WebCrawler:98 - Preparing word document
+2016-03-29 12:59:20 INFO  WebCrawler:84 - Created work book
+2016-03-29 12:59:20 INFO  WebCrawler:88 - Preparing data of Jan 2016
+2016-03-29 12:59:20 INFO  WebCrawler:91 - Finished writingJan 2016
+2016-03-29 12:59:20 INFO  WebCrawler:98 - Preparing word document
+2016-03-29 13:00:24 INFO  FileHelper:34 - Directory  already exist with name /home/lakshmanar/YEAR 2016
+2016-03-29 13:00:24 INFO  WebCrawler:42 - Crawler Base URL  :http://mail-archives.apache.org/mod_mbox/maven-users/
+2016-03-29 13:00:24 INFO  WebCrawler:44 - Reading mail of year 2016
+2016-03-29 13:00:26 INFO  WebCrawler:84 - Created work book
+2016-03-29 13:00:26 INFO  WebCrawler:88 - Preparing data of Mar 2016
+2016-03-29 13:00:26 INFO  WebCrawler:91 - Finished writingMar 2016
+2016-03-29 13:00:26 INFO  WebCrawler:98 - Preparing word document
+2016-03-29 13:00:26 INFO  WebCrawler:84 - Created work book
+2016-03-29 13:00:26 INFO  WebCrawler:88 - Preparing data of Feb 2016
+2016-03-29 13:00:26 INFO  WebCrawler:91 - Finished writingFeb 2016
+2016-03-29 13:00:26 INFO  WebCrawler:98 - Preparing word document
+2016-03-29 13:00:26 INFO  WebCrawler:84 - Created work book
+2016-03-29 13:00:26 INFO  WebCrawler:88 - Preparing data of Jan 2016
+2016-03-29 13:00:26 INFO  WebCrawler:91 - Finished writingJan 2016
+2016-03-29 13:00:26 INFO  WebCrawler:98 - Preparing word document
+2016-03-29 13:02:19 INFO  FileHelper:34 - Directory  already exist with name /home/lakshmanar/YEAR 2016
+2016-03-29 13:02:19 INFO  WebCrawler:42 - Crawler Base URL  :http://mail-archives.apache.org/mod_mbox/maven-users/
+2016-03-29 13:02:19 INFO  WebCrawler:44 - Reading mail of year 2016
+2016-03-29 13:02:23 INFO  WebCrawler:84 - Created work book
+2016-03-29 13:02:23 INFO  WebCrawler:88 - Preparing data of Mar 2016
+2016-03-29 13:02:23 INFO  WebCrawler:91 - Finished writingMar 2016
+2016-03-29 13:02:23 INFO  WebCrawler:98 - Preparing word document
+2016-03-29 13:02:23 INFO  WebCrawler:84 - Created work book
+2016-03-29 13:02:23 INFO  WebCrawler:88 - Preparing data of Feb 2016
+2016-03-29 13:02:23 INFO  WebCrawler:91 - Finished writingFeb 2016
+2016-03-29 13:02:23 INFO  WebCrawler:98 - Preparing word document
+2016-03-29 13:02:24 INFO  WebCrawler:84 - Created work book
+2016-03-29 13:02:24 INFO  WebCrawler:88 - Preparing data of Jan 2016
+2016-03-29 13:02:24 INFO  WebCrawler:91 - Finished writingJan 2016
+2016-03-29 13:02:24 INFO  WebCrawler:98 - Preparing word document
+2016-03-29 13:04:16 INFO  FileHelper:34 - Directory  already exist with name /home/lakshmanar/YEAR 2016
+2016-03-29 13:04:16 INFO  WebCrawler:42 - Crawler Base URL  :http://mail-archives.apache.org/mod_mbox/maven-users/
+2016-03-29 13:04:16 INFO  WebCrawler:44 - Reading mail of year 2016
+2016-03-29 13:04:18 INFO  WebCrawler:84 - Created work book
+2016-03-29 13:04:18 INFO  WebCrawler:88 - Preparing data of Mar 2016
+2016-03-29 13:04:18 INFO  WebCrawler:91 - Finished writingMar 2016
+2016-03-29 13:04:18 INFO  WebCrawler:98 - Preparing word document
+2016-03-29 13:04:18 INFO  WebCrawler:84 - Created work book
+2016-03-29 13:04:18 INFO  WebCrawler:88 - Preparing data of Feb 2016
+2016-03-29 13:04:18 INFO  WebCrawler:91 - Finished writingFeb 2016
+2016-03-29 13:04:18 INFO  WebCrawler:98 - Preparing word document
+2016-03-29 13:04:18 INFO  WebCrawler:84 - Created work book
+2016-03-29 13:04:18 INFO  WebCrawler:88 - Preparing data of Jan 2016
+2016-03-29 13:04:18 INFO  WebCrawler:91 - Finished writingJan 2016
+2016-03-29 13:04:18 INFO  WebCrawler:98 - Preparing word document
+2016-03-29 13:04:45 INFO  FileHelper:34 - Directory  already exist with name /home/lakshmanar/YEAR 2016
+2016-03-29 13:04:45 INFO  WebCrawler:42 - Crawler Base URL  :http://mail-archives.apache.org/mod_mbox/maven-users/
+2016-03-29 13:04:45 INFO  WebCrawler:44 - Reading mail of year 2016
+2016-03-29 13:04:46 INFO  WebCrawler:84 - Created work book
+2016-03-29 13:04:46 INFO  WebCrawler:88 - Preparing data of Mar 2016
+2016-03-29 13:04:46 INFO  WebCrawler:91 - Finished writingMar 2016
+2016-03-29 13:04:46 INFO  WebCrawler:98 - Preparing word document
+2016-03-29 13:04:46 INFO  WebCrawler:84 - Created work book
+2016-03-29 13:04:46 INFO  WebCrawler:88 - Preparing data of Feb 2016
+2016-03-29 13:04:46 INFO  WebCrawler:91 - Finished writingFeb 2016
+2016-03-29 13:04:46 INFO  WebCrawler:98 - Preparing word document
+2016-03-29 13:04:47 INFO  WebCrawler:84 - Created work book
+2016-03-29 13:04:47 INFO  WebCrawler:88 - Preparing data of Jan 2016
+2016-03-29 13:04:47 INFO  WebCrawler:91 - Finished writingJan 2016
+2016-03-29 13:04:47 INFO  WebCrawler:98 - Preparing word document
+2016-03-29 13:59:35 INFO  FileHelper:34 - Directory  already exist with name /home/lakshmanar/YEAR 2016
+2016-03-29 13:59:35 INFO  WebCrawler:42 - Crawler Base URL  :http://mail-archives.apache.org/mod_mbox/maven-users/
+2016-03-29 13:59:35 INFO  WebCrawler:44 - Reading mail of year 2016
+2016-03-29 13:59:38 INFO  WebCrawler:84 - Created work book
+2016-03-29 13:59:39 INFO  WebCrawler:88 - Preparing data of Mar 2016
+2016-03-29 13:59:39 INFO  WebCrawler:91 - Finished writingMar 2016
+2016-03-29 13:59:39 INFO  WebCrawler:98 - Preparing word document
+2016-03-29 13:59:39 INFO  WebCrawler:84 - Created work book
+2016-03-29 13:59:39 INFO  WebCrawler:88 - Preparing data of Feb 2016
+2016-03-29 13:59:39 INFO  WebCrawler:91 - Finished writingFeb 2016
+2016-03-29 13:59:39 INFO  WebCrawler:98 - Preparing word document
+2016-03-29 13:59:39 INFO  WebCrawler:84 - Created work book
+2016-03-29 13:59:39 INFO  WebCrawler:88 - Preparing data of Jan 2016
+2016-03-29 13:59:39 INFO  WebCrawler:91 - Finished writingJan 2016
+2016-03-29 13:59:39 INFO  WebCrawler:98 - Preparing word document
+2016-03-29 14:21:29 INFO  FileHelper:34 - Directory  already exist with name /home/lakshmanar/YEAR 2016
+2016-03-29 14:21:29 INFO  WebCrawler:42 - Crawler Base URL  :http://mail-archives.apache.org/mod_mbox/maven-users/
+2016-03-29 14:21:29 INFO  WebCrawler:44 - Reading mail of year 2016
+2016-03-29 14:21:32 INFO  WebCrawler:84 - Created work book
+2016-03-29 14:21:32 INFO  WebCrawler:88 - Preparing data of Mar 2016
+2016-03-29 14:21:32 INFO  WebCrawler:91 - Finished writingMar 2016
+2016-03-29 14:21:32 INFO  WebCrawler:98 - Preparing word document
+2016-03-29 14:21:32 INFO  WebCrawler:84 - Created work book
+2016-03-29 14:21:32 INFO  WebCrawler:88 - Preparing data of Feb 2016
+2016-03-29 14:21:32 INFO  WebCrawler:91 - Finished writingFeb 2016
+2016-03-29 14:21:32 INFO  WebCrawler:98 - Preparing word document
+2016-03-29 14:21:32 INFO  WebCrawler:84 - Created work book
+2016-03-29 14:21:32 INFO  WebCrawler:88 - Preparing data of Jan 2016
+2016-03-29 14:21:32 INFO  WebCrawler:91 - Finished writingJan 2016
+2016-03-29 14:21:32 INFO  WebCrawler:98 - Preparing word document
+2016-03-29 14:22:14 INFO  FileHelper:34 - Directory  already exist with name /home/lakshmanar/YEAR 2016
+2016-03-29 14:22:14 INFO  WebCrawler:42 - Crawler Base URL  :http://mail-archives.apache.org/mod_mbox/maven-users/
+2016-03-29 14:22:14 INFO  WebCrawler:44 - Reading mail of year 2016
+2016-03-29 14:22:16 INFO  WebCrawler:84 - Created work book
+2016-03-29 14:22:16 INFO  WebCrawler:88 - Preparing data of Mar 2016
+2016-03-29 14:22:16 INFO  WebCrawler:91 - Finished writingMar 2016
+2016-03-29 14:22:16 INFO  WebCrawler:98 - Preparing word document
+2016-03-29 14:22:19 INFO  WebCrawler:84 - Created work book
+2016-03-29 14:22:19 INFO  WebCrawler:88 - Preparing data of Feb 2016
+2016-03-29 14:22:19 INFO  WebCrawler:91 - Finished writingFeb 2016
+2016-03-29 14:22:19 INFO  WebCrawler:98 - Preparing word document
+2016-03-29 14:22:22 INFO  WebCrawler:84 - Created work book
+2016-03-29 14:22:22 INFO  WebCrawler:88 - Preparing data of Jan 2016
+2016-03-29 14:22:22 INFO  WebCrawler:91 - Finished writingJan 2016
+2016-03-29 14:22:22 INFO  WebCrawler:98 - Preparing word document
+2016-03-29 14:24:32 INFO  FileHelper:34 - Directory  already exist with name /home/lakshmanar/YEAR 2016
+2016-03-29 14:24:32 INFO  WebCrawler:42 - Crawler Base URL  :http://mail-archives.apache.org/mod_mbox/maven-users/
+2016-03-29 14:24:32 INFO  WebCrawler:44 - Reading mail of year 2016
+2016-03-29 14:24:34 INFO  WebCrawler:84 - Created work book
+2016-03-29 14:24:34 INFO  WebCrawler:88 - Preparing data of Mar 2016
+2016-03-29 14:24:34 INFO  WebCrawler:91 - Finished writingMar 2016
+2016-03-29 14:24:34 INFO  WebCrawler:98 - Preparing word document
+2016-03-29 14:24:34 INFO  WebCrawler:84 - Created work book
+2016-03-29 14:24:34 INFO  WebCrawler:88 - Preparing data of Feb 2016
+2016-03-29 14:24:34 INFO  WebCrawler:91 - Finished writingFeb 2016
+2016-03-29 14:24:34 INFO  WebCrawler:98 - Preparing word document
+2016-03-29 14:24:34 INFO  WebCrawler:84 - Created work book
+2016-03-29 14:24:34 INFO  WebCrawler:88 - Preparing data of Jan 2016
+2016-03-29 14:24:34 INFO  WebCrawler:91 - Finished writingJan 2016
+2016-03-29 14:24:34 INFO  WebCrawler:98 - Preparing word document
+2016-03-29 14:26:11 INFO  FileHelper:34 - Directory  already exist with name /home/lakshmanar/YEAR 2016
+2016-03-29 14:26:11 INFO  WebCrawler:42 - Crawler Base URL  :http://mail-archives.apache.org/mod_mbox/maven-users/
+2016-03-29 14:26:11 INFO  WebCrawler:44 - Reading mail of year 2016
+2016-03-29 14:26:12 INFO  WebCrawler:84 - Created work book
+2016-03-29 14:26:12 INFO  WebCrawler:88 - Preparing data of Mar 2016
+2016-03-29 14:26:12 INFO  WebCrawler:91 - Finished writingMar 2016
+2016-03-29 14:26:12 INFO  WebCrawler:98 - Preparing word document
+2016-03-29 14:26:12 INFO  WebCrawler:84 - Created work book
+2016-03-29 14:26:12 INFO  WebCrawler:88 - Preparing data of Feb 2016
+2016-03-29 14:26:12 INFO  WebCrawler:91 - Finished writingFeb 2016
+2016-03-29 14:26:12 INFO  WebCrawler:98 - Preparing word document
+2016-03-29 14:26:12 INFO  WebCrawler:84 - Created work book
+2016-03-29 14:26:12 INFO  WebCrawler:88 - Preparing data of Jan 2016
+2016-03-29 14:26:12 INFO  WebCrawler:91 - Finished writingJan 2016
+2016-03-29 14:26:12 INFO  WebCrawler:98 - Preparing word document
+2016-03-29 14:26:47 INFO  FileHelper:34 - Directory  already exist with name /home/lakshmanar/YEAR 2016
+2016-03-29 14:26:47 INFO  WebCrawler:42 - Crawler Base URL  :http://mail-archives.apache.org/mod_mbox/maven-users/
+2016-03-29 14:26:47 INFO  WebCrawler:44 - Reading mail of year 2016
+2016-03-29 14:26:49 INFO  WebCrawler:84 - Created work book
+2016-03-29 14:26:49 INFO  WebCrawler:88 - Preparing data of Mar 2016
+2016-03-29 14:26:49 INFO  WebCrawler:91 - Finished writingMar 2016
+2016-03-29 14:26:49 INFO  WebCrawler:98 - Preparing word document
+2016-03-29 14:26:50 INFO  WebCrawler:84 - Created work book
+2016-03-29 14:26:50 INFO  WebCrawler:88 - Preparing data of Feb 2016
+2016-03-29 14:26:50 INFO  WebCrawler:91 - Finished writingFeb 2016
+2016-03-29 14:26:50 INFO  WebCrawler:98 - Preparing word document
+2016-03-29 14:26:50 INFO  WebCrawler:84 - Created work book
+2016-03-29 14:26:50 INFO  WebCrawler:88 - Preparing data of Jan 2016
+2016-03-29 14:26:50 INFO  WebCrawler:91 - Finished writingJan 2016
+2016-03-29 14:26:50 INFO  WebCrawler:98 - Preparing word document
+2016-03-29 14:28:11 INFO  FileHelper:34 - Directory  already exist with name /home/lakshmanar/YEAR 2016
+2016-03-29 14:28:11 INFO  WebCrawler:42 - Crawler Base URL  :http://mail-archives.apache.org/mod_mbox/maven-users/
+2016-03-29 14:28:11 INFO  WebCrawler:44 - Reading mail of year 2016
+2016-03-29 14:28:12 INFO  WebCrawler:84 - Created work book
+2016-03-29 14:28:12 INFO  WebCrawler:88 - Preparing data of Mar 2016
+2016-03-29 14:28:12 INFO  WebCrawler:91 - Finished writingMar 2016
+2016-03-29 14:28:12 INFO  WebCrawler:98 - Preparing word document
+2016-03-29 14:28:12 INFO  WebCrawler:84 - Created work book
+2016-03-29 14:28:12 INFO  WebCrawler:88 - Preparing data of Feb 2016
+2016-03-29 14:28:12 INFO  WebCrawler:91 - Finished writingFeb 2016
+2016-03-29 14:28:12 INFO  WebCrawler:98 - Preparing word document
+2016-03-29 14:28:13 INFO  WebCrawler:84 - Created work book
+2016-03-29 14:28:13 INFO  WebCrawler:88 - Preparing data of Jan 2016
+2016-03-29 14:28:13 INFO  WebCrawler:91 - Finished writingJan 2016
+2016-03-29 14:28:13 INFO  WebCrawler:98 - Preparing word document
+2016-03-29 14:31:26 INFO  FileHelper:34 - Directory  already exist with name /home/lakshmanar/YEAR 2016
+2016-03-29 14:31:26 INFO  WebCrawler:42 - Crawler Base URL  :http://mail-archives.apache.org/mod_mbox/maven-users/
+2016-03-29 14:31:26 INFO  WebCrawler:44 - Reading mail of year 2016
+2016-03-29 14:31:27 INFO  WebCrawler:84 - Created work book
+2016-03-29 14:31:27 INFO  WebCrawler:88 - Preparing data of Mar 2016
+2016-03-29 14:31:27 INFO  WebCrawler:91 - Finished writingMar 2016
+2016-03-29 14:31:27 INFO  WebCrawler:98 - Preparing word document
+2016-03-29 14:31:28 INFO  WebCrawler:84 - Created work book
+2016-03-29 14:31:28 INFO  WebCrawler:88 - Preparing data of Feb 2016
+2016-03-29 14:31:28 INFO  WebCrawler:91 - Finished writingFeb 2016
+2016-03-29 14:31:28 INFO  WebCrawler:98 - Preparing word document
+2016-03-29 14:31:28 INFO  WebCrawler:84 - Created work book
+2016-03-29 14:31:28 INFO  WebCrawler:88 - Preparing data of Jan 2016
+2016-03-29 14:31:28 INFO  WebCrawler:91 - Finished writingJan 2016
+2016-03-29 14:31:28 INFO  WebCrawler:98 - Preparing word document
+2016-03-29 14:33:10 INFO  FileHelper:34 - Directory  already exist with name /home/lakshmanar/YEAR 2016
+2016-03-29 14:33:10 INFO  WebCrawler:42 - Crawler Base URL  :http://mail-archives.apache.org/mod_mbox/maven-users/
+2016-03-29 14:33:10 INFO  WebCrawler:44 - Reading mail of year 2016
+2016-03-29 14:33:13 INFO  WebCrawler:84 - Created work book
+2016-03-29 14:33:13 INFO  WebCrawler:88 - Preparing data of Mar 2016
+2016-03-29 14:33:13 INFO  WebCrawler:91 - Finished writingMar 2016
+2016-03-29 14:33:13 INFO  WebCrawler:98 - Preparing word document
+2016-03-29 14:33:14 INFO  WebCrawler:84 - Created work book
+2016-03-29 14:33:14 INFO  WebCrawler:88 - Preparing data of Feb 2016
+2016-03-29 14:33:14 INFO  WebCrawler:91 - Finished writingFeb 2016
+2016-03-29 14:33:14 INFO  WebCrawler:98 - Preparing word document
+2016-03-29 14:33:14 INFO  WebCrawler:84 - Created work book
+2016-03-29 14:33:14 INFO  WebCrawler:88 - Preparing data of Jan 2016
+2016-03-29 14:33:14 INFO  WebCrawler:91 - Finished writingJan 2016
+2016-03-29 14:33:14 INFO  WebCrawler:98 - Preparing word document
+2016-03-29 14:59:38 INFO  FileHelper:34 - Directory  already exist with name /home/lakshmanar/YEAR 2016
+2016-03-29 14:59:38 INFO  WebCrawler:42 - Crawler Base URL  :http://mail-archives.apache.org/mod_mbox/maven-users/
+2016-03-29 14:59:38 INFO  WebCrawler:44 - Reading mail of year 2016
+2016-03-29 14:59:42 INFO  WebCrawler:84 - Created work book
+2016-03-29 14:59:42 INFO  WebCrawler:88 - Preparing data of Mar 2016
+2016-03-29 14:59:42 INFO  WebCrawler:91 - Finished writingMar 2016
+2016-03-29 14:59:42 INFO  WebCrawler:98 - Preparing word document
+2016-03-29 14:59:42 INFO  WebCrawler:84 - Created work book
+2016-03-29 14:59:42 INFO  WebCrawler:88 - Preparing data of Feb 2016
+2016-03-29 14:59:42 INFO  WebCrawler:91 - Finished writingFeb 2016
+2016-03-29 14:59:42 INFO  WebCrawler:98 - Preparing word document
+2016-03-29 14:59:42 INFO  WebCrawler:84 - Created work book
+2016-03-29 14:59:42 INFO  WebCrawler:88 - Preparing data of Jan 2016
+2016-03-29 14:59:42 INFO  WebCrawler:91 - Finished writingJan 2016
+2016-03-29 14:59:42 INFO  WebCrawler:98 - Preparing word document
+2016-03-29 15:01:53 INFO  FileHelper:34 - Directory  already exist with name /home/lakshmanar/YEAR 2016
+2016-03-29 15:01:53 INFO  WebCrawler:42 - Crawler Base URL  :http://mail-archives.apache.org/mod_mbox/maven-users/
+2016-03-29 15:01:53 INFO  WebCrawler:44 - Reading mail of year 2016
+2016-03-29 15:01:54 INFO  WebCrawler:84 - Created work book
+2016-03-29 15:01:54 INFO  WebCrawler:88 - Preparing data of Mar 2016
+2016-03-29 15:01:54 INFO  WebCrawler:91 - Finished writingMar 2016
+2016-03-29 15:01:54 INFO  WebCrawler:98 - Preparing word document
+2016-03-29 15:01:55 INFO  WebCrawler:84 - Created work book
+2016-03-29 15:01:55 INFO  WebCrawler:88 - Preparing data of Feb 2016
+2016-03-29 15:01:55 INFO  WebCrawler:91 - Finished writingFeb 2016
+2016-03-29 15:01:55 INFO  WebCrawler:98 - Preparing word document
+2016-03-29 15:01:55 INFO  WebCrawler:84 - Created work book
+2016-03-29 15:01:55 INFO  WebCrawler:88 - Preparing data of Jan 2016
+2016-03-29 15:01:55 INFO  WebCrawler:91 - Finished writingJan 2016
+2016-03-29 15:01:55 INFO  WebCrawler:98 - Preparing word document
+2016-03-29 15:17:28 INFO  FileHelper:34 - Directory  already exist with name /home/lakshmanar/YEAR 2016
+2016-03-29 15:17:28 INFO  WebCrawler:42 - Crawler Base URL  :http://mail-archives.apache.org/mod_mbox/maven-users/
+2016-03-29 15:17:28 INFO  WebCrawler:44 - Reading mail of year 2016
+2016-03-29 15:17:31 INFO  WebCrawler:84 - Created work book
+2016-03-29 15:17:31 INFO  WebCrawler:88 - Preparing data of Mar 2016
+2016-03-29 15:17:31 INFO  WebCrawler:91 - Finished writingMar 2016
+2016-03-29 15:17:31 INFO  WebCrawler:98 - Preparing word document
+2016-03-29 15:17:32 INFO  WebCrawler:84 - Created work book
+2016-03-29 15:17:32 INFO  WebCrawler:88 - Preparing data of Feb 2016
+2016-03-29 15:17:32 INFO  WebCrawler:91 - Finished writingFeb 2016
+2016-03-29 15:17:32 INFO  WebCrawler:98 - Preparing word document
+2016-03-29 15:17:32 INFO  WebCrawler:84 - Created work book
+2016-03-29 15:17:32 INFO  WebCrawler:88 - Preparing data of Jan 2016
+2016-03-29 15:17:32 INFO  WebCrawler:91 - Finished writingJan 2016
+2016-03-29 15:17:32 INFO  WebCrawler:98 - Preparing word document
+2016-03-29 16:08:17 INFO  FileHelper:34 - Directory  already exist with name /home/lakshmanar/YEAR 2016
+2016-03-29 16:08:17 INFO  MailIndexReaderImpl:47 - Response is :null
+2016-03-29 16:08:18 INFO  MailIndexReader:27 - Running MailReade test cases...
+2016-03-29 16:08:18 INFO  MailIndexReader:32 - Calling readMail method with parameters url as null 
+2016-03-29 16:08:18 INFO  MailIndexReader:40 - Calling readMail method with parameters url as null 
+2016-03-29 16:08:18 INFO  MailIndexReader:53 - Calling readMail method with parameters url as null 
+2016-03-29 16:08:18 INFO  MailReaderImpl:51 - Response is :null
+2016-03-30 12:59:12 INFO  FileHelper:34 - Directory  already exist with name /home/lakshmanar/YEAR 2016
+2016-03-30 12:59:12 INFO  WebCrawler:42 - Crawler Base URL  :http://mail-archives.apache.org/mod_mbox/maven-users/
+2016-03-30 12:59:12 INFO  WebCrawler:44 - Reading mail of year 2016
+2016-03-30 12:59:15 INFO  WebCrawler:84 - Created work book
+2016-03-30 12:59:15 INFO  WebCrawler:88 - Preparing data of Mar 2016
+2016-03-30 12:59:15 INFO  WebCrawler:91 - Finished writingMar 2016
+2016-03-30 12:59:15 INFO  WebCrawler:98 - Preparing word document
+2016-03-30 12:59:15 INFO  WebCrawler:84 - Created work book
+2016-03-30 12:59:15 INFO  WebCrawler:88 - Preparing data of Feb 2016
+2016-03-30 12:59:15 INFO  WebCrawler:91 - Finished writingFeb 2016
+2016-03-30 12:59:15 INFO  WebCrawler:98 - Preparing word document
+2016-03-30 12:59:16 INFO  WebCrawler:84 - Created work book
+2016-03-30 12:59:16 INFO  WebCrawler:88 - Preparing data of Jan 2016
+2016-03-30 12:59:16 INFO  WebCrawler:91 - Finished writingJan 2016
+2016-03-30 12:59:16 INFO  WebCrawler:98 - Preparing word document
+2016-03-30 13:57:27 INFO  FileHelper:34 - Directory  already exist with name /home/lakshmanar/YEAR 2016
+2016-03-30 13:57:27 INFO  WebCrawler:42 - Crawler Base URL  :http://mail-archives.apache.org/mod_mbox/maven-users/
+2016-03-30 13:57:27 INFO  WebCrawler:44 - Reading mail of year 2016
+2016-03-30 13:58:41 INFO  FileHelper:34 - Directory  already exist with name /home/lakshmanar/YEAR 2016
+2016-03-30 13:58:41 INFO  WebCrawler:42 - Crawler Base URL  :http://mail-archives.apache.org/mod_mbox/maven-users/
+2016-03-30 13:58:41 INFO  WebCrawler:44 - Reading mail of year 2016
+2016-03-30 14:00:31 INFO  FileHelper:34 - Directory  already exist with name /home/lakshmanar/YEAR 2016
+2016-03-30 14:00:31 INFO  WebCrawler:42 - Crawler Base URL  :http://mail-archives.apache.org/mod_mbox/maven-users/
+2016-03-30 14:00:31 INFO  WebCrawler:44 - Reading mail of year 2016
+2016-03-30 14:00:33 INFO  WebCrawler:85 - Created work book
+2016-03-30 14:00:33 INFO  WebCrawler:89 - Preparing data of Mar 2016
+2016-03-30 14:00:33 INFO  WebCrawler:92 - Finished writingMar 2016
+2016-03-30 14:00:33 INFO  WebCrawler:99 - Preparing word document
+2016-03-30 14:00:34 INFO  WebCrawler:85 - Created work book
+2016-03-30 14:00:34 INFO  WebCrawler:89 - Preparing data of Feb 2016
+2016-03-30 14:00:34 INFO  WebCrawler:92 - Finished writingFeb 2016
+2016-03-30 14:00:34 INFO  WebCrawler:99 - Preparing word document
+2016-03-30 14:00:34 INFO  WebCrawler:85 - Created work book
+2016-03-30 14:00:34 INFO  WebCrawler:89 - Preparing data of Jan 2016
+2016-03-30 14:00:34 INFO  WebCrawler:92 - Finished writingJan 2016
+2016-03-30 14:00:34 INFO  WebCrawler:99 - Preparing word document
