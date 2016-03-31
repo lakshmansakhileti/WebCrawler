@@ -10,7 +10,7 @@ public class MessageData {
 	
 	private String author; // to store author details.
 	private String url; // to store url value
-	private String date;
+	private String date; // to store date value.
 	
 	public String getAuthor() {
 		return author;
